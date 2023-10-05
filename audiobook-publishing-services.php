@@ -11,10 +11,10 @@
          <div class="row justify-content-center">
             <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                <div class="banner-content-service">
-                  <h1>One-stop Destination For Competent And Professional<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Ghostwriting Services
-                     </span>
+                  <h1>Are You Looking For The Best Audiobook <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Publishing? You've Got To 
+                     </span>The Right Place!
                   </h1>
-                  <p>If you are planning to become a bestseller and you want to live this dream, then you have landed in the right place. Our team of expert ghostwriting services works diligently to produce high-quality content while meeting your specified deadline</p>
+                  <p>Are you exploring a narrator for your audiobook who can make your story come to life? Look nowhere else! Best book writers take pride in providing exceptional audiobook publishing services customized to each client's requirements. We have a team of outstanding audiobook narrators committed to providing captivating performances that hold listeners' attention from beginning to end and have a variety of genre specialties. Additionally, we use innovative sound engineering methods and recording technology to make audiobooks up to the highest quality standards.</p>
                   <div class="banner-btn">
                   <div class="getint">
                                         <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
@@ -45,8 +45,8 @@
          <div class="row">
             <div class="col-md-12">
                <div class="about-servies">
-                  <h1>The Goal Of Our Team Is To Relay Your Story.</h1>
-                  <p>Best Book Writers is a professional ghostwriting service that has helped hundreds of individuals share their stories with the world. We can turn your dream into reality! Our team is an expert in ghostwriting services in genres like fiction, nonfiction, and autobiography will help you produce books for any audience. Whether it be horror or romance, bookshelves everywhere are waiting to hear what happens next!<br><br> We provide a comprehensive solution for all your book-writing requirements. We produce compelling and captivating content to engage the audience, edit format, publish, and promote work that will make great sales in USA's next bestseller! So what are you waiting for? Contact us today so we can help turn even an average person into something extraordinary through our affordable ghostwriting services.</p>
+                  <h1>Hire An Audiobook Narrator Who Speaks To You.</h1>
+                  <p>A narrator is essential if you've written a book. Top narrators at Best Book Writers are working with us to meet your requirements. Hire an audiobook narrator to assist in improving your story and producing a memorable listening experience.</p>
                </div>
             </div>
          </div>
@@ -54,26 +54,30 @@
    </section>
    <section class="little-intro-services">
       <div class="container">
-         <div class="row justify-content-center align-items-center about-box-alignment">
+      <div class="row justify-content-center align-items-center about-box-alignment">
             <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
-                  <h6>Ghostwriting</h6>
-                  <h2>Our Writers Possess High <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Qualifications </span> In Various Niches!</h2>
-                  <p>We are a creative bunch of aspiring adults who are making things happen for people with kickass ideas and amazing stories to tell. We write books on behalf of those individuals, giving them a voice in an increasingly busy world where one's individuality can be lost within seconds if not premiered properly-and then there is always our passion. More than a decade-long collective experience has enabled us to specialize globally in writing services offered worldwide.</p>
-                  <div class="checklist-box">
-                     <div class="check-list-about">
+                  <h6>Audiobook Publishing</h6>
+                  <h2>Bring Your Story To Life <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">   With The Perfect  </span> Audiobook Narrator.</h2>
+                  <p>Audio is one of the book industry's fastest-growing areas, and it's now simpler than ever to download and listen to audiobooks on the move. It is quick and easy to cast and hire a voice actor to record your book as an audiobook. You can employ solo narration or an individual narrator for an audiobook. Alternatively, you could use a cast of narrators to voice various roles. We have highly skilled audiobook narrators who comprehend the significance of each critical component contributing to the best narrating and incorporating it into their position. Our audiobook narrators are professional at ensuring consistency in solo and multi-voice narration. We continuously review our prior audios to verify consistency and maintain quality. Best book writers offer a variety of promotional tools to help authors promote their audiobooks and reach a wider audience through audible self-publishing services. Hiring our professional audiobook publishers to narrate your audiobook's quality and sales can be significantly enhanced.</p>
+                  <!-- <div class="checklist-box">
+                     <div class="check-list-about1">
                         <div class="check-list1">
                            <img src="images/check-ico.svg" alt="">
-                           <p>Timely delivery</p>
+                           <p>A talented illustrator will complement the story and make your book visually appealing.</p>
                         </div>
                         <div class="check-list1">
                            <img src="images/check-ico.svg" alt="">
-                           <p>100% original content production</p>
+                           <p>Share your illustrator with the concepts, styles, and vision.</p>
                         </div>
                         <div class="check-list1">
                            <img src="images/check-ico.svg" alt="">
-                           <p>Proactive customer support services</p>
+                           <p>Find an illustrator that shares your preferences and objectives in design rather than attempting to change their style to fit yours.</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Best book writers can assist you in selecting the ideal illustrator and ensuring that you provide them with the appropriate amount of structure and creative freedom.</p>
                         </div>
                      </div>
                      <div class="check-list-about">
@@ -86,7 +90,7 @@
                            <p>Unlimited revisions</p>
                         </div>
                      </div>
-                  </div>
+                  </div> -->
                   <div class="about-btn-inner">
                   <div class="getint">
                                         <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
@@ -113,7 +117,129 @@
                </div>
             </div>
          </div>
+      <div class="row justify-content-center align-items-center about-box-alignment">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+                  <div class="little-intro-img">
+                     <img src="images/abt-img2.png" alt="">
+                  </div>
+               </div>
+               <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+                  <div class="little-intro-content">
+                     <img src="images/pen-about.png" class="abt-pen" alt="">
+                     <h6>Audiobook Publishing</h6>
+                     <h2>Why Should You Hire Our <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Audiobook Publishing  </span>  Services?</h2>
+                     <p>Our talented group of audiobook specialists has the tools and abilities required to finish your project. Our audiobook narrators ensure consistency is maintained by continuously evaluating their prior narrations. The identical pronunciations, narration style, and dialogue delivery are kept throughout.</p>
+                     <!-- <div class="checklist-box">
+                        <div class="check-list-about">
+                           <div class="check-list1">
+                              <img src="images/check-ico.svg" alt="">
+                              <p>Timely delivery</p>
+                           </div>
+                           <div class="check-list1">
+                              <img src="images/check-ico.svg" alt="">
+                              <p>100% original content production</p>
+                           </div>
+                           <div class="check-list1">
+                              <img src="images/check-ico.svg" alt="">
+                              <p>Proactive customer support services</p>
+                           </div>
+                        </div>
+                        <div class="check-list-about">
+                           <div class="check-list1">
+                              <img src="images/check-ico.svg" alt="">
+                              <p>Creative writing skills</p>
+                           </div>
+                           <div class="check-list1">
+                              <img src="images/check-ico.svg" alt="">
+                              <p>Unlimited revisions</p>
+                           </div>
+                        </div>
+                     </div> -->
+                     <div class="about-btn-inner">
+                     <div class="getint">
+                                           <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                                       </div>
+                        <div class="number-btn-about">
+                           <a href="tel:+1-737-881-7227">
+                              <div class="about-phone">
+                                 <div class="about-icon_phone">
+                                    <i class="fa fa-phone" aria-hidden="true"></i>
+                                 </div>
+                                 <div class="about-head_phone">
+                                    <h5>.Live Chat</h5>
+                                    <h4>+1-737-881-7227</h4>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+         </div>
          <div class="row justify-content-center align-items-center about-box-alignment">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+               <div class="little-intro-content">
+                  <img src="images/pen-about.png" class="abt-pen" alt="">
+                  <h6>Audiobook Publishing</h6>
+                  <h2>Offering Reliable, Comprehensive, <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  And Professional Self-publishing </span>Audiobooks.</h2>
+                  <p>We assist authors and publishers as they record and create audiobooks. From the start of the project to the finished output, our main objective is to deliver an exceptional audiobook publishing service. We specialize in dealing with authors wishing to narrate their audiobooks and offer full audiobook creation options, from independent authors to tremendous publishers.</p>
+                  <!-- <div class="checklist-box">
+                     <div class="check-list-about1">
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>A talented illustrator will complement the story and make your book visually appealing.</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Share your illustrator with the concepts, styles, and vision.</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Find an illustrator that shares your preferences and objectives in design rather than attempting to change their style to fit yours.</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Best book writers can assist you in selecting the ideal illustrator and ensuring that you provide them with the appropriate amount of structure and creative freedom.</p>
+                        </div>
+                     </div>
+                     <div class="check-list-about">
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Creative writing skills</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Unlimited revisions</p>
+                        </div>
+                     </div>
+                  </div> -->
+                  <div class="about-btn-inner">
+                  <div class="getint">
+                                        <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                                    </div>
+                     <div class="number-btn-about">
+                        <a href="tel:+1-737-881-7227">
+                           <div class="about-phone">
+                              <div class="about-icon_phone">
+                                 <i class="fa fa-phone" aria-hidden="true"></i>
+                              </div>
+                              <div class="about-head_phone">
+                                 <h5>.Live Chat</h5>
+                                 <h4>+1-737-881-7227</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+               <div class="little-intro-img">
+                  <img src="images/abt-img.png" alt="">
+               </div>
+            </div>
+         </div>         
+         <!-- <div class="row justify-content-center align-items-center about-box-alignment">
             <div class="col-sm-12">
                <div class="our-services-boxes">
                   <h1>What Makes Our Ghostwriting Services A Preferable Choice?</h1>
@@ -248,7 +374,7 @@
                             </div>
                     </div>
             </div>
-         </div>
+         </div> -->
       </div>
    </section>
    <section class="book-qoute-abt">

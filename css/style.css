@@ -7,7 +7,7 @@
 }
 
 .caro-item {
-  --items: 10;
+  --items: 33;
   --width: clamp(150px, 30vw, 300px);
   --height: clamp(200px, 40vw, 400px);
   --x: calc(var(--active) * 800%);

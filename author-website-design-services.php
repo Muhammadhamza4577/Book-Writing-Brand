@@ -11,10 +11,9 @@
          <div class="row justify-content-center">
             <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                <div class="banner-content-service">
-                  <h1>One-stop Destination For Competent And Professional<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Ghostwriting Services
-                     </span>
+                  <h1>Professional Author Website Design Services <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Present Your Books, Expand Your Readership</span>, And Attract In Your Ideal Audience
                   </h1>
-                  <p>If you are planning to become a bestseller and you want to live this dream, then you have landed in the right place. Our team of expert ghostwriting services works diligently to produce high-quality content while meeting your specified deadline</p>
+                  <p>Do you want to greatly simplify the path to becoming a flourishing author? Give your website a polished appearance by using our author website design right away!</p>
                   <div class="banner-btn">
                   <div class="getint">
                                         <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
@@ -45,8 +44,8 @@
          <div class="row">
             <div class="col-md-12">
                <div class="about-servies">
-                  <h1>The Goal Of Our Team Is To Relay Your Story.</h1>
-                  <p>Best Book Writers is a professional ghostwriting service that has helped hundreds of individuals share their stories with the world. We can turn your dream into reality! Our team is an expert in ghostwriting services in genres like fiction, nonfiction, and autobiography will help you produce books for any audience. Whether it be horror or romance, bookshelves everywhere are waiting to hear what happens next!<br><br> We provide a comprehensive solution for all your book-writing requirements. We produce compelling and captivating content to engage the audience, edit format, publish, and promote work that will make great sales in USA's next bestseller! So what are you waiting for? Contact us today so we can help turn even an average person into something extraordinary through our affordable ghostwriting services.</p>
+                  <h1>Custom Author Website Design <br>Allow Us To Create For You An Author Website That Grabs Readers.</h1>
+                  <p>One of the best places for sharing thoughts about the steps involved in your book-writing journey, reviews, news, and other topics is a website. Your Search Engine Optimisation (SEO) will improve with blogs, and it will be simple to connect with readers and find out what they think of the writing. This is beneficial since it provides exposure, ideas, and a deep connection with your readers. Having an author website is vital because doing that at the moment is challenging.<br> The best book writers build user-friendly websites that always look pleasant and have a wider audience. Your time is limited leading up to the publication of your book. Therefore you should focus on high-value promotional duties rather than getting frustrated creating a useful and appealing book author website.</p>
                </div>
             </div>
          </div>
@@ -58,10 +57,10 @@
             <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
-                  <h6>Ghostwriting</h6>
-                  <h2>Our Writers Possess High <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Qualifications </span> In Various Niches!</h2>
-                  <p>We are a creative bunch of aspiring adults who are making things happen for people with kickass ideas and amazing stories to tell. We write books on behalf of those individuals, giving them a voice in an increasingly busy world where one's individuality can be lost within seconds if not premiered properly-and then there is always our passion. More than a decade-long collective experience has enabled us to specialize globally in writing services offered worldwide.</p>
-                  <div class="checklist-box">
+                  <h6>Author Website Designer</h6>
+                  <h2>Hire Author Website Designer <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  At Best Book  </span> Writers</h2>
+                  <p>Whether you're a best-selling author, a freelance writer, or a blogger, showing your work requires a well-designed author website. Our author website designers are working with writers to develop websites that are not only attractive to look at but also simple to operate freely.</p>
+                  <!-- <div class="checklist-box">
                      <div class="check-list-about">
                         <div class="check-list1">
                            <img src="images/check-ico.svg" alt="">
@@ -86,7 +85,7 @@
                            <p>Unlimited revisions</p>
                         </div>
                      </div>
-                  </div>
+                  </div> -->
                   <div class="about-btn-inner">
                   <div class="getint">
                                         <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
@@ -114,10 +113,73 @@
             </div>
          </div>
          <div class="row justify-content-center align-items-center about-box-alignment">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+                  <div class="little-intro-img">
+                     <img src="images/abt-img2.png" alt="">
+                  </div>
+               </div>
+               <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+               <div class="little-intro-content">
+                  <img src="images/pen-about.png" class="abt-pen" alt="">
+                  <h6>Author Website Designer</h6>
+                  <h2>Our Expert Website Designers For Authors Focuses <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  On Providing A Stunning, Personalized </span>Word Press Site At An Affordable Price.</h2>
+                  <p>Best book writers renowned with authors since we're simple to deal with and have a thorough understanding of the elements that make up an excellent book author website. We make changes to your website so that it functions and looks terrific. Your website should display your work and emphasize your professionalism. We excelhttp://localhost/newpageadd/images/grab-readers.jpg in creating unique portfolios that highlight your writing.<br><br>Our website design for writers focusing on the elements that are most important to writers. Our WordPress websites are quicker and better optimized to rank higher across the board. For better reader access, we integrate with your social network accounts. Every website has a connection to Google Analytics, allowing you to monitor your visitors starting on the day it launches.</p>
+                  <!-- <div class="checklist-box">
+                     <div class="check-list-about1">
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>A talented illustrator will complement the story and make your book visually appealing.</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Share your illustrator with the concepts, styles, and vision.</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Find an illustrator that shares your preferences and objectives in design rather than attempting to change their style to fit yours.</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Best book writers can assist you in selecting the ideal illustrator and ensuring that you provide them with the appropriate amount of structure and creative freedom.</p>
+                        </div>
+                     </div>
+                     <div class="check-list-about">
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Creative writing skills</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Unlimited revisions</p>
+                        </div>
+                     </div>
+                  </div> -->
+                  <div class="about-btn-inner">
+                  <div class="getint">
+                                        <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                                    </div>
+                     <div class="number-btn-about">
+                        <a href="tel:+1-737-881-7227">
+                           <div class="about-phone">
+                              <div class="about-icon_phone">
+                                 <i class="fa fa-phone" aria-hidden="true"></i>
+                              </div>
+                              <div class="about-head_phone">
+                                 <h5>.Live Chat</h5>
+                                 <h4>+1-737-881-7227</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="row justify-content-center align-items-center about-box-alignment">
             <div class="col-sm-12">
                <div class="our-services-boxes">
-                  <h1>What Makes Our Ghostwriting Services A Preferable Choice?</h1>
-                  <p>Rather than just encouraging you to read about us, we urge you to take action by requesting a free quote to experience the low cost ghostwriting company.</p>
+                  <h1>Features We Provide On Every Wordpress Authors Website</h1>
+                  <p>Web design for authors is the best for spreading the word about your work. You can efficiently utilize it as a platform to showcase your book, engage with readers, and build an online network. Following are the main website features that, in our opinion, are a "must have" to get developing by the best book writers.</p>
                </div>
             </div>
             <div class="col-sm-12">
@@ -134,17 +196,17 @@
                                     <div class="empty-box"></div>
                                 </div>
                                 <div class="service-head1">
-                                    <h1>Professional writers and editors</h1>
+                                    <h1>Responsive Design</h1>
                                 </div>
                                 <div class="service-divider">
                                     <div class="divider"></div>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Our team of professional writers and editors at Best Book Writers is committed to providing top-quality writing and editing services for your book.</p>
+                                    <p>We develop websites that function on all types of devices, including phones and gadgets. Our expert web design for authors create web pages that can adjust to any screen size when it is loaded.</p>
                                 </div>
-                                <div class="service-btn">
+                                <!-- <div class="service-btn">
                                     <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-sm-3">
@@ -159,17 +221,17 @@
                                     <div class="empty-box"></div>
                                 </div>
                                 <div class="service-head1">
-                                    <h1>Personalized approach</h1>
+                                    <h1>SEO Friendly</h1>
                                 </div>
                                 <div class="service-divider">
                                     <div class="divider"></div>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Our personalized approach guarantees that each client receives individual attention and solutions tailored to their needs.</p>
+                                    <p>All of our websites incorporate SEO best practices into the code and content to increase your website's exposure in search results.</p>
                                 </div>
-                                <div class="service-btn">
+                                <!-- <div class="service-btn">
                                     <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-sm-3">
@@ -184,17 +246,17 @@
                                     <div class="empty-box"></div>
                                 </div>
                                 <div class="service-head1">
-                                    <h1>Unlimited revisions</h1>
+                                    <h1>Analytics</h1>
                                 </div>
                                 <div class="service-divider">
                                     <div class="divider"></div>
                                 </div>
                                 <div class="service-desc">
-                                    <p>At Best Book Writers, we believe in delivering high-quality work that meets the satisfaction of our clients. We offer unlimited revisions on all our writing and editing services to ensure this. We aim to provide you're delighted with our work.</p>
+                                    <p>Your Google Analytics integration is set up and installed, enabling you to monitor the activity of visitors and customer information as soon as your website becomes online.</p>
                                 </div>
-                                <div class="service-btn">
+                                <!-- <div class="service-btn">
                                     <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-sm-3" >
@@ -209,17 +271,17 @@
                                     <div class="empty-box"></div>
                                 </div>
                                 <div class="service-head1">
-                                    <h1>Renowned publishing</h1>
+                                    <h1>Security</h1>
                                 </div>
                                 <div class="service-divider">
                                     <div class="divider"></div>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Using our ghostwriting services, you can take advantage of our connections with renowned publishing companies and literary agents. We have assisted many clients in realizing their dreams of becoming published authors and can walk you through the complete publishing procedure.</p>
+                                    <p>When designing and hosting, we consider security issues very seriously and we will ensure that security of the website will be up to the mark as per needed and will therefore set up a session to make sure that you are fully satisfied.</p>
                                 </div>
-                                <div class="service-btn">
+                                <!-- <div class="service-btn">
                                     <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-sm-3">
@@ -234,17 +296,42 @@
                                     <div class="empty-box"></div>
                                 </div>
                                 <div class="service-head1">
-                                    <h1>Publication navigation</h1>
+                                    <h1>Coding</h1>
                                 </div>
                                 <div class="service-divider">
                                     <div class="divider"></div>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Publication navigation involves guiding clients through the stages necessary to release their book, such as choosing a publisher or self-publishing platform, formatting the manuscript, creating cover art, and deciding on a marketing strategy.</p>
+                                    <p>Our focused deployment techniques allow us to quickly create, update, and customized your website and web pages. Most websites launch in within two weeks once we have all of your components.</p>
                                 </div>
-                                <div class="service-btn">
+                                <!-- <div class="service-btn">
                                     <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
+                                </div> -->
+                            </div>
+                    </div>
+                    <div class="col-sm-3">
+                            <div class="service-inner-box">
+                                <div class="service-box">
+                                    <div class="service-num">
+                                        <h1>06</h1>
+                                    </div>
+                                    <div class="service-ico">
+                                        <img src="images/service-01.png" alt="">
+                                    </div>
+                                    <div class="empty-box"></div>
                                 </div>
+                                <div class="service-head1">
+                                    <h1>Automatics Backups</h1>
+                                </div>
+                                <div class="service-divider">
+                                    <div class="divider"></div>
+                                </div>
+                                <div class="service-desc">
+                                    <p>Trouble can appear everywhere in life because things happen. Do not worry; we can quickly restore your site to normal according to our daily site backups.</p>
+                                </div>
+                                <!-- <div class="service-btn">
+                                    <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
+                                </div> -->
                             </div>
                     </div>
             </div>

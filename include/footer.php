@@ -361,13 +361,13 @@ speed: 500,
 cssEase: 'linear',
 slidesToShow: 4,
 pauseOnHover:false,
-slidesToScroll: 1,
+slidesToScroll: 3,
 responsive: [
 {
 breakpoint: 1601,
 settings: {
 slidesToShow: 4,
-slidesToScroll: 1,
+slidesToScroll: 3,
 infinite: true,
 dots: true
 }
@@ -401,7 +401,6 @@ dots: true
 $('.testislider').slick({
   centerMode: true,
 autoplay:true,
-
   centerPadding: '60px',
   dots: true,
   slidesToShow: 4,
@@ -437,13 +436,13 @@ speed: 500,
 cssEase: 'linear',
 slidesToShow: 5,
 pauseOnHover:false,
-slidesToScroll: 1,
+slidesToScroll: 3,
 responsive: [
 {
 breakpoint: 1601,
 settings: {
 slidesToShow: 5,
-slidesToScroll: 1,
+slidesToScroll: 3,
 infinite: true,
 dots: true
 }

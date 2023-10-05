@@ -12,10 +12,10 @@
          <div class="row justify-content-center">
             <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                <div class="banner-content-service">
-                  <h1>One-stop Destination For Competent And Professional<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Ghostwriting Services
-                     </span>
+                  <h1>Get Beautiful And Reliable<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  Book Illustration Services 
+                     </span>By Best Book Writers
                   </h1>
-                  <p>If you are planning to become a bestseller and you want to live this dream, then you have landed in the right place. Our team of expert ghostwriting services works diligently to produce high-quality content while meeting your specified deadline</p>
+                  <p>Best Book Writers are the perfect company for you if you're a self-publishing author looking for beautiful book illustrations at an exceptional rate. Our online book illustrators draw stunning, entirely original images for any genre.</p>
                   <div class="banner-btn">
                   <div class="getint">
                                         <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
@@ -46,8 +46,8 @@
          <div class="row">
             <div class="col-md-12">
                <div class="about-servies">
-                  <h1>The Goal Of Our Team Is To Relay Your Story.</h1>
-                  <p>Best Book Writers is a professional ghostwriting service that has helped hundreds of individuals share their stories with the world. We can turn your dream into reality! Our team is an expert in ghostwriting services in genres like fiction, nonfiction, and autobiography will help you produce books for any audience. Whether it be horror or romance, bookshelves everywhere are waiting to hear what happens next!<br><br> We provide a comprehensive solution for all your book-writing requirements. We produce compelling and captivating content to engage the audience, edit format, publish, and promote work that will make great sales in USA's next bestseller! So what are you waiting for? Contact us today so we can help turn even an average person into something extraordinary through our affordable ghostwriting services.</p>
+                  <h1>With Each Brushstroke, Explore A World Of Wonder - Hire Children's Book Illustrator At Best Book Writers</h1>
+                  <p>Children's book illustrators at Best Book Writers understand how to use color, composition, and perspective to produce images that inspire and entertain young readers and add to the stories. Your book will become much more special with original children's illustrations. To provide distinctive visuals for your narrative, poem, or fairy tale, we have partnered with talented illustrators from the USA. <br><br>Need assistance editing your book or need custom children's book illustrations? Let us launch your story like a rocket!</p>
                </div>
             </div>
          </div>
@@ -55,26 +55,30 @@
    </section>
    <section class="little-intro-services">
       <div class="container">
-         <div class="row justify-content-center align-items-center about-box-alignment">
+      <div class="row justify-content-center align-items-center about-box-alignment">
             <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
-                  <h6>Ghostwriting</h6>
-                  <h2>Our Writers Possess High <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Qualifications </span> In Various Niches!</h2>
-                  <p>We are a creative bunch of aspiring adults who are making things happen for people with kickass ideas and amazing stories to tell. We write books on behalf of those individuals, giving them a voice in an increasingly busy world where one's individuality can be lost within seconds if not premiered properly-and then there is always our passion. More than a decade-long collective experience has enabled us to specialize globally in writing services offered worldwide.</p>
-                  <div class="checklist-box">
-                     <div class="check-list-about">
+                  <h6>Book Illustration</h6>
+                  <h2>Book Illustration Services from <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  Our Elite Team of Book Illustrators  </span> for Hire</h2>
+                  <p>Best Book Writers have experience providing book illustration services for printing and ebooks. Your nightmare of having illustrations that are the wrong format or size will never come true when working with us. Hire book illustrator and do your story justice and create an emotional connection.</p>
+                  <!-- <div class="checklist-box">
+                     <div class="check-list-about1">
                         <div class="check-list1">
                            <img src="images/check-ico.svg" alt="">
-                           <p>Timely delivery</p>
+                           <p>A talented illustrator will complement the story and make your book visually appealing.</p>
                         </div>
                         <div class="check-list1">
                            <img src="images/check-ico.svg" alt="">
-                           <p>100% original content production</p>
+                           <p>Share your illustrator with the concepts, styles, and vision.</p>
                         </div>
                         <div class="check-list1">
                            <img src="images/check-ico.svg" alt="">
-                           <p>Proactive customer support services</p>
+                           <p>Find an illustrator that shares your preferences and objectives in design rather than attempting to change their style to fit yours.</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Best book writers can assist you in selecting the ideal illustrator and ensuring that you provide them with the appropriate amount of structure and creative freedom.</p>
                         </div>
                      </div>
                      <div class="check-list-about">
@@ -87,7 +91,129 @@
                            <p>Unlimited revisions</p>
                         </div>
                      </div>
+                  </div> -->
+                  <div class="about-btn-inner">
+                  <div class="getint">
+                                        <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                                    </div>
+                     <div class="number-btn-about">
+                        <a href="tel:+1-737-881-7227">
+                           <div class="about-phone">
+                              <div class="about-icon_phone">
+                                 <i class="fa fa-phone" aria-hidden="true"></i>
+                              </div>
+                              <div class="about-head_phone">
+                                 <h5>.Live Chat</h5>
+                                 <h4>+1-737-881-7227</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
                   </div>
+               </div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+               <div class="little-intro-img">
+                  <img src="images/abt-img.png" alt="">
+               </div>
+            </div>
+         </div>
+      <div class="row justify-content-center align-items-center about-box-alignment">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+                  <div class="little-intro-img">
+                     <img src="images/abt-img2.png" alt="">
+                  </div>
+               </div>
+               <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+                  <div class="little-intro-content">
+                     <img src="images/pen-about.png" class="abt-pen" alt="">
+                     <h6>Book Illustration</h6>
+                     <h2>Hire Children’s Book <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Illustrators at Best </span>  Book Writers</h2>
+                     <p>We offer Stunning, realistic book images that engage readers and help bring your stories to life. With vibrant, in-depth graphics that set your book apart from the competition, you can make people come into being and landscapes leap off the page. A little visual aid can sometimes make a big difference in poetry or children's book illustration.</p>
+                     <!-- <div class="checklist-box">
+                        <div class="check-list-about">
+                           <div class="check-list1">
+                              <img src="images/check-ico.svg" alt="">
+                              <p>Timely delivery</p>
+                           </div>
+                           <div class="check-list1">
+                              <img src="images/check-ico.svg" alt="">
+                              <p>100% original content production</p>
+                           </div>
+                           <div class="check-list1">
+                              <img src="images/check-ico.svg" alt="">
+                              <p>Proactive customer support services</p>
+                           </div>
+                        </div>
+                        <div class="check-list-about">
+                           <div class="check-list1">
+                              <img src="images/check-ico.svg" alt="">
+                              <p>Creative writing skills</p>
+                           </div>
+                           <div class="check-list1">
+                              <img src="images/check-ico.svg" alt="">
+                              <p>Unlimited revisions</p>
+                           </div>
+                        </div>
+                     </div> -->
+                     <div class="about-btn-inner">
+                     <div class="getint">
+                                           <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                                       </div>
+                        <div class="number-btn-about">
+                           <a href="tel:+1-737-881-7227">
+                              <div class="about-phone">
+                                 <div class="about-icon_phone">
+                                    <i class="fa fa-phone" aria-hidden="true"></i>
+                                 </div>
+                                 <div class="about-head_phone">
+                                    <h5>.Live Chat</h5>
+                                    <h4>+1-737-881-7227</h4>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+         </div>
+         <div class="row justify-content-center align-items-center about-box-alignment">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+               <div class="little-intro-content">
+                  <img src="images/pen-about.png" class="abt-pen" alt="">
+                  <h6>Book Illustration</h6>
+                  <h2>Appealing Illustrations <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  Will Attract  </span>Your Readers' Attention.</h2>
+                  <p>We have a pool of expert online book illustrators available for hiring who can assist in making your concept a reality. Whether you require illustrations for a page cover or a character, you can rely on our illustrators to deliver outstanding pieces of art. We'll assist you in selecting an illustrator whose approach fits your book.</p>
+                  <!-- <div class="checklist-box">
+                     <div class="check-list-about1">
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>A talented illustrator will complement the story and make your book visually appealing.</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Share your illustrator with the concepts, styles, and vision.</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Find an illustrator that shares your preferences and objectives in design rather than attempting to change their style to fit yours.</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Best book writers can assist you in selecting the ideal illustrator and ensuring that you provide them with the appropriate amount of structure and creative freedom.</p>
+                        </div>
+                     </div>
+                     <div class="check-list-about">
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Creative writing skills</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Unlimited revisions</p>
+                        </div>
+                     </div>
+                  </div> -->
                   <div class="about-btn-inner">
                   <div class="getint">
                                         <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
@@ -115,6 +241,70 @@
             </div>
          </div>
          <div class="row justify-content-center align-items-center about-box-alignment">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+                  <div class="little-intro-img">
+                     <img src="images/abt-img2.png" alt="">
+                  </div>
+               </div>
+               <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+               <div class="little-intro-content">
+                  <img src="images/pen-about.png" class="abt-pen" alt="">
+                  <h6>Book Illustration</h6>
+                  <h2>Before Choosing An<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  Illustrator</span>, Focus On Your Style.</h2>
+                  <!-- <p>We are a creative bunch of aspiring adults who are making things happen for people with kickass ideas and amazing stories to tell. We write books on behalf of those individuals, giving them a voice in an increasingly busy world where one's individuality can be lost within seconds if not premiered properly-and then there is always our passion. More than a decade-long collective experience has enabled us to specialize globally in writing services offered worldwide.</p> -->
+                  <div class="checklist-box">
+                     <div class="check-list-about1">
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>A talented illustrator will complement the story and make your book visually appealing.</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Share your illustrator with the concepts, styles, and vision.</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Find an illustrator that shares your preferences and objectives in design rather than attempting to change their style to fit yours.</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Best book writers can assist you in selecting the ideal illustrator and ensuring that you provide them with the appropriate amount of structure and creative freedom.</p>
+                        </div>
+                     </div>
+                     <!-- <div class="check-list-about">
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Creative writing skills</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Unlimited revisions</p>
+                        </div>
+                     </div> -->
+                  </div>
+                  <div class="about-btn-inner">
+                  <div class="getint">
+                                        <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                                    </div>
+                     <div class="number-btn-about">
+                        <a href="tel:+1-737-881-7227">
+                           <div class="about-phone">
+                              <div class="about-icon_phone">
+                                 <i class="fa fa-phone" aria-hidden="true"></i>
+                              </div>
+                              <div class="about-head_phone">
+                                 <h5>.Live Chat</h5>
+                                 <h4>+1-737-881-7227</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         
+         <!-- <div class="row justify-content-center align-items-center about-box-alignment">
             <div class="col-sm-12">
                <div class="our-services-boxes">
                   <h1>What Makes Our Ghostwriting Services A Preferable Choice?</h1>
@@ -249,7 +439,7 @@
                             </div>
                     </div>
             </div>
-         </div>
+         </div> -->
       </div>
    </section>
    <section class="book-qoute-abt">
@@ -391,47 +581,47 @@
                             <div class="col-sm-6 process-boxes">
                                 <div class="process-box">
                                     <div class="process-number"><h1>01</h1></div>
-                                    <div class="process-name"><h1>Outline Drafting</h1>
+                                    <div class="process-name"><h1>Discussion Of Your Idead</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>Once we have gathered all of your information, our team will put together an outline for you..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">Once we have gathered all of your information, our team will put together an outline for you. This is the perfect way to make sure that every chapter fits with what's come before and after it in terms of direction.</span></div>
+                                    <div class="process-desc"><p>In this step, our illustration team wants you to contribute as much detail as you can, including ..</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">In this step, our illustration team wants you to contribute as much detail as you can, including handmade drawings, writing prompts, sketches, and images for inspiration.</span></div>
 
                                 </div>
                                 <div class="process-box">
                                     <div class="process-number"><h1>02</h1></div>
-                                    <div class="process-name"><h1>Ghostwriting</h1>
+                                    <div class="process-name"><h1>Character Concept And Story Board</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>The ghostwriting process starts as soon as you approve the outline. A suitable writer is assigned..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">The ghostwriting process starts as soon as you approve the outline. A suitable writer is assigned to work on your first chapter and sends back completed content every few weeks or months, depending upon how much editing needs to be done in between drafts. However, we manage the deadline based on your requests and demands.</span></div>
+                                    <div class="process-desc"><p>This step allows you to explore ideas further while also assisting you in knowing how the illustrator..</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">This step allows you to explore ideas further while also assisting you in knowing how the illustrator is interpreting your vision. If this is relevant to you, they can offer alternative concepts or variants on an exact topic, like different outfits for the main character. Discussions about color schemes are welcomed, as is input from you.</span></div>
 
                                 </div>
                             </div>
                             <div class="col-sm-6 process-boxes">
                                 <div class="process-box">
                                     <div class="process-number"><h1>03</h1></div>
-                                    <div class="process-name"><h1>Editing And Formatting</h1>
+                                    <div class="process-name"><h1>Feedback And Amendments</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>Best Book Writers will help you create a book that is free from errors and poor sentence structures..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">Best Book Writers will help you create a book that is free from errors and poor sentence structures. Our team of experts has rigorous editing on their tasks, making sure to give your content cleanliness while also making it easy for readers.</span></div>
+                                    <div class="process-desc"><p>Your input is considered while creating the artwork for the entire book, including choosing ..</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">Your input is considered while creating the artwork for the entire book, including choosing from various concept-related features to develop an artistic style that best portrays you. Before the final drawings are drawn up, you may make one more set of changes at each stage through our illustrations for books.</span></div>
                                 </div>
                                 <div class="process-box">
                                     <div class="process-number"><h1>04</h1></div>
-                                    <div class="process-name"><h1>Publishing</h1>
+                                    <div class="process-name"><h1>Finalization</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>After we've designed a captivating cover page for your book, the last step of our ghostwriting process..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">After we've designed a captivating cover page for your book, the last step of our ghostwriting process is to put it out there so everyone can read it. We do this with design skills and make sure that you are able to get access online or in stores. The publishing of your work is an important phase, and we handle this with care.</span></div>
+                                    <div class="process-desc"><p>In the final step, children's book illustrations will be created by the illustrator and made available..</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">In the final step, children's book illustrations will be created by the illustrator and made available for use in your manuscript.</span></div>
                                 </div>
                             </div>
                         </div>
@@ -447,10 +637,10 @@
                                 </div>
                                 <div class="banner-content2">
                                     <div class="desc-about-head">
-                                        <h1>A Sneak Preview Of<span class="brands-color"> Our Simplified</span> Process</h1>
-                                        <p> We understand the fact that writing a book is not an easy job. Our 5-step ghostwriting process is described below:</p>
-                                        <h1>Order<span class="brands-color"> Submission</span></h1>
-                                        <p>When you submit your request, our team will get back with a proposal. We'll discuss everything about the book, from genre and target audience to the number of chapters or pages it'll have in total. You can also share anything that's already written if needed for review purposes.</p>
+                                        <h1>From Concept To Creation,<span class="brands-color">  Bringing Your Story To </span> Life Through Illustration</h1>
+                                        <p> Writing and producing a book illustration in the format you require has never been simpler. Our book illustration services following the steps:</p>
+                                        <h1>Con<span class="brands-color">solation</span></h1>
+                                        <p>In the first step, you have to ensure that you and your designer follow the style of the illustrations. Our designer will consult with you directly. This step minimizes the possibility of you two responding improperly.</p>
                                     </div>
                                 </div>
                                 <div class="about-btn-inner">

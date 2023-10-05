@@ -212,7 +212,7 @@
 		<div class="caro-box">
 			<div class="title">Paris</div>
 			<div class="num">01</div>
-			<img src="images/books/book covers-01.jpg" />
+			<img src="images/books/book-covers-01.jpg" />
 		</div>
 	</div>
 
@@ -220,7 +220,7 @@
 		<div class="caro-box">
 			<div class="title">Warsaw</div>
 			<div class="num">02</div>
-			<img src="images/books/book covers-02.jpg" />
+			<img src="images/books/book-covers-02.jpg" />
 		</div>
 	</div>
 
@@ -228,7 +228,7 @@
 		<div class="caro-box">
 			<div class="title">Madrid</div>
 			<div class="num">03</div>
-			<img src="images/books/book covers-03.jpg" />
+			<img src="images/books/book-covers-03.jpg" />
 		</div>
 	</div>
 
@@ -236,7 +236,7 @@
 		<div class="caro-box">
 			<div class="title">Sydney</div>
 			<div class="num">04</div>
-			<img src="images/books/book covers-04.jpg" />
+			<img src="images/books/book-covers-04.jpg" />
 		</div>
 	</div>
 
@@ -244,7 +244,7 @@
 		<div class="caro-box">
 			<div class="title">Istanbul</div>
 			<div class="num">05</div>
-			<img src="images/books/book covers-05.jpg" />
+			<img src="images/books/book-covers-05.jpg" />
 		</div>
 	</div>
 
@@ -252,7 +252,7 @@
 		<div class="caro-box">
 			<div class="title">Prague</div>
 			<div class="num">06</div>
-			<img src="images/books/book covers-06.jpg" />
+			<img src="images/books/book-covers-06.jpg" />
 		</div>
 	</div>
 
@@ -260,7 +260,7 @@
 		<div class="caro-box">
 			<div class="title">Munich</div>
 			<div class="num">07</div>
-			<img src="images/books/book covers-07.jpg" />
+			<img src="images/books/book-covers-07.jpg" />
 		</div>
 	</div>
 
@@ -268,7 +268,7 @@
 		<div class="caro-box">
 			<div class="title">Venice</div>
 			<div class="num">08</div>
-			<img src="images/books/book covers-08.jpg" />
+			<img src="images/books/book-covers-08.jpg" />
 		</div>
 	</div>
 
@@ -276,14 +276,84 @@
 		<div class="caro-box">
 			<div class="title">Oslo</div>
 			<div class="num">09</div>
-			<img src="images/books/book covers-09.jpg" />
+			<img src="images/books/book-covers-09.jpg" />
 		</div>
 	</div>
 	<div class="caro-item">
 		<div class="caro-box">
 			<div class="title">London</div>
 			<div class="num">10</div>
-			<img src="images/books/book covers-10.jpg" />
+			<img src="images/books/book-covers-10.jpg" />
+		</div>
+	</div>
+   <div class="caro-item">
+		<div class="caro-box">
+			<div class="title">London</div>
+			<div class="num">10</div>
+			<img src="images/books/book-covers-11.jpg" />
+		</div>
+	</div>
+   <div class="caro-item">
+		<div class="caro-box">
+			<div class="title">London</div>
+			<div class="num">10</div>
+			<img src="images/books/book-covers-12.jpg" />
+		</div>
+	</div>
+   <div class="caro-item">
+		<div class="caro-box">
+			<div class="title">London</div>
+			<div class="num">10</div>
+			<img src="images/books/book-covers-13.jpg" />
+		</div>
+	</div>
+   <div class="caro-item">
+		<div class="caro-box">
+			<div class="title">London</div>
+			<div class="num">10</div>
+			<img src="images/books/book-covers-14.jpg" />
+		</div>
+	</div>
+   <div class="caro-item">
+		<div class="caro-box">
+			<div class="title">London</div>
+			<div class="num">10</div>
+			<img src="images/books/book-covers-15.jpg" />
+		</div>
+	</div>
+   <div class="caro-item">
+		<div class="caro-box">
+			<div class="title">London</div>
+			<div class="num">10</div>
+			<img src="images/books/book-covers-16.jpg" />
+		</div>
+	</div>
+   <div class="caro-item">
+		<div class="caro-box">
+			<div class="title">London</div>
+			<div class="num">10</div>
+			<img src="images/books/book-covers-17.jpg" />
+		</div>
+	</div>
+   <div class="caro-item">
+		<div class="caro-box">
+			<div class="title">London</div>
+			<div class="num">10</div>
+			<img src="images/books/book-covers-18.jpg" />
+		</div>
+	</div>
+   <div class="caro-item">
+		<div class="caro-box">
+			<div class="title">London</div>
+			<div class="num">10</div>
+			<img src="images/books/book-covers-19.jpg" />
+		</div>
+	</div>
+   <div class="caro-item">
+		<div class="caro-box">
+			<div class="title">London</div>
+			<div class="num">10</div>
+			<img src="images/books/book-covers-20.jpg" />
 		</div>
 	</div>
 </div>

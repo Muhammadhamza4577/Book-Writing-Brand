@@ -12,10 +12,10 @@
          <div class="row justify-content-center">
             <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                <div class="banner-content-service">
-                  <h1>One-stop Destination For Competent And Professional<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Ghostwriting Services
+                  <h1>Discover The Power Of Printed Books With Our<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Book Printing Company.
                      </span>
                   </h1>
-                  <p>If you are planning to become a bestseller and you want to live this dream, then you have landed in the right place. Our team of expert ghostwriting services works diligently to produce high-quality content while meeting your specified deadline</p>
+                  <p>For almost four decades, we've helped authors and publishers print your own books at affordable prices. Our hands-on approach and exceptional service ensure that our books satisfy our exacting requirements.</p>
                   <div class="banner-btn">
                   <div class="getint">
                                         <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
@@ -46,8 +46,8 @@
          <div class="row">
             <div class="col-md-12">
                <div class="about-servies">
-                  <h1>The Goal Of Our Team Is To Relay Your Story.</h1>
-                  <p>Best Book Writers is a professional ghostwriting service that has helped hundreds of individuals share their stories with the world. We can turn your dream into reality! Our team is an expert in ghostwriting services in genres like fiction, nonfiction, and autobiography will help you produce books for any audience. Whether it be horror or romance, bookshelves everywhere are waiting to hear what happens next!<br><br> We provide a comprehensive solution for all your book-writing requirements. We produce compelling and captivating content to engage the audience, edit format, publish, and promote work that will make great sales in USA's next bestseller! So what are you waiting for? Contact us today so we can help turn even an average person into something extraordinary through our affordable ghostwriting services.</p>
+                  <h1>One-Stop Solution for All of Your Printing and Publishing Needs.</h1>
+                  <p>The Best Book Writers provide online book printing services to authors with various binding options, paper stocks, and finishes. We use modern technologies to create visually appealing and durable books with acute composing and brilliant colors. We also provide expert design, layout, and formatting assistance to ensure each book matches the author's expectations.<br><br> At Best Book Writers, we print books incredibly quickly. But that's only a small portion of who we are. We like guiding independent authors through the book printing process. We assist you in realizing your ambition of being a published author.</p>
                </div>
             </div>
          </div>
@@ -55,7 +55,7 @@
    </section>
    <section class="little-intro-services">
       <div class="container">
-         <div class="row justify-content-center align-items-center about-box-alignment">
+         <!-- <div class="row justify-content-center align-items-center about-box-alignment">
             <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
@@ -113,12 +113,12 @@
                   <img src="images/abt-img.png" alt="">
                </div>
             </div>
-         </div>
+         </div> -->
          <div class="row justify-content-center align-items-center about-box-alignment">
             <div class="col-sm-12">
-               <div class="our-services-boxes">
-                  <h1>What Makes Our Ghostwriting Services A Preferable Choice?</h1>
-                  <p>Rather than just encouraging you to read about us, we urge you to take action by requesting a free quote to experience the low cost ghostwriting company.</p>
+               <div class="our-services-boxes-book-print">
+                  <h1>FROM DESIGN TO DELIVERY, WE ARE DEDICATED TO PROVIDING OUTSTANDING BOOK PRINTING SERVICES.</h1>
+                  <p>Best Book Writers are dedicated to assisting you in achieving reader expectations, reaching new audiences, and generating revenue streams by providing nothing less than great quality and service that evolves with the industry. Whether you're looking to print book online or seeking assistance with a larger project, we also offer various book printing services for self-publishers to fit your unique needs. That is our promise to you for every project.</p>
                </div>
             </div>
             <div class="col-sm-12">
@@ -135,17 +135,17 @@
                                     <div class="empty-box"></div>
                                 </div>
                                 <div class="service-head1">
-                                    <h1>Professional writers and editors</h1>
+                                    <h1>An Excellent Approach to Share Your Ideas and Opinions Is Through Printed Books by Best Book Writers</h1>
                                 </div>
                                 <div class="service-divider">
                                     <div class="divider"></div>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Our team of professional writers and editors at Best Book Writers is committed to providing top-quality writing and editing services for your book.</p>
+                                    <p>A further excellent technique to showcase your customers and readers is through our top-notch book printing company. We provide a variety of finishing options, such as:</p>
                                 </div>
-                                <div class="service-btn">
+                                <!-- <div class="service-btn">
                                     <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-sm-3">
@@ -160,17 +160,17 @@
                                     <div class="empty-box"></div>
                                 </div>
                                 <div class="service-head1">
-                                    <h1>Personalized approach</h1>
+                                    <h1>Perfect Binding</h1>
                                 </div>
                                 <div class="service-divider">
                                     <div class="divider"></div>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Our personalized approach guarantees that each client receives individual attention and solutions tailored to their needs.</p>
+                                    <p> The spine has a flat edge and is glued. Used mostly to produce a good finish for larger publications with a lot of material.</p>
                                 </div>
-                                <div class="service-btn">
+                                <!-- <div class="service-btn">
                                     <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-sm-3">
@@ -185,17 +185,17 @@
                                     <div class="empty-box"></div>
                                 </div>
                                 <div class="service-head1">
-                                    <h1>Unlimited revisions</h1>
+                                    <h1>Wire Binding</h1>
                                 </div>
                                 <div class="service-divider">
                                     <div class="divider"></div>
                                 </div>
                                 <div class="service-desc">
-                                    <p>At Best Book Writers, we believe in delivering high-quality work that meets the satisfaction of our clients. We offer unlimited revisions on all our writing and editing services to ensure this. We aim to provide you're delighted with our work.</p>
+                                    <p>The book's spine has been punctured, thus resulting in holes through which the wire can be inserted. Most suitable for larger documents.</p>
                                 </div>
-                                <div class="service-btn">
+                                <!-- <div class="service-btn">
                                     <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-sm-3" >
@@ -210,17 +210,17 @@
                                     <div class="empty-box"></div>
                                 </div>
                                 <div class="service-head1">
-                                    <h1>Renowned publishing</h1>
+                                    <h1>Saddled Stitched</h1>
                                 </div>
                                 <div class="service-divider">
                                     <div class="divider"></div>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Using our ghostwriting services, you can take advantage of our connections with renowned publishing companies and literary agents. We have assisted many clients in realizing their dreams of becoming published authors and can walk you through the complete publishing procedure.</p>
+                                    <p>The manuscript is stapled along the spine and folded in half to form a booklet. Suitable for books with fewer than 50 pages.</p>
                                 </div>
-                                <div class="service-btn">
+                                <!-- <div class="service-btn">
                                     <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-sm-3">
@@ -235,17 +235,17 @@
                                     <div class="empty-box"></div>
                                 </div>
                                 <div class="service-head1">
-                                    <h1>Publication navigation</h1>
+                                    <h1>Stapled</h1>
                                 </div>
                                 <div class="service-divider">
                                     <div class="divider"></div>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Publication navigation involves guiding clients through the stages necessary to release their book, such as choosing a publisher or self-publishing platform, formatting the manuscript, creating cover art, and deciding on a marketing strategy.</p>
+                                    <p>We can accommodate all kinds of unique bespoke stapling techniques.</p>
                                 </div>
-                                <div class="service-btn">
+                                <!-- <div class="service-btn">
                                     <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div>
+                                </div> -->
                             </div>
                     </div>
             </div>
@@ -391,47 +391,47 @@
                             <div class="col-sm-6 process-boxes">
                                 <div class="process-box">
                                     <div class="process-number"><h1>01</h1></div>
-                                    <div class="process-name"><h1>Outline Drafting</h1>
+                                    <div class="process-name"><h1>Editing & Proofreading</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>Once we have gathered all of your information, our team will put together an outline for you..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">Once we have gathered all of your information, our team will put together an outline for you. This is the perfect way to make sure that every chapter fits with what's come before and after it in terms of direction.</span></div>
+                                    <div class="process-desc"><p>After you've finished writing, you can go on to the editing phase, where you make..</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">sure your work is polished and suitable for publishing that is, that it is written, that it conveys the intended message, and that it is error-free. Editing entails more than just proofreading; it also includes developmental editing (such as enhancing the coherence and force of your book's argument in nonfiction or the characterization and narrative in fiction) and copyediting (such as fixing grammatical and usage problems).</span></div>
 
                                 </div>
                                 <div class="process-box">
                                     <div class="process-number"><h1>02</h1></div>
-                                    <div class="process-name"><h1>Ghostwriting</h1>
+                                    <div class="process-name"><h1>Finalization</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>The ghostwriting process starts as soon as you approve the outline. A suitable writer is assigned..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">The ghostwriting process starts as soon as you approve the outline. A suitable writer is assigned to work on your first chapter and sends back completed content every few weeks or months, depending upon how much editing needs to be done in between drafts. However, we manage the deadline based on your requests and demands.</span></div>
+                                    <div class="process-desc"><p>In this step, you can begin the internal layout process once your manuscript has been finalized..</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">our editor has completed their edits, and you have finished making all the suggested revisions. Our designer will format your book at this step to prepare it for printing (e.g., making decisions about font, spacing, page headers, etc.). As with editing, please don't change your file while your book is being formatted because it won't be reflected. With the ISBN, LCCN, and copyright year, you can now complete your copyright page.</span></div>
 
                                 </div>
                             </div>
                             <div class="col-sm-6 process-boxes">
                                 <div class="process-box">
                                     <div class="process-number"><h1>03</h1></div>
-                                    <div class="process-name"><h1>Editing And Formatting</h1>
+                                    <div class="process-name"><h1>Production</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>Best Book Writers will help you create a book that is free from errors and poor sentence structures..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">Best Book Writers will help you create a book that is free from errors and poor sentence structures. Our team of experts has rigorous editing on their tasks, making sure to give your content cleanliness while also making it easy for readers.</span></div>
+                                    <div class="process-desc"><p>BeYour book will send to the press once everything looks good! We apply a digital printing machine..</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">for crisp text and high-quality photographs giving your reader a polished appearance. You're getting close to publishing but have yet to quit there. When this happens, the selected printer will produce books using the cover and interior files you provided. Ensure that you comprehend the proofing process and the printer's timeline.</span></div>
                                 </div>
                                 <div class="process-box">
                                     <div class="process-number"><h1>04</h1></div>
-                                    <div class="process-name"><h1>Publishing</h1>
+                                    <div class="process-name"><h1>Shipment</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>After we've designed a captivating cover page for your book, the last step of our ghostwriting process..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">After we've designed a captivating cover page for your book, the last step of our ghostwriting process is to put it out there so everyone can read it. We do this with design skills and make sure that you are able to get access online or in stores. The publishing of your work is an important phase, and we handle this with care.</span></div>
+                                    <div class="process-desc"><p>In the last step, we evaluate your book for the last time. After that we quickly bring it to you from..</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">one of our locations in the middle of the country. If you require it even sooner, you can enhance the production or select expedited shipping.</span></div>
                                 </div>
                             </div>
                         </div>
@@ -447,8 +447,8 @@
                                 </div>
                                 <div class="banner-content2">
                                     <div class="desc-about-head">
-                                        <h1>A Sneak Preview Of<span class="brands-color"> Our Simplified</span> Process</h1>
-                                        <p> We understand the fact that writing a book is not an easy job. Our 5-step ghostwriting process is described below:</p>
+                                        <h1>Book Printing Services & Online<span class="brands-color"> Book Printing</span> Services</h1>
+                                        <p> When you print with Best Book Writers, book printing services online can be easier, more reasonably priced, and quicker than you ever imagined. Find out how to print your own book and how our book printing comapany works.</p>
                                         <h1>Order<span class="brands-color"> Submission</span></h1>
                                         <p>When you submit your request, our team will get back with a proposal. We'll discuss everything about the book, from genre and target audience to the number of chapters or pages it'll have in total. You can also share anything that's already written if needed for review purposes.</p>
                                     </div>

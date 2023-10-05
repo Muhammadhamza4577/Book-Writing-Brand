@@ -111,6 +111,53 @@
             </div>
             </div>
     </section>
+    <section class="about-organized">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="about-org-box-head">
+                        <div class="about-org-pen-img">
+                            <img src="images/pen-about.png" alt="">
+                        </div>
+                        <div class="about-org-title">
+                            <h1>Brand Organizations</h1>
+                        </div>
+                    </div>
+                    <div class="about-org-content">
+                        <div class="about-org-head">
+                            <h1>Brands, Organizations, Celebrities, <span class="brands-color">and Individuals All Trust Our </span> Quality, Professional Writing Services. </h1>
+                            <p>Over the years, best book writers has established itself as one of the renowned names in the book writing services company in USA. We follow a massive and diverse portfolio of clients from different parts of the world. We not only provide basic writing services, but our book writing service enables them to become renowned authors within a short span of time. We can manage all your writing concerns, and you can easily vouch for us. Whether you are planning to inspire others through your life-changing story or you want us to work on a fictional genre, we have all the bases covered when it comes to affordable book writing services.</p>
+                        </div>
+                    </div>
+                    <div class="about-btn-inner">
+                                    <div class="getint">
+                                        <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                                    </div>
+                                    <div class="number-btn-about">
+                                        <a href="tel:+1-737-881-7227">
+                                            <div class="about-phone">
+                                            	<div class="about-icon_phone">
+                                            	<i class="fa fa-phone" aria-hidden="true"></i>
+                                            	</div>
+                                            	<div class="about-head_phone">
+                                            		<h5>.Live Chat</h5>
+                                            		<h4>+1-737-881-7227</h4>
+                                            	</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="about-org-lottie">
+                        <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
+                        <dotlottie-player src="https://lottie.host/1b94d635-f280-4994-a66a-da1c90a9b321/g7l2MJ3XjV.json" 
+                        background="transparent" speed="1" style="width: 600px; height: auto;" loop autoplay></dotlottie-player>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <section class="brands-with-us brands-with-us1 about-sec">
         <div class="container">
             <div class="row justify-content-center">
@@ -199,7 +246,7 @@
                     </div>
                     <div class="service-upper-box sliderserv" >
                         <div class="col-sm-3">
-                            <div class="service-inner-box">
+                            <div class="service-inner-box1">
                                 <div class="service-box">
                                     <div class="service-num">
                                         <h1>01</h1>
@@ -224,7 +271,7 @@
                             </div>
                         </div>
                         <div class="col-sm-3">
-                            <div class="service-inner-box">
+                            <div class="service-inner-box1">
                                 <div class="service-box">
                                     <div class="service-num">
                                         <h1>02</h1>
@@ -249,7 +296,7 @@
                             </div>
                         </div>
                         <div class="col-sm-3">
-                            <div class="service-inner-box">
+                            <div class="service-inner-box1">
                                 <div class="service-box">
                                     <div class="service-num">
                                         <h1>03</h1>
@@ -274,7 +321,7 @@
                             </div>
                         </div>
                         <div class="col-sm-3" >
-                            <div class="service-inner-box">
+                            <div class="service-inner-box1">
                                 <div class="service-box">
                                     <div class="service-num">
                                         <h1>04</h1>
@@ -299,7 +346,7 @@
                             </div>
                         </div>
                         <div class="col-sm-3">
-                            <div class="service-inner-box">
+                            <div class="service-inner-box1">
                                 <div class="service-box">
                                     <div class="service-num">
                                         <h1>05</h1>
@@ -324,7 +371,7 @@
                             </div>
                         </div>
                         <div class="col-sm-3">
-                            <div class="service-inner-box">
+                            <div class="service-inner-box1">
                                 <div class="service-box">
                                     <div class="service-num">
                                         <h1>06</h1>
@@ -349,7 +396,7 @@
                             </div>
                         </div>
                         <div class="col-sm-3">
-                            <div class="service-inner-box">
+                            <div class="service-inner-box1">
                                 <div class="service-box">
                                     <div class="service-num">
                                         <h1>07</h1>
@@ -374,7 +421,7 @@
                             </div>
                         </div>
                         <div class="col-sm-3">
-                            <div class="service-inner-box">
+                            <div class="service-inner-box1">
                                 <div class="service-box">
                                     <div class="service-num">
                                         <h1>08</h1>
@@ -399,7 +446,7 @@
                             </div>
                         </div>
                         <div class="col-sm-3">
-                            <div class="service-inner-box">
+                            <div class="service-inner-box1">
                                 <div class="service-box">
                                     <div class="service-num">
                                         <h1>09</h1>
@@ -439,6 +486,195 @@
     </section>
     <section class="book-qoute">
          <?php include('include/book-qoute.php');?>
+    </section>
+    <section class="doing-things">
+    <?php include('include/doing-things.php');?>
+    </section>
+    <section class="whychooseus">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="chooseus-head">
+                        <div class="chooseus-pen-img">
+                            <img src="images/pen-about.png" alt="">
+                        </div>
+                        <div class="chooseus-title">
+                            <h1>Why Choose Us</h1>
+                        </div>
+                    </div>
+                    <div class="chooseus-content">
+                        <div class="choose-us-head">
+                            <h1>Why Should You Opt For Our <span class="brands-color">Professional Book Writing </span> Company? </h1>
+                            <p>We believe in professionals that rely on their versatility and wide range of experience in different academic disciplines, including arts, business, technology, advertising, communications, social sciences, and engineering. Our writers focus on strategy building, brainstorming ideology, consultation, and proactive communication with the clients to develop a fine-tuned product. Different people feel confused about this notion because they want to write a book, but they do not have the necessary skills or resources to complete this notion. We at Best Book Writers rely on the originality of content with pin-point accuracy that generates viable results. Our organization relies on experienced writers, and our writing department includes full time writers, managers, proofreaders, and a dedicated quality assurance team.</p>
+                        </div>
+                    </div>
+                    <div class="about-btn-inner">
+                                    <div class="getint">
+                                        <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                                    </div>
+                                    <div class="number-btn-about">
+                                        <a href="tel:+1-737-881-7227">
+                                            <div class="about-phone">
+                                            	<div class="about-icon_phone">
+                                            	<i class="fa fa-phone" aria-hidden="true"></i>
+                                            	</div>
+                                            	<div class="about-head_phone">
+                                            		<h5>.Live Chat</h5>
+                                            		<h4>+1-737-881-7227</h4>
+                                            	</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="chooseus-lottie">
+                        <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
+                        <dotlottie-player src="https://lottie.host/74bf35ff-d951-4ff1-a2e5-5e929f8a57e5/FVOllfZ9b4.json" 
+                        background="transparent" speed="1" style="width: 600px; height: auto;" loop autoplay></dotlottie-player>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="tabs-sec">
+        <div class="container">
+            <div class="row tab-box-bg">
+                <div class="col-sm-9">
+                    <div class="tab-content-box">
+                        <div class="tabs-cont-head">
+                            <h1>Our Recipe For Success Relies On Creativity Passion and Strategic Implementation</h1>
+                        </div>
+                        <div class="test-btn-inner">
+                            <div class="test-btn">
+                            <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                            </div>
+                            <div class="number-btn-test">
+                                <a href="tel:+1-737-881-7227">
+                                    <div class="test-phone1">
+                                    	<div class="test-icon_phone1">
+                                    	<i class="fa fa-phone" aria-hidden="true"></i>
+                                    	</div>
+                                    	<div class="test-head_phone1">
+                                    		<h5>.Live Chat</h5>
+                                    		<h4>+1-737-881-7227</h4>
+                                    	</div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-inner-box">
+                    <div class=" wow fadeInRight animated " data-wow-duration="3s" style="visibility: visible; animation-duration: 3s; animation-name: fadeInRight;">
+    <ul class="nav nav-pills mb-3 d-flex your-story-inner" id="pills-tab" role="tablist">
+       <li class="nav-item mx-2" role="presentation">
+          <button class="nav-link active" id="pills-story-7-tab" data-bs-toggle="pill" data-bs-target="#pills-story-7" type="button" role="tab" aria-controls="pills-story-7" aria-selected="true">
+          <img class="tab-icon-img" src="images/doing-icon.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
+          <img class="tab-arrow" src="images/tab-arrow.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
+          </button>
+       </li>
+       <li class="nav-item mx-2" role="presentation">
+          <button class="nav-link" id="pills-story-8-tab" data-bs-toggle="pill" data-bs-target="#pills-story-8" type="button" role="tab" aria-controls="pills-story-8" aria-selected="false">
+          <img class="tab-icon-img" src="images/doing-icon.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
+          <img class="tab-arrow" src="images/tab-arrow.png" style="width:75px; height:75px;" class="img-fluid" alt="Best Book Writers">
+          </button>
+       </li>
+       <li class="nav-item mx-2" role="presentation">
+          <button class="nav-link" id="pills-story-9-tab" data-bs-toggle="pill" data-bs-target="#pills-story-9" type="button" role="tab" aria-controls="pills-story-9" aria-selected="false">
+          <img class="tab-icon-img" src="images/doing-icon.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
+          <img class="tab-arrow" src="images/tab-arrow.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
+          </button>
+       </li>
+       <li class="nav-item mx-2" role="presentation">
+          <button class="nav-link" id="pills-story-10-tab" data-bs-toggle="pill" data-bs-target="#pills-story-10" type="button" role="tab" aria-controls="pills-story-10" aria-selected="false">
+          <img class="tab-icon-img" src="images/doing-icon.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
+          <img class="tab-arrow" src="images/tab-arrow.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
+          </button>
+       </li>
+       <li class="nav-item mx-2" role="presentation">
+          <button class="nav-link" id="pills-story-11-tab" data-bs-toggle="pill" data-bs-target="#pills-story-11" type="button" role="tab" aria-controls="pills-story-11" aria-selected="false">
+          <img class="tab-icon-img" src="images/doing-icon.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
+          <img class="tab-arrow" src="images/tab-arrow.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
+          </button>
+       </li>
+       <li class="nav-item mx-2" role="presentation">
+          <button class="nav-link" id="pills-story-6-tab" data-bs-toggle="pill" data-bs-target="#pills-story-6" type="button" role="tab" aria-controls="pills-story-6" aria-selected="false">
+          <img class="tab-icon-img" src="images/doing-icon.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
+          </button>
+       </li>
+    </ul>
+    <div class="tab-content your-story-content" id="pills-tabContent">
+       <div class="tab-pane fade show active" id="pills-story-7" role="tabpanel" aria-labelledby="pills-story-7-tab">
+          <div class="row text-start">
+             <div class="col-md-4 col-sm-12">
+                <h3><b> Extensive research and interviews</b></h3>
+             </div>
+             <div class="col-md-8 col-sm-12">
+                <p>Our writers are well-versed in different research-based scenarios, and we conduct thorough research when it comes to book writing services. We provide a customized questionnaire for our clients, and our salesperson also asks relevant questions just to make sure that we are able to understand the instructions of the client. The input from your end helps us to set the tone and voice of the book. </p>
+             </div>
+          </div>
+       </div>
+       <div class="tab-pane fade" id="pills-story-8" role="tabpanel" aria-labelledby="pills-story-8-tab">
+          <div class="row text-start">
+             <div class="col-md-4 col-sm-12">
+                <h3><b>Planning and outline </b></h3>
+             </div>
+             <div class="col-md-8 col-sm-12">
+                <p>We believe that the outline of the book is important, and this is the basic stage of writing a book. We work on the core points of every chapter and send you a customized questionnaire for every chapter just to make sure that the writing department and the client are on the same page. The basic points of every chapter are provided just to make sure that every chapter is aligned with the client's brief. </p>
+             </div>
+          </div>
+       </div>
+       <div class="tab-pane fade" id="pills-story-9" role="tabpanel" aria-labelledby="pills-story-9-tab">
+          <div class="row text-start">
+             <div class="col-md-4 col-sm-12">
+                <h3><b>Dedicated consultation </b></h3>
+             </div>
+             <div class="col-md-8 col-sm-12">
+                <p>Our customer support team is available 24/7 just to make sure that they can clarify your confusion and concerns regarding your order. This support is offered to make sure that both of us are on the same page and do not deviate from the right direction.</p>
+             </div>
+          </div>
+       </div>
+       <div class="tab-pane fade" id="pills-story-10" role="tabpanel" aria-labelledby="pills-story-10-tab">
+          <div class="row text-start">
+             <div class="col-md-4 col-sm-12">
+                <h3><b>Revisions </b></h3>
+             </div>
+             <div class="col-md-8 col-sm-12">
+                <p>The ideology of revisions is to make sure that quality content is created, and if you do not like a sentence, paragraph, or chapter from the manuscript, we can delete or change that. We at Best Book Writers offer unlimited revisions to make sure that our clients receive quality content. </p>
+             </div>
+          </div>
+       </div>
+       <div class="tab-pane fade" id="pills-story-11" role="tabpanel" aria-labelledby="pills-story-11-tab">
+          <div class="row text-start">
+             <div class="col-md-4 col-sm-12">
+                <h3><b>Editing and formatting </b></h3>
+             </div>
+             <div class="col-md-8 col-sm-12">
+                <p>We at Best Book Writers understand the fact that quality is the major concern of our clients, and our team of experts indulges in extensive editing and proofreading process to fine-tune the product. Our experts ensure that they are no grammatical errors or poor sentence structure in our book content. </p>
+             </div>
+          </div>
+       </div>
+       <div class="tab-pane fade" id="pills-story-6" role="tabpanel" aria-labelledby="pills-story-6-tab">
+          <div class="row text-start">
+             <div class="col-md-4 col-sm-12">
+                <h3><b>Book Cover Designing </b></h3>
+             </div>
+             <div class="col-md-8 col-sm-12">
+                <p>An exotic book cover design entices people towards the book, and our book designers make sure that they produce aesthetically sound book covers that are aligned with the theme of the book. The core objective is to attract more and more visitors online to read and buy the book. </p>
+             </div>
+          </div>
+       </div>
+    </div>
+ </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="tab-book-img">
+                        <img src="images/tab-sec-book.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
     <section class="our-process">
         <div class="container">

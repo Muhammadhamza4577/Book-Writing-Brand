@@ -11,10 +11,10 @@
          <div class="row justify-content-center">
             <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                <div class="banner-content-service">
-                  <h1>One-stop Destination For Competent And Professional<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Ghostwriting Services
+                  <h1>Give Your Book The Spotlight It Deserves With A Stunning<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Video Book Trailer.
                      </span>
                   </h1>
-                  <p>If you are planning to become a bestseller and you want to live this dream, then you have landed in the right place. Our team of expert ghostwriting services works diligently to produce high-quality content while meeting your specified deadline</p>
+                  <p>Do you need an experienced book trailer services to try this new marketing promotion technique? Best book writers is an expert book trailer production company with years of experience, so look no further. Our video book trailer are created to captivate your target audience's attention and leave a lasting impression. Your book will be the talk of the town with our trailer service! We have many specialists, including authors, designers, and filmmakers, who work together to make your writing trailer seem professional.</p>
                   <div class="banner-btn">
                   <div class="getint">
                                         <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
@@ -45,8 +45,11 @@
          <div class="row">
             <div class="col-md-12">
                <div class="about-servies">
-                  <h1>The Goal Of Our Team Is To Relay Your Story.</h1>
-                  <p>Best Book Writers is a professional ghostwriting service that has helped hundreds of individuals share their stories with the world. We can turn your dream into reality! Our team is an expert in ghostwriting services in genres like fiction, nonfiction, and autobiography will help you produce books for any audience. Whether it be horror or romance, bookshelves everywhere are waiting to hear what happens next!<br><br> We provide a comprehensive solution for all your book-writing requirements. We produce compelling and captivating content to engage the audience, edit format, publish, and promote work that will make great sales in USA's next bestseller! So what are you waiting for? Contact us today so we can help turn even an average person into something extraordinary through our affordable ghostwriting services.</p>
+                  <h1>Get Professional Book Trailers At Affordable Price</h1>
+                  <p>We at Best book writers can provide the perfect video book trailer services as we complete your puzzle by adding a single piece by creating video book trailer. You can effectively dialogue with your target audience by making our professional book trailers. And we know how significant that may be to readers and ensure you receive the most effective possible product at a reasonably priced price.</p>
+                  <h5>Preserve Your Memory And Create Your Story With Video Book Publishing Services</h5>
+                  <p>Use our professional video book publishing service to provide a thrilling sneak peek of your book to your audience.</p>
+
                </div>
             </div>
          </div>
@@ -54,26 +57,30 @@
    </section>
    <section class="little-intro-services">
       <div class="container">
-         <div class="row justify-content-center align-items-center about-box-alignment">
+      <div class="row justify-content-center align-items-center about-box-alignment">
             <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
-                  <h6>Ghostwriting</h6>
-                  <h2>Our Writers Possess High <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Qualifications </span> In Various Niches!</h2>
-                  <p>We are a creative bunch of aspiring adults who are making things happen for people with kickass ideas and amazing stories to tell. We write books on behalf of those individuals, giving them a voice in an increasingly busy world where one's individuality can be lost within seconds if not premiered properly-and then there is always our passion. More than a decade-long collective experience has enabled us to specialize globally in writing services offered worldwide.</p>
-                  <div class="checklist-box">
-                     <div class="check-list-about">
+                  <h6>Book Trailer</h6>
+                  <h2>Providing Video Book Trailer Services <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> For Aspiring Writers Who Want  </span> To Do Just A Little Bit More.</h2>
+                  <p>Want your new book to grab the attention of your readers right away? This wouldn't have been conceivable a few years ago, but it is now with the Internet and video. People enjoy watching videos and staying attached to platforms like YouTube, social media, etc. Best book writers can produce a video book trailer and market it on several digital platforms so readers can find you immediately. We promise that by using video to advertise your book, you will achieve success swiftly, regardless of budget.</p>
+                  <!-- <div class="checklist-box">
+                     <div class="check-list-about1">
                         <div class="check-list1">
                            <img src="images/check-ico.svg" alt="">
-                           <p>Timely delivery</p>
+                           <p>A talented illustrator will complement the story and make your book visually appealing.</p>
                         </div>
                         <div class="check-list1">
                            <img src="images/check-ico.svg" alt="">
-                           <p>100% original content production</p>
+                           <p>Share your illustrator with the concepts, styles, and vision.</p>
                         </div>
                         <div class="check-list1">
                            <img src="images/check-ico.svg" alt="">
-                           <p>Proactive customer support services</p>
+                           <p>Find an illustrator that shares your preferences and objectives in design rather than attempting to change their style to fit yours.</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Best book writers can assist you in selecting the ideal illustrator and ensuring that you provide them with the appropriate amount of structure and creative freedom.</p>
                         </div>
                      </div>
                      <div class="check-list-about">
@@ -86,7 +93,7 @@
                            <p>Unlimited revisions</p>
                         </div>
                      </div>
-                  </div>
+                  </div> -->
                   <div class="about-btn-inner">
                   <div class="getint">
                                         <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
@@ -113,7 +120,129 @@
                </div>
             </div>
          </div>
+      <div class="row justify-content-center align-items-center about-box-alignment">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+                  <div class="little-intro-img">
+                     <img src="images/abt-img2.png" alt="">
+                  </div>
+               </div>
+               <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+                  <div class="little-intro-content">
+                     <img src="images/pen-about.png" class="abt-pen" alt="">
+                     <h6>Book Trailer</h6>
+                     <h2>Highly Creative Video <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Book Trailer, Grab The </span> Audience's Attention</h2>
+                     <p>A book trailer video gives the reader another opportunity to experience a captivating story. It is the most effective methods of introducing the book's possibilities to recommended readers. We at Best book writers can assist you with this. We can make an intriguing video book production and advertise it across various digital platforms so that readers may find you right away.</p>
+                     <!-- <div class="checklist-box">
+                        <div class="check-list-about">
+                           <div class="check-list1">
+                              <img src="images/check-ico.svg" alt="">
+                              <p>Timely delivery</p>
+                           </div>
+                           <div class="check-list1">
+                              <img src="images/check-ico.svg" alt="">
+                              <p>100% original content production</p>
+                           </div>
+                           <div class="check-list1">
+                              <img src="images/check-ico.svg" alt="">
+                              <p>Proactive customer support services</p>
+                           </div>
+                        </div>
+                        <div class="check-list-about">
+                           <div class="check-list1">
+                              <img src="images/check-ico.svg" alt="">
+                              <p>Creative writing skills</p>
+                           </div>
+                           <div class="check-list1">
+                              <img src="images/check-ico.svg" alt="">
+                              <p>Unlimited revisions</p>
+                           </div>
+                        </div>
+                     </div> -->
+                     <div class="about-btn-inner">
+                     <div class="getint">
+                                           <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                                       </div>
+                        <div class="number-btn-about">
+                           <a href="tel:+1-737-881-7227">
+                              <div class="about-phone">
+                                 <div class="about-icon_phone">
+                                    <i class="fa fa-phone" aria-hidden="true"></i>
+                                 </div>
+                                 <div class="about-head_phone">
+                                    <h5>.Live Chat</h5>
+                                    <h4>+1-737-881-7227</h4>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+         </div>
          <div class="row justify-content-center align-items-center about-box-alignment">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+               <div class="little-intro-content">
+                  <img src="images/pen-about.png" class="abt-pen" alt="">
+                  <h6>Book Trailer</h6>
+                  <h2>Catch the Maximum Attention <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  by our Video Book </span> Trailer Production</h2>
+                  <p>Video book trailer services at Best book writers are well-versed in production components and assist writers in promoting books through book trailer video marketing. Using top-notch footage, music, and a professional voice-over, we produce an exciting and professional trailer for your book.</p>
+                  <!-- <div class="checklist-box">
+                     <div class="check-list-about1">
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>A talented illustrator will complement the story and make your book visually appealing.</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Share your illustrator with the concepts, styles, and vision.</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Find an illustrator that shares your preferences and objectives in design rather than attempting to change their style to fit yours.</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Best book writers can assist you in selecting the ideal illustrator and ensuring that you provide them with the appropriate amount of structure and creative freedom.</p>
+                        </div>
+                     </div>
+                     <div class="check-list-about">
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Creative writing skills</p>
+                        </div>
+                        <div class="check-list1">
+                           <img src="images/check-ico.svg" alt="">
+                           <p>Unlimited revisions</p>
+                        </div>
+                     </div>
+                  </div> -->
+                  <div class="about-btn-inner">
+                  <div class="getint">
+                                        <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                                    </div>
+                     <div class="number-btn-about">
+                        <a href="tel:+1-737-881-7227">
+                           <div class="about-phone">
+                              <div class="about-icon_phone">
+                                 <i class="fa fa-phone" aria-hidden="true"></i>
+                              </div>
+                              <div class="about-head_phone">
+                                 <h5>.Live Chat</h5>
+                                 <h4>+1-737-881-7227</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+               <div class="little-intro-img">
+                  <img src="images/abt-img.png" alt="">
+               </div>
+            </div>
+         </div>      
+         <!-- <div class="row justify-content-center align-items-center about-box-alignment">
             <div class="col-sm-12">
                <div class="our-services-boxes">
                   <h1>What Makes Our Ghostwriting Services A Preferable Choice?</h1>
@@ -248,7 +377,7 @@
                             </div>
                     </div>
             </div>
-         </div>
+         </div> -->
       </div>
    </section>
    <section class="book-qoute-abt">
@@ -390,37 +519,37 @@
                             <div class="col-sm-6 process-boxes">
                                 <div class="process-box">
                                     <div class="process-number"><h1>01</h1></div>
-                                    <div class="process-name"><h1>Outline Drafting</h1>
+                                    <div class="process-name"><h1>Conceptualization</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>Once we have gathered all of your information, our team will put together an outline for you..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">Once we have gathered all of your information, our team will put together an outline for you. This is the perfect way to make sure that every chapter fits with what's come before and after it in terms of direction.</span></div>
+                                    <div class="process-desc"><p>An expert in the genre is chosen to examine your book from the writer's point of view and extract potential..</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">ideas for a video trailer. During this stage, we encourage and value your thoughts and comments.</span></div>
 
                                 </div>
                                 <div class="process-box">
                                     <div class="process-number"><h1>02</h1></div>
-                                    <div class="process-name"><h1>Ghostwriting</h1>
+                                    <div class="process-name"><h1>Video Script</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>The ghostwriting process starts as soon as you approve the outline. A suitable writer is assigned..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">The ghostwriting process starts as soon as you approve the outline. A suitable writer is assigned to work on your first chapter and sends back completed content every few weeks or months, depending upon how much editing needs to be done in between drafts. However, we manage the deadline based on your requests and demands.</span></div>
+                                    <div class="process-desc"><p>The essential elements are delivered to one of our professional screenwriters, who create a..</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">detailed video script based on the information gathered in the previous phase. Before we proceed, the writing is delivered to the author for approval.</span></div>
 
                                 </div>
                             </div>
                             <div class="col-sm-6 process-boxes">
                                 <div class="process-box">
                                     <div class="process-number"><h1>03</h1></div>
-                                    <div class="process-name"><h1>Editing And Formatting</h1>
+                                    <div class="process-name"><h1>Animation</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>Best Book Writers will help you create a book that is free from errors and poor sentence structures..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">Best Book Writers will help you create a book that is free from errors and poor sentence structures. Our team of experts has rigorous editing on their tasks, making sure to give your content cleanliness while also making it easy for readers.</span></div>
+                                    <div class="process-desc"><p>The script is ready for production after any necessary adjustments. Our team of producers..</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">who create some of the best book trailers in the publishing sector, works on creating an enthralling book trailer video.</span></div>
                                 </div>
                                 <div class="process-box">
                                     <div class="process-number"><h1>04</h1></div>
@@ -446,10 +575,10 @@
                                 </div>
                                 <div class="banner-content2">
                                     <div class="desc-about-head">
-                                        <h1>A Sneak Preview Of<span class="brands-color"> Our Simplified</span> Process</h1>
-                                        <p> We understand the fact that writing a book is not an easy job. Our 5-step ghostwriting process is described below:</p>
+                                        <h1>Process Of Video Book Of<span class="brands-color"> Publishing</span></h1>
+                                        <p> The various steps invloved in creating a fascinating video book trialer, from planning to promotion:</p>
                                         <h1>Order<span class="brands-color"> Submission</span></h1>
-                                        <p>When you submit your request, our team will get back with a proposal. We'll discuss everything about the book, from genre and target audience to the number of chapters or pages it'll have in total. You can also share anything that's already written if needed for review purposes.</p>
+                                        <p>WBook the position by providing the necessary details about your video book trailer. Upload any ideas, audio, or instructions that you want to have in your book. A manager will then welcome you and respond to all the information you have been given.</p>
                                     </div>
                                 </div>
                                 <div class="about-btn-inner">

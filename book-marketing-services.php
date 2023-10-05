@@ -11,10 +11,10 @@
          <div class="row justify-content-center">
             <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                <div class="banner-content-service">
-                  <h1>One-stop Destination For Competent And Professional<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Ghostwriting Services
-                     </span>
+                  <h1>Let Us Help You Share Your Story With The World With<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  Our Book Marketing Services 
+                     </span>For Authors And Publishers.
                   </h1>
-                  <p>If you are planning to become a bestseller and you want to live this dream, then you have landed in the right place. Our team of expert ghostwriting services works diligently to produce high-quality content while meeting your specified deadline</p>
+                  <p>Our book marketing experts are designed to help authors promote their books and reach a wider audience</p>
                   <div class="banner-btn">
                   <div class="getint">
                                         <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
@@ -45,8 +45,8 @@
          <div class="row">
             <div class="col-md-12">
                <div class="about-servies">
-                  <h1>The Goal Of Our Team Is To Relay Your Story.</h1>
-                  <p>Best Book Writers is a professional ghostwriting service that has helped hundreds of individuals share their stories with the world. We can turn your dream into reality! Our team is an expert in ghostwriting services in genres like fiction, nonfiction, and autobiography will help you produce books for any audience. Whether it be horror or romance, bookshelves everywhere are waiting to hear what happens next!<br><br> We provide a comprehensive solution for all your book-writing requirements. We produce compelling and captivating content to engage the audience, edit format, publish, and promote work that will make great sales in USA's next bestseller! So what are you waiting for? Contact us today so we can help turn even an average person into something extraordinary through our affordable ghostwriting services.</p>
+                  <h1>Right Audience. Right Format. Right Place. Right Time.</h1>
+                  <p>We are passionate about helping authors succeed and are committed to delivering high-quality book marketing services that help them achieve their goals.</p>
                </div>
             </div>
          </div>
@@ -58,10 +58,10 @@
             <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
-                  <h6>Ghostwriting</h6>
-                  <h2>Our Writers Possess High <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Qualifications </span> In Various Niches!</h2>
-                  <p>We are a creative bunch of aspiring adults who are making things happen for people with kickass ideas and amazing stories to tell. We write books on behalf of those individuals, giving them a voice in an increasingly busy world where one's individuality can be lost within seconds if not premiered properly-and then there is always our passion. More than a decade-long collective experience has enabled us to specialize globally in writing services offered worldwide.</p>
-                  <div class="checklist-box">
+                  <h6>Book Marketing</h6>
+                  <h2>Amplify Your Voice, Elevate Your Story: <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  Reap The Benefits Of Our  </span> Book Marketing Company</h2>
+                  <p>Best book writers have a team of experienced marketers who profoundly understands the book industry and the latest marketing trends, hire a book marketer to create innovative and effective marketing campaigns that deliver results. We offer a range of services, including social media marketing, email marketing, book trailers, paid advertising, and more.</p>
+                  <!-- <div class="checklist-box">
                      <div class="check-list-about">
                         <div class="check-list1">
                            <img src="images/check-ico.svg" alt="">
@@ -86,7 +86,7 @@
                            <p>Unlimited revisions</p>
                         </div>
                      </div>
-                  </div>
+                  </div> -->
                   <div class="about-btn-inner">
                   <div class="getint">
                                         <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
@@ -116,8 +116,8 @@
          <div class="row justify-content-center align-items-center about-box-alignment">
             <div class="col-sm-12">
                <div class="our-services-boxes">
-                  <h1>What Makes Our Ghostwriting Services A Preferable Choice?</h1>
-                  <p>Rather than just encouraging you to read about us, we urge you to take action by requesting a free quote to experience the low cost ghostwriting company.</p>
+                  <h1>The Basic Approach Of Our Book Marketing</h1>
+                  <p>We believe in using a multi-faceted approach to book marketing, combining traditional and innovative strategies to maximize book visibility, engagement, and sales.</p>
                </div>
             </div>
             <div class="col-sm-12">
@@ -134,17 +134,17 @@
                                     <div class="empty-box"></div>
                                 </div>
                                 <div class="service-head1">
-                                    <h1>Professional writers and editors</h1>
+                                    <h1>Pre-Launch Hype</h1>
                                 </div>
                                 <div class="service-divider">
                                     <div class="divider"></div>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Our team of professional writers and editors at Best Book Writers is committed to providing top-quality writing and editing services for your book.</p>
+                                    <p>We create a comprehensive pre-launch marketing plan, identifying the target audience, messaging, and channels that best resonate with your readers. From there, we implement various strategies to create a groundswell of anticipation, including social media campaigns, email marketing, influencer partnerships, and more.</p>
                                 </div>
-                                <div class="service-btn">
+                                <!-- <div class="service-btn">
                                     <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-sm-3">
@@ -159,17 +159,17 @@
                                     <div class="empty-box"></div>
                                 </div>
                                 <div class="service-head1">
-                                    <h1>Personalized approach</h1>
+                                    <h1>Launch</h1>
                                 </div>
                                 <div class="service-divider">
                                     <div class="divider"></div>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Our personalized approach guarantees that each client receives individual attention and solutions tailored to their needs.</p>
+                                    <p>Whether you're looking to generate reviews, increase pre-orders, or build a loyal following, we have the expertise and resources to make your launch successful. We will write articles, conduct interactive author interviews, and create content circulated on social media platforms and other top-tier websites with full-featured articles related to you.</p>
                                 </div>
-                                <div class="service-btn">
+                                <!-- <div class="service-btn">
                                     <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-sm-3">
@@ -184,17 +184,17 @@
                                     <div class="empty-box"></div>
                                 </div>
                                 <div class="service-head1">
-                                    <h1>Unlimited revisions</h1>
+                                    <h1>Post-Launch Hype</h1>
                                 </div>
                                 <div class="service-divider">
                                     <div class="divider"></div>
                                 </div>
                                 <div class="service-desc">
-                                    <p>At Best Book Writers, we believe in delivering high-quality work that meets the satisfaction of our clients. We offer unlimited revisions on all our writing and editing services to ensure this. We aim to provide you're delighted with our work.</p>
+                                    <p>We understand that post-launch hype is just as crucial as pre-launch buzz. Our post-launch hype strategies are designed to create long-lasting momentum for your book, helping you reach new audiences and build a loyal fan base. We are passionate about helping authors achieve their goals and are committed to delivering exceptional service that exceeds your expectations.</p>
                                 </div>
-                                <div class="service-btn">
+                                <!-- <div class="service-btn">
                                     <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-sm-3" >
@@ -209,44 +209,19 @@
                                     <div class="empty-box"></div>
                                 </div>
                                 <div class="service-head1">
-                                    <h1>Renowned publishing</h1>
+                                    <h1>Report</h1>
                                 </div>
                                 <div class="service-divider">
                                     <div class="divider"></div>
                                 </div>
                                 <div class="service-desc">
-                                    <p>Using our ghostwriting services, you can take advantage of our connections with renowned publishing companies and literary agents. We have assisted many clients in realizing their dreams of becoming published authors and can walk you through the complete publishing procedure.</p>
+                                    <p>Best book writers understand the importance of transparency and accountability at our book marketing service. That's why we provide a comprehensive report detailing every action taken during the book marketing campaign.</p>
                                 </div>
-                                <div class="service-btn">
+                                <!-- <div class="service-btn">
                                     <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
-                        <div class="col-sm-3">
-                            <div class="service-inner-box">
-                                <div class="service-box">
-                                    <div class="service-num">
-                                        <h1>05</h1>
-                                    </div>
-                                    <div class="service-ico">
-                                        <img src="images/service-01.png" alt="">
-                                    </div>
-                                    <div class="empty-box"></div>
-                                </div>
-                                <div class="service-head1">
-                                    <h1>Publication navigation</h1>
-                                </div>
-                                <div class="service-divider">
-                                    <div class="divider"></div>
-                                </div>
-                                <div class="service-desc">
-                                    <p>Publication navigation involves guiding clients through the stages necessary to release their book, such as choosing a publisher or self-publishing platform, formatting the manuscript, creating cover art, and deciding on a marketing strategy.</p>
-                                </div>
-                                <div class="service-btn">
-                                    <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div>
-                            </div>
-                    </div>
             </div>
          </div>
       </div>
@@ -390,47 +365,47 @@
                             <div class="col-sm-6 process-boxes">
                                 <div class="process-box">
                                     <div class="process-number"><h1>01</h1></div>
-                                    <div class="process-name"><h1>Outline Drafting</h1>
+                                    <div class="process-name"><h1>Analytics</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>Once we have gathered all of your information, our team will put together an outline for you..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">Once we have gathered all of your information, our team will put together an outline for you. This is the perfect way to make sure that every chapter fits with what's come before and after it in terms of direction.</span></div>
+                                    <div class="process-desc"><p>We don't rely on our efforts alone; we analyze the data and performance metrics to ensure..</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">We don't rely on our efforts alone; we analyze the data and performance metrics to ensure that our marketing strategies deliver your desired results.</span></div>
 
                                 </div>
                                 <div class="process-box">
                                     <div class="process-number"><h1>02</h1></div>
-                                    <div class="process-name"><h1>Ghostwriting</h1>
+                                    <div class="process-name"><h1>Multi Methods</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>The ghostwriting process starts as soon as you approve the outline. A suitable writer is assigned..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">The ghostwriting process starts as soon as you approve the outline. A suitable writer is assigned to work on your first chapter and sends back completed content every few weeks or months, depending upon how much editing needs to be done in between drafts. However, we manage the deadline based on your requests and demands.</span></div>
+                                    <div class="process-desc"><p>We believe in using a multi-method approach to book marketing services, combining innovative..</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">We believe in using a multi-method approach to book marketing services, combining innovative and unconventional strategies to help your book stand out in a crowded market. Our system is tailored to your needs, goals, and target the audience, Hire a book marketer by the best book writers to ensure maximum impact and engagement.</span></div>
 
                                 </div>
                             </div>
                             <div class="col-sm-6 process-boxes">
                                 <div class="process-box">
                                     <div class="process-number"><h1>03</h1></div>
-                                    <div class="process-name"><h1>Editing And Formatting</h1>
+                                    <div class="process-name"><h1>Genre Specific</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>Best Book Writers will help you create a book that is free from errors and poor sentence structures..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">Best Book Writers will help you create a book that is free from errors and poor sentence structures. Our team of experts has rigorous editing on their tasks, making sure to give your content cleanliness while also making it easy for readers.</span></div>
+                                    <div class="process-desc"><p>At our book marketing agency, we recognize that every genre has its unique audience and requires..</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">At our book marketing agency, we recognize that every genre has its unique audience and requires tailored marketing strategies that resonate with them. That's why we work closely with our authors to understand their genre and create customized marketing plans that suit their needs.</span></div>
                                 </div>
                                 <div class="process-box">
                                     <div class="process-number"><h1>04</h1></div>
-                                    <div class="process-name"><h1>Publishing</h1>
+                                    <div class="process-name"><h1>Transparency</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>After we've designed a captivating cover page for your book, the last step of our ghostwriting process..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">After we've designed a captivating cover page for your book, the last step of our ghostwriting process is to put it out there so everyone can read it. We do this with design skills and make sure that you are able to get access online or in stores. The publishing of your work is an important phase, and we handle this with care.</span></div>
+                                    <div class="process-desc"><p>Our book marketing experts prioritize transparency and effective communication with our..</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">Our book marketing experts prioritize transparency and effective communication with our customers. Transparency builds trust and confidence, essential in creating a successful partnership.</span></div>
                                 </div>
                             </div>
                         </div>
@@ -446,10 +421,12 @@
                                 </div>
                                 <div class="banner-content2">
                                     <div class="desc-about-head">
-                                        <h1>A Sneak Preview Of<span class="brands-color"> Our Simplified</span> Process</h1>
-                                        <p> We understand the fact that writing a book is not an easy job. Our 5-step ghostwriting process is described below:</p>
-                                        <h1>Order<span class="brands-color"> Submission</span></h1>
-                                        <p>When you submit your request, our team will get back with a proposal. We'll discuss everything about the book, from genre and target audience to the number of chapters or pages it'll have in total. You can also share anything that's already written if needed for review purposes.</p>
+                                        <h1>Grasp Your Audience's Attention<span class="brands-color">  With Our Book </span> Marketing Services.</h1>
+                                        <!-- <p> We understand the fact that writing a book is not an easy job. Our 5-step ghostwriting process is described below:</p> -->
+                                        <h1>Marketing <span class="brands-color"> Strategy</span></h1>
+                                        <p>Our expert marketing strategies make your book stand out in a crowded market. With our innovative marketing strategies, your book will reach its full potential and captivate readers worldwide.</p>
+                                        <h1>Multichannel  <span class="brands-color"> Promotion</span></h1>
+                                        <p>Our innovative, creative marketing and proactive multi-channel promotional strategies create a long-lasting impact. And Utilize paid advertising on social media, Amazon, and other platforms to target your ideal audience and drive book sales.</p>
                                     </div>
                                 </div>
                                 <div class="about-btn-inner">

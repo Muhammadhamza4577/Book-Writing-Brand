@@ -142,9 +142,9 @@
                                 <div class="service-desc">
                                     <p>Our team of professional writers and editors at Best Book Writers is committed to providing top-quality writing and editing services for your book.</p>
                                 </div>
-                                <div class="service-btn">
+                                <!-- <div class="service-btn">
                                     <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-sm-3">
@@ -167,9 +167,9 @@
                                 <div class="service-desc">
                                     <p>Our personalized approach guarantees that each client receives individual attention and solutions tailored to their needs.</p>
                                 </div>
-                                <div class="service-btn">
+                                <!-- <div class="service-btn">
                                     <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-sm-3">
@@ -192,9 +192,9 @@
                                 <div class="service-desc">
                                     <p>At Best Book Writers, we believe in delivering high-quality work that meets the satisfaction of our clients. We offer unlimited revisions on all our writing and editing services to ensure this. We aim to provide you're delighted with our work.</p>
                                 </div>
-                                <div class="service-btn">
+                                <!-- <div class="service-btn">
                                     <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-sm-3" >
@@ -217,9 +217,9 @@
                                 <div class="service-desc">
                                     <p>Using our ghostwriting services, you can take advantage of our connections with renowned publishing companies and literary agents. We have assisted many clients in realizing their dreams of becoming published authors and can walk you through the complete publishing procedure.</p>
                                 </div>
-                                <div class="service-btn">
+                                <!-- <div class="service-btn">
                                     <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-sm-3">
@@ -242,9 +242,9 @@
                                 <div class="service-desc">
                                     <p>Publication navigation involves guiding clients through the stages necessary to release their book, such as choosing a publisher or self-publishing platform, formatting the manuscript, creating cover art, and deciding on a marketing strategy.</p>
                                 </div>
-                                <div class="service-btn">
+                                <!-- <div class="service-btn">
                                     <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div>
+                                </div> -->
                             </div>
                     </div>
             </div>
