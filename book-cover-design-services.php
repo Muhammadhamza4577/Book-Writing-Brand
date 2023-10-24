@@ -6,7 +6,75 @@
 <?php include('include/head.php');?>
 <?php include('include/header.php');?>
 <main>
-   <section class="banner service-banner">
+<section class="banner service-banner2">
+      <div class="container">
+         <div class="row justify-content-center">
+            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+               <div class="banner-content-service1">
+               <h1>Custom Book Covers That Captivate -<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  Bringing Your Words 
+                     </span>To Life
+                  </h1>
+                  <p>Turning Your Words into Eye-Catching Art from the best book writers’s book cover design services</p>
+                  <div class="banner-btn2">
+                  <div class="getint">
+                                        <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                                    </div>
+                     <div class="number-btn">
+                        <a href="tel:+1-737-881-7227">
+                           <div class="banner-phone">
+                              <div class="icon_phone">
+                                 <i class="fa fa-phone" aria-hidden="true"></i>
+                              </div>
+                              <div class="banner-head_phone">
+                                 <h5>.Live Chat</h5>
+                                 <h4>+1-737-881-7227</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-1 col-sm-1 col-md-1 col-lg-1 col-xl-1 col-xxl-1"></div>
+            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
+            <div class="banner-form-box">
+                                    <div class="form-box-content">
+                                        <div class="banner-form">
+                                            <div class="banner-form-head">
+                                                <h1>Sign Up Now to <span style="color: #3EBFC2;"> Get 50% </span> Discount</h1>
+                                            </div>
+                                            <div class="banner-form-img">
+                                                <img src="images/book-qoute-img.png" alt="">
+                                            </div>
+                                        </div>
+                                        <form action=""  method=POST>
+                                            <div class="col-sm-12 footerform1">
+                                                <div class="col-sm-6 form-box-inout">
+                                                    <input type="name" placeholder="Full Name" name="fname" value="">
+                                                </div>
+                                                <div class="col-sm-6 form-box-inout">
+                                                    <input type="email" placeholder="Email Address" name="email" value="">
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <input type="tel" placeholder="Phone Number" name="number" value="">
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <textarea name="msg" value="" placeholder="Brief..." id="" rows="3"></textarea>
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <button type="submit" class="custom-btn btn-9 footer-btn">Sign Up</button>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+            </div>
+         </div>
+      </div>
+      </div>
+      </div>
+   </section>
+   <!-- <section class="banner service-banner">
       <div class="container">
          <div class="row justify-content-center">
             <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
@@ -39,7 +107,7 @@
       </div>
       </div>
       </div>
-   </section>
+   </section> -->
    <section class="inner-banner-services">
       <div class="container">
          <div class="row">
@@ -294,6 +362,107 @@
             </div>
         </div>
     </div> 
+   </section>
+
+   <section class="doing-things">
+      <div class="container">
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="do-things-head">
+                <h1>Why Should You Opt For Our <span>  Book Cover Design </span>Services? </h1>
+                <h3>A proactive book cover design is essential to impress the readers. Here are certain core points why you should select Best Book Writers services.</h3>
+            </div>
+        </div>
+        <div class="col-sm-6">
+        <div class="about-btn-inner">
+            <div class="getint">
+               <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+            </div>
+            <div class="number-btn-about">
+               <a href="tel:+1-737-881-7227">
+                  <div class="about-phone">
+                     <div class="about-icon_phone">
+                        <i class="fa fa-phone" aria-hidden="true"></i>
+                     </div>
+                     <div class="about-head_phone">
+                        <h5>.Live Chat</h5>
+                        <h4>+1-737-881-7227</h4>
+                     </div>
+                  </div>
+               </a>
+            </div>
+         </div>
+        </div>
+    </div>
+    <div class="row doing-things-boxes">
+        <div class="doing-thing-box-row1">
+            <div class="col-sm-4">
+                <div class="doing-box1">
+                    <div class="doing-box-img">
+                        <img class="normal" src="images/doing-icon.png" alt="">
+                        <img class="onhover-img" src="images/doing-icon-hover.png" alt="">
+                    </div>
+                    <div class="doing-box-content">
+                        <h1>Valued Customer Feedback</h1>
+                        <p>We value your feedback and suggestions, which is why our customer support team can be reached 24/7. We are always ready to answer any questions you may have about the services we provide.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="doing-box1">
+                    <div class="doing-box-img">
+                        <img class="normal" src="images/doing-icon.png" alt="">
+                        <img class="onhover-img" src="images/doing-icon-hover.png" alt="">
+                    </div>
+                    <div class="doing-box-content">
+                        <h1>Creativity</h1>
+                        <p>The notion of our creativity and expertise allows us to take your ideas to the next level. Our team can create a unique design that will catch people's attention in an instant or a one-of-a-kind cover for your book, so it's easy on their eyes when they see what is inside.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="doing-box1">
+                    <div class="doing-box-img">
+                        <img class="normal" src="images/doing-icon.png" alt="">
+                        <img class="onhover-img" src="images/doing-icon-hover.png" alt="">
+                    </div>
+                    <div class="doing-box-content">
+                        <h1>Experience</h1>
+                        <p>If you're looking for a book designer who can provide 100% customer satisfaction, then look no further than our company. Our designers have years of experience in this industry and always deliver high-quality work each time.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row doing-things-boxes">
+        <div class="doing-thing-box-row1">
+        <div class="col-sm-4">
+                <div class="doing-box1">
+                    <div class="doing-box-img">
+                        <img class="normal" src="images/doing-icon.png" alt="">
+                        <img class="onhover-img" src="images/doing-icon-hover.png" alt="">
+                    </div>
+                    <div class="doing-box-content">
+                        <h1>Tools</h1>
+                        <p>We know how important it is to have a unique and professional-looking book cover design for your next project. That's why we work with top-notch technologies like Adobe Photoshop or Illustrator so that you can be sure every detail of the artwork will match what's inside and stand out against other published works in any genre.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="doing-box1">
+                    <div class="doing-box-img">
+                        <img class="normal" src="images/doing-icon.png" alt="">
+                        <img class="onhover-img" src="images/doing-icon-hover.png" alt="">
+                    </div>
+                    <div class="doing-box-content">
+                        <h1>Transparency</h1>
+                        <p>We take pride in being able to offer 100% work transparency and share every little detail of the book cover design process with our clients. Our dedication is what makes us reliable, reputable businesses that know that you can always rely on a trusted professional when it comes time for your next creative project.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+      </div>
    </section>
    <section class="our-portfolio">
       <?php include('include/portfolio.php');?>

@@ -6,7 +6,75 @@
 <?php include('include/head.php');?>
 <?php include('include/header.php');?>
 <main>
-   <section class="banner service-banner">
+<section class="banner service-banner2">
+      <div class="container">
+         <div class="row justify-content-center">
+            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+               <div class="banner-content-service1">
+               <h1>Experience The Joy Of Publishing Your Book:<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  Let Our Book Publishing Services
+                     </span> Guide You To Success
+                  </h1>
+                  <p>We provide professional book publishing services , who are looking to bring their manuscripts to life</p>
+                  <div class="banner-btn2">
+                  <div class="getint">
+                                        <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                                    </div>
+                     <div class="number-btn">
+                        <a href="tel:+1-737-881-7227">
+                           <div class="banner-phone">
+                              <div class="icon_phone">
+                                 <i class="fa fa-phone" aria-hidden="true"></i>
+                              </div>
+                              <div class="banner-head_phone">
+                                 <h5>.Live Chat</h5>
+                                 <h4>+1-737-881-7227</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-1 col-sm-1 col-md-1 col-lg-1 col-xl-1 col-xxl-1"></div>
+            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
+            <div class="banner-form-box">
+                                    <div class="form-box-content">
+                                        <div class="banner-form">
+                                            <div class="banner-form-head">
+                                                <h1>Sign Up Now to <span style="color: #3EBFC2;"> Get 50% </span> Discount</h1>
+                                            </div>
+                                            <div class="banner-form-img">
+                                                <img src="images/book-qoute-img.png" alt="">
+                                            </div>
+                                        </div>
+                                        <form action=""  method=POST>
+                                            <div class="col-sm-12 footerform1">
+                                                <div class="col-sm-6 form-box-inout">
+                                                    <input type="name" placeholder="Full Name" name="fname" value="">
+                                                </div>
+                                                <div class="col-sm-6 form-box-inout">
+                                                    <input type="email" placeholder="Email Address" name="email" value="">
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <input type="tel" placeholder="Phone Number" name="number" value="">
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <textarea name="msg" value="" placeholder="Brief..." id="" rows="3"></textarea>
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <button type="submit" class="custom-btn btn-9 footer-btn">Sign Up</button>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+            </div>
+         </div>
+      </div>
+      </div>
+      </div>
+   </section>
+   <!-- <section class="banner service-banner">
       <div class="container">
          <div class="row justify-content-center">
             <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
@@ -39,7 +107,7 @@
       </div>
       </div>
       </div>
-   </section>
+   </section> -->
    <section class="inner-banner-services">
       <div class="container">
          <div class="row">
@@ -240,6 +308,118 @@
             </div>
         </div>
     </div> 
+   </section>
+   <section class="doing-things">
+      <div class="container">
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="do-things-head">
+                <h1>By Leveraging Best Book Writers's Book Publishing Services, <span> Authors And Publishers Can Bring Their  </span>Books To Market Efficiently And Effectively.</h1>
+                <h3>Book publishing services include a range of offerings that aim to support authors and publishers in creating and distributing their books. Our book publishing services include:</h3>
+            </div>
+        </div>
+        <div class="col-sm-6">
+        <div class="about-btn-inner">
+            <div class="getint">
+               <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+            </div>
+            <div class="number-btn-about">
+               <a href="tel:+1-737-881-7227">
+                  <div class="about-phone">
+                     <div class="about-icon_phone">
+                        <i class="fa fa-phone" aria-hidden="true"></i>
+                     </div>
+                     <div class="about-head_phone">
+                        <h5>.Live Chat</h5>
+                        <h4>+1-737-881-7227</h4>
+                     </div>
+                  </div>
+               </a>
+            </div>
+         </div>
+        </div>
+    </div>
+    <div class="row doing-things-boxes">
+        <div class="doing-thing-box-row1">
+            <div class="col-sm-4">
+                <div class="doing-box1">
+                    <div class="doing-box-img">
+                        <img class="normal" src="images/doing-icon.png" alt="">
+                        <img class="onhover-img" src="images/doing-icon-hover.png" alt="">
+                    </div>
+                    <div class="doing-box-content">
+                        <h1>Editing and proofreading services</h1>
+                        <p>We help authors refine<br> and polish their manuscripts, <br>ensuring they are free<br> from errors and <br>inconsistencies.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="doing-box1">
+                    <div class="doing-box-img">
+                        <img class="normal" src="images/doing-icon.png" alt="">
+                        <img class="onhover-img" src="images/doing-icon-hover.png" alt="">
+                    </div>
+                    <div class="doing-box-content">
+                        <h1>Cover design and <br> layout</h1>
+                        <p>Best book writers provide services for cover design and layout that can help authors create visually <br>appealing book covers that capture the essence of their <br>work.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="doing-box1">
+                    <div class="doing-box-img">
+                        <img class="normal" src="images/doing-icon.png" alt="">
+                        <img class="onhover-img" src="images/doing-icon-hover.png" alt="">
+                    </div>
+                    <div class="doing-box-content">
+                        <h1>Manuscript formatting and conversion</h1>
+                        <p>These services will help authors convert their manuscripts into different formats, such as ebooks <br>and audiobooks, and ensure they are correctly formatted for <br>publication.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row doing-things-boxes">
+        <div class="doing-thing-box-row1">
+        <div class="col-sm-4">
+                <div class="doing-box1">
+                    <div class="doing-box-img">
+                        <img class="normal" src="images/doing-icon.png" alt="">
+                        <img class="onhover-img" src="images/doing-icon-hover.png" alt="">
+                    </div>
+                    <div class="doing-box-content">
+                        <h1>Printing and <br>distribution</h1>
+                        <p>Our Printing and distribution services help authors and publishers produce physical copies of their books and make them available to bookstores, libraries, and online<br> retailers.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="doing-box1">
+                    <div class="doing-box-img">
+                        <img class="normal" src="images/doing-icon.png" alt="">
+                        <img class="onhover-img" src="images/doing-icon-hover.png" alt="">
+                    </div>
+                    <div class="doing-box-content">
+                        <h1>Marketing and promotional support</h1>
+                        <p>We assist authors and publishers <br> in promoting their books  to their target audience through various<br> channels, such as social media, <br>email marketing, and text<br> tours.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="doing-box1">
+                    <div class="doing-box-img">
+                        <img class="normal" src="images/doing-icon.png" alt="">
+                        <img class="onhover-img" src="images/doing-icon-hover.png" alt="">
+                    </div>
+                    <div class="doing-box-content">
+                        <h1>Copyright registration and legal services</h1>
+                        <p>Copyright registration and legal compliance services will help authors and publishers protect their intellectual property and ensure their books are published legally and ethically.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+      </div>
    </section>
    <section class="our-portfolio">
       <?php include('include/portfolio.php');?>

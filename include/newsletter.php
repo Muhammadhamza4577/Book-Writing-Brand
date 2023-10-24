@@ -12,7 +12,7 @@
                         <input type="email" placeholder="Enter Your Email" name="email" value="">
                     </div>
                     <div class="submit-btn-box">
-                        <button type="submit" class="custom-btn btn-9 submit-btn">Subscribe</button>
+                        <button type="submit" class="custom-btn1 btn-9 submit-btn">Subscribe</button>
                     </div>
                 </form>
             </div>

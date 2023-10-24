@@ -6,7 +6,75 @@
 <?php include('include/head.php');?>
 <?php include('include/header.php');?>
 <main>
-   <section class="banner service-banner">
+<section class="banner service-banner2">
+      <div class="container">
+         <div class="row justify-content-center">
+            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+               <div class="banner-content-service1">
+               <h1>Experience The Magic Of Storytelling<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  Through Ebook Cover Design 
+                     </span>Services
+                  </h1>
+                  <p>While assessing a book with its cover is important, the design should be visually appealing</p>
+                  <div class="banner-btn2">
+                  <div class="getint">
+                                        <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                                    </div>
+                     <div class="number-btn">
+                        <a href="tel:+1-737-881-7227">
+                           <div class="banner-phone">
+                              <div class="icon_phone">
+                                 <i class="fa fa-phone" aria-hidden="true"></i>
+                              </div>
+                              <div class="banner-head_phone">
+                                 <h5>.Live Chat</h5>
+                                 <h4>+1-737-881-7227</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-1 col-sm-1 col-md-1 col-lg-1 col-xl-1 col-xxl-1"></div>
+            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
+            <div class="banner-form-box">
+                                    <div class="form-box-content">
+                                        <div class="banner-form">
+                                            <div class="banner-form-head">
+                                                <h1>Sign Up Now to <span style="color: #3EBFC2;"> Get 50% </span> Discount</h1>
+                                            </div>
+                                            <div class="banner-form-img">
+                                                <img src="images/book-qoute-img.png" alt="">
+                                            </div>
+                                        </div>
+                                        <form action=""  method=POST>
+                                            <div class="col-sm-12 footerform1">
+                                                <div class="col-sm-6 form-box-inout">
+                                                    <input type="name" placeholder="Full Name" name="fname" value="">
+                                                </div>
+                                                <div class="col-sm-6 form-box-inout">
+                                                    <input type="email" placeholder="Email Address" name="email" value="">
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <input type="tel" placeholder="Phone Number" name="number" value="">
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <textarea name="msg" value="" placeholder="Brief..." id="" rows="3"></textarea>
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <button type="submit" class="custom-btn btn-9 footer-btn">Sign Up</button>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+            </div>
+         </div>
+      </div>
+      </div>
+      </div>
+   </section>
+   <!-- <section class="banner service-banner">
       <div class="container">
          <div class="row justify-content-center">
             <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
@@ -40,7 +108,7 @@
       </div>
       </div>
       </div>
-   </section>
+   </section> -->
    <section class="inner-banner-services">
       <div class="container">
          <div class="row">
@@ -267,6 +335,94 @@
         </div>
     </div> 
    </section>
+   <section class="doing-things">
+      <div class="container">
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="do-things-head">
+                <h1>Capture Readers At First Sight - <span>  The Power Of A Significant </span>  Ebook Cover Design </h1>
+                <h3>Our ebook cover design is an essential aspect of ebook publishing because it serves as the first impression of the book for potential reader</h3>
+            </div>
+        </div>
+        <div class="col-sm-6">
+        <div class="about-btn-inner">
+            <div class="getint">
+               <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+            </div>
+            <div class="number-btn-about">
+               <a href="tel:+1-737-881-7227">
+                  <div class="about-phone">
+                     <div class="about-icon_phone">
+                        <i class="fa fa-phone" aria-hidden="true"></i>
+                     </div>
+                     <div class="about-head_phone">
+                        <h5>.Live Chat</h5>
+                        <h4>+1-737-881-7227</h4>
+                     </div>
+                  </div>
+               </a>
+            </div>
+         </div>
+        </div>
+    </div>
+    <div class="row doing-things-boxes">
+        <div class="doing-thing-box-row1">
+            <div class="col-sm-4">
+                <div class="doing-box1">
+                    <div class="doing-box-img">
+                        <img class="normal" src="images/doing-icon.png" alt="">
+                        <img class="onhover-img" src="images/doing-icon-hover.png" alt="">
+                    </div>
+                    <div class="doing-box-content">
+                        <h1>Attracting Attention</h1>
+                        <p>A visually appealing ebook cover can grab the attention of potential readers browsing through the ebook store. We provide eye-catching professional ebook cover designs that can entice readers to click on the book and read the description, increasing the chances of purchasing the book.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="doing-box1">
+                    <div class="doing-box-img">
+                        <img class="normal" src="images/doing-icon.png" alt="">
+                        <img class="onhover-img" src="images/doing-icon-hover.png" alt="">
+                    </div>
+                    <div class="doing-box-content">
+                        <h1>Genre and Content Interaction</h1>
+                        <p>Best book writers always give readers a sense of what the book is about through ebook cover design. Our design always accurately represents the genre and tone of the book, which helps readers understand what they can expect from the book.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="doing-box1">
+                    <div class="doing-box-img">
+                        <img class="normal" src="images/doing-icon.png" alt="">
+                        <img class="onhover-img" src="images/doing-icon-hover.png" alt="">
+                    </div>
+                    <div class="doing-box-content">
+                        <h1>Brand Recognition</h1>
+                        <p>We develop a well-designed ebook cover that can help create brand recognition for an author or a publisher. Consistent design elements across the author's or publisher's books help readers identify their books quickly and develop brand loyalty.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row doing-things-boxes">
+        <div class="doing-thing-box-row1">
+        <div class="col-sm-4">
+                <div class="doing-box1">
+                    <div class="doing-box-img">
+                        <img class="normal" src="images/doing-icon.png" alt="">
+                        <img class="onhover-img" src="images/doing-icon-hover.png" alt="">
+                    </div>
+                    <div class="doing-box-content">
+                        <h1>Standing Out from Competitors</h1>
+                        <p>The ebook market is highly competitive, with thousands of books published every day. We create unique and compelling ebook cover designs that differentiate a book from its competitors and help it stand out in a crowded market.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+      </div>
+   </section>
    <section class="our-portfolio">
       <?php include('include/portfolio.php');?>
    </section>
@@ -356,6 +512,7 @@
          </div>
       </div>
    </section>
+   
    <section class="our-process">
         <div class="container">
             <div class="row justify-content-center">

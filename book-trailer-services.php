@@ -6,7 +6,75 @@
 <?php include('include/head.php');?>
 <?php include('include/header.php');?>
 <main>
-   <section class="banner service-banner">
+   <section class="banner service-banner2">
+      <div class="container">
+         <div class="row justify-content-center">
+            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+               <div class="banner-content-service1">
+                  <h1>Give Your Book The Spotlight It Deserves With A Stunning<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Video Book Trailer.
+                     </span>
+                  </h1>
+                  <p>Do you need an experienced book trailer services to try this new marketing promotion technique? Best book writers is an expert book trailer production company with years of experience, so look no further. Our video book trailer are created to captivate your target audience's attention and leave a lasting impression. Your book will be the talk of the town with our trailer service! We have many specialists, including authors, designers, and filmmakers, who work together to make your writing trailer seem professional.</p>
+                  <div class="banner-btn2">
+                  <div class="getint">
+                                        <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                                    </div>
+                     <div class="number-btn">
+                        <a href="tel:+1-737-881-7227">
+                           <div class="banner-phone">
+                              <div class="icon_phone">
+                                 <i class="fa fa-phone" aria-hidden="true"></i>
+                              </div>
+                              <div class="banner-head_phone">
+                                 <h5>.Live Chat</h5>
+                                 <h4>+1-737-881-7227</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-1 col-sm-1 col-md-1 col-lg-1 col-xl-1 col-xxl-1"></div>
+            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
+            <div class="banner-form-box">
+                                    <div class="form-box-content">
+                                        <div class="banner-form">
+                                            <div class="banner-form-head">
+                                                <h1>Sign Up Now to <span style="color: #3EBFC2;"> Get 50% </span> Discount</h1>
+                                            </div>
+                                            <div class="banner-form-img">
+                                                <img src="images/book-qoute-img.png" alt="">
+                                            </div>
+                                        </div>
+                                        <form action=""  method=POST>
+                                            <div class="col-sm-12 footerform1">
+                                                <div class="col-sm-6 form-box-inout">
+                                                    <input type="name" placeholder="Full Name" name="fname" value="">
+                                                </div>
+                                                <div class="col-sm-6 form-box-inout">
+                                                    <input type="email" placeholder="Email Address" name="email" value="">
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <input type="tel" placeholder="Phone Number" name="number" value="">
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <textarea name="msg" value="" placeholder="Brief..." id="" rows="3"></textarea>
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <button type="submit" class="custom-btn btn-9 footer-btn">Sign Up</button>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+            </div>
+         </div>
+      </div>
+      </div>
+      </div>
+   </section>
+   <!-- <section class="banner service-banner">
       <div class="container">
          <div class="row justify-content-center">
             <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
@@ -39,7 +107,7 @@
       </div>
       </div>
       </div>
-   </section>
+   </section> -->
    <section class="inner-banner-services">
       <div class="container">
          <div class="row">
