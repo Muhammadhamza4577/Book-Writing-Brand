@@ -6,12 +6,12 @@
 <?php include('include/head.php');?>
 <?php include('include/header.php');?>
 <main>
-<section class="banner service-banner2">
+<section class="banner service-banner2" id="ebookcover">
       <div class="container">
          <div class="row justify-content-center">
-            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mybannerservice">
                <div class="banner-content-service1">
-               <h1>Experience The Magic Of Storytelling<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  Through Ebook Cover Design 
+               <h1>Experience The Magic Of Storytelling<span class="span-box-css">  Through Ebook Cover Design 
                      </span>Services
                   </h1>
                   <p>While assessing a book with its cover is important, the design should be visually appealing</p>
@@ -36,7 +36,7 @@
                </div>
             </div>
             <div class="col-1 col-sm-1 col-md-1 col-lg-1 col-xl-1 col-xxl-1"></div>
-            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
+            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5 mybannerservice">
             <div class="banner-form-box">
                                     <div class="form-box-content">
                                         <div class="banner-form">
@@ -124,11 +124,11 @@
    <section class="little-intro-services">
       <div class="container">
          <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
                   <h6>Ebook Cover Design</h6>
-                  <h2>Take Part In The Design<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  Experience For  </span> Best Book Writers.</h2>
+                  <h2>Take Part In The Design<span class="span-box-css">  Experience For  </span> Best Book Writers.</h2>
                   <p>We specialize in creating visually appealing and professional ebook cover design for digital books. A well-designed cover can attract potential readers and make the book stand out among other titles in the digital marketplace. Our Ebook cover designers work closely with authors to ensure the final product aligns with the author's vision for the book</p>
                   <!-- <div class="checklist-box">
                      <div class="check-list-about">
@@ -176,9 +176,9 @@
                   </div>
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-img">
-                  <img src="images/abt-img.png" alt="">
+                  <img src="images/e-bookcoverdesign/1-min.png" alt="">
                </div>
             </div>
          </div>
@@ -568,7 +568,7 @@
                             </div>
                         </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 myprocessbox">
                         <div class="sub-head-about">
                                     <div class="sub-about-img">
                                         <img src="images/pen-about.png" alt="">

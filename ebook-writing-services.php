@@ -6,12 +6,12 @@
 <?php include('include/head.php');?>
 <?php include('include/header.php');?>
 <main>
-<section class="banner service-banner2">
+<section class="banner service-banner2" id="ebookwriting">
       <div class="container">
          <div class="row justify-content-center">
-            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mybannerservice">
                <div class="banner-content-service1">
-               <h1>Transform Your Ideas Into A Compelling <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Story With Our Ebook Writing Services
+               <h1>Transform Your Ideas Into A Compelling <span class="span-box-css"> Story With Our Ebook Writing Services
                      </span>
                   </h1>
                   <p>Our team of experienced writers and editors have a passion for storytelling and a commitment to excellence, ensuring that every ebook we create is of the highest quality.</p>
@@ -36,7 +36,7 @@
                </div>
             </div>
             <div class="col-1 col-sm-1 col-md-1 col-lg-1 col-xl-1 col-xxl-1"></div>
-            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
+            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5 mybannerservice">
             <div class="banner-form-box">
                                     <div class="form-box-content">
                                         <div class="banner-form">
@@ -123,11 +123,11 @@
    <section class="little-intro-services">
       <div class="container">
          <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
                   <h6>Ebook Writing</h6>
-                  <h2>Unleashing The Power Of Your Story With <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Expert Ebook Writing Services </span> By Best Book Writers</h2>
+                  <h2>Unleashing The Power Of Your Story With <span class="span-box-css"> Expert Ebook Writing Services </span> By Best Book Writers</h2>
                   <p>Best book writers are experienced writers who understand the nuances of crafting a compelling e-book that resonates with readers and sets them apart from the competition. We take pride in our ability to create e-books that not only entertain but also educate and inspire readers, leaving a lasting impression that fosters long-term engagement.</p>
                   <!-- <div class="checklist-box">
                      <div class="check-list-about">
@@ -175,23 +175,23 @@
                   </div>
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-img">
-                  <img src="images/abt-img.png" alt="">
+                  <img src="images/e-bookwriting/1-min.png" alt="">
                </div>
             </div>
          </div>
          <div class="row justify-content-center align-items-center about-box-alignment">
-         <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+         <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-img">
-                  <img src="images/abt-img2.png" alt="">
+                  <img src="images/e-bookwriting/22-min.png" alt="">
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
                   <h6>Ebook Writing</h6>
-                  <h2>Unlock The Potential Of Your Story With<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Professional Ebook</span>  Writers.</h2>
+                  <h2>Unlock The Potential Of Your Story With<span class="span-box-css"> Professional Ebook</span>  Writers.</h2>
                   <p>Our Ebook Writing Services USA are designed to bring your story to life and captivate readers with compelling narratives and expert storytelling. We offer eBook writing services to ensure we provide all book production aspects. With our team of professional writers at your disposal, you can enjoy the best and most affordable ebook writing services without sacrificing quality.</p>
                   <!-- <div class="checklist-box">
                      <div class="check-list-about">
@@ -537,7 +537,7 @@
                             </div>
                         </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 myprocessbox">
                         <div class="sub-head-about">
                                     <div class="sub-about-img">
                                         <img src="images/pen-about.png" alt="">
@@ -585,9 +585,9 @@
     <section class="little-intro-services">
       <div class="container">
          <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-content">
-                  <h2>Take Your Ebook Writing To <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  The Next Level With Our </span>  Expert Team Of Writers</h2>
+                  <h2>Take Your Ebook Writing To <span class="span-box-css">  The Next Level With Our </span>  Expert Team Of Writers</h2>
                   <p>Looking to publish your own book? Our eBook writing service offers the perfect solution. With our team of award-winning writers and editors, we have helped numerous clients achieve success, and we are confident that we can help you too. You can trust us to provide top-quality writing and editing services that will ensure your project looks great and captivates your readers.</p>
                   <div class="about-btn-inner">
                   <div class="getint">
@@ -609,9 +609,9 @@
                   </div>
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-img">
-                  <img src="images/abt-img.png" alt="">
+                  <img src="images/e-bookwriting/3-min.png" alt="">
                </div>
             </div>
          </div>

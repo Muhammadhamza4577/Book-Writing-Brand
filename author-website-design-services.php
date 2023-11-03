@@ -6,12 +6,12 @@
 <?php include('include/head.php');?>
 <?php include('include/header.php');?>
 <main>
-<section class="banner service-banner2">
+<section class="banner service-banner2" id="authorbook">
       <div class="container">
          <div class="row justify-content-center">
-            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mybannerservice">
                <div class="banner-content-service1">
-               <h1>Professional Author Website Design Services <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Present Your Books, Expand Your Readership</span>, And Attract In Your Ideal Audience
+               <h1>Professional Author Website Design Services <span class="span-box-css"> Present Your Books, Expand Your Readership</span>, And Attract In Your Ideal Audience
                   </h1>
                   <p>Do you want to greatly simplify the path to becoming a flourishing author? Give your website a polished appearance by using our author website design right away!</p>
                   <div class="banner-btn2">
@@ -35,7 +35,7 @@
                </div>
             </div>
             <div class="col-1 col-sm-1 col-md-1 col-lg-1 col-xl-1 col-xxl-1"></div>
-            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
+            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5 mybannerservice">
             <div class="banner-form-box">
                                     <div class="form-box-content">
                                         <div class="banner-form">
@@ -121,11 +121,11 @@
    <section class="little-intro-services">
       <div class="container">
          <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
                   <h6>Author Website Designer</h6>
-                  <h2>Hire Author Website Designer <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  At Best Book  </span> Writers</h2>
+                  <h2>Hire Author Website Designer <span class="span-box-css">  At Best Book  </span> Writers</h2>
                   <p>Whether you're a best-selling author, a freelance writer, or a blogger, showing your work requires a well-designed author website. Our author website designers are working with writers to develop websites that are not only attractive to look at but also simple to operate freely.</p>
                   <!-- <div class="checklist-box">
                      <div class="check-list-about">
@@ -173,23 +173,23 @@
                   </div>
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-img">
-                  <img src="images/abt-img.png" alt="">
+                  <img src="images/authorwebsite/1-min.png" alt="">
                </div>
             </div>
          </div>
          <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                   <div class="little-intro-img">
-                     <img src="images/abt-img2.png" alt="">
+                     <img src="images/authorwebsite/2-min.png" alt="">
                   </div>
                </div>
-               <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+               <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
                   <h6>Author Website Designer</h6>
-                  <h2>Our Expert Website Designers For Authors Focuses <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  On Providing A Stunning, Personalized </span>Word Press Site At An Affordable Price.</h2>
+                  <h2>Our Expert Website Designers For Authors Focuses <span class="span-box-css">  On Providing A Stunning, Personalized </span>Word Press Site At An Affordable Price.</h2>
                   <p>Best book writers renowned with authors since we're simple to deal with and have a thorough understanding of the elements that make up an excellent book author website. We make changes to your website so that it functions and looks terrific. Your website should display your work and emphasize your professionalism. We excelhttp://localhost/newpageadd/images/grab-readers.jpg in creating unique portfolios that highlight your writing.<br><br>Our website design for writers focusing on the elements that are most important to writers. Our WordPress websites are quicker and better optimized to rank higher across the board. For better reader access, we integrate with your social network accounts. Every website has a connection to Google Analytics, allowing you to monitor your visitors starting on the day it launches.</p>
                   <!-- <div class="checklist-box">
                      <div class="check-list-about1">
@@ -544,52 +544,52 @@
                             <div class="col-sm-6 process-boxes">
                                 <div class="process-box">
                                     <div class="process-number"><h1>01</h1></div>
-                                    <div class="process-name"><h1>Outline Drafting</h1>
+                                    <div class="process-name"><h1>First Webpage Approval</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>Once we have gathered all of your information, our team will put together an outline for you..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">Once we have gathered all of your information, our team will put together an outline for you. This is the perfect way to make sure that every chapter fits with what's come before and after it in terms of direction.</span></div>
+                                    <div class="process-desc"><p>The initial homepage will then develop shape, ideally capturing the visitors' attention and creating...</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">The initial homepage will then develop shape, ideally capturing the visitors' attention and creating an appealing first impression. If the author is satisfied with the initial homepage, the subsequent web pages will be designed similarly, considering the author's ideas and requirements.</span></div>
 
                                 </div>
                                 <div class="process-box">
                                     <div class="process-number"><h1>02</h1></div>
-                                    <div class="process-name"><h1>Ghostwriting</h1>
+                                    <div class="process-name"><h1>Prototype Designing</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>The ghostwriting process starts as soon as you approve the outline. A suitable writer is assigned..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">The ghostwriting process starts as soon as you approve the outline. A suitable writer is assigned to work on your first chapter and sends back completed content every few weeks or months, depending upon how much editing needs to be done in between drafts. However, we manage the deadline based on your requests and demands.</span></div>
+                                    <div class="process-desc"><p>Our designers will design a website prototype with a color scheme that matches the writer's...</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">Our designers will design a website prototype with a color scheme that matches the writer's style using the writer's brand, style, and design preferences. We check over the design to make sure it is complete and make any necessary modifications.</span></div>
 
                                 </div>
                             </div>
                             <div class="col-sm-6 process-boxes">
                                 <div class="process-box">
                                     <div class="process-number"><h1>03</h1></div>
-                                    <div class="process-name"><h1>Editing And Formatting</h1>
+                                    <div class="process-name"><h1>Optimize For Search Engine</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>Best Book Writers will help you create a book that is free from errors and poor sentence structures..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">Best Book Writers will help you create a book that is free from errors and poor sentence structures. Our team of experts has rigorous editing on their tasks, making sure to give your content cleanliness while also making it easy for readers.</span></div>
+                                    <div class="process-desc"><p>Our team of experts will use high-performing related keywords, meta tags, and descriptions to optimize...</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">Our team of experts will use high-performing related keywords, meta tags, and descriptions to optimize the website for search engines. To execute a marketing strategy and drive significant traffic through SEO-rich content.</span></div>
                                 </div>
                                 <div class="process-box">
                                     <div class="process-number"><h1>04</h1></div>
-                                    <div class="process-name"><h1>Publishing</h1>
+                                    <div class="process-name"><h1>Test And Launch</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>After we've designed a captivating cover page for your book, the last step of our ghostwriting process..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">After we've designed a captivating cover page for your book, the last step of our ghostwriting process is to put it out there so everyone can read it. We do this with design skills and make sure that you are able to get access online or in stores. The publishing of your work is an important phase, and we handle this with care.</span></div>
+                                    <div class="process-desc"><p>We will test the website after it has been designed to make sure it runs well and is error-free...</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">We will test the website after it has been designed to make sure it runs well and is error-free. Following that, we'll launch it and provide continuous support and servicing.</span></div>
                                 </div>
                             </div>
                         </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 myprocessbox">
                         <div class="sub-head-about">
                                     <div class="sub-about-img">
                                         <img src="images/pen-about.png" alt="">
@@ -600,10 +600,11 @@
                                 </div>
                                 <div class="banner-content2">
                                     <div class="desc-about-head">
-                                        <h1>A Sneak Preview Of<span class="brands-color"> Our Simplified</span> Process</h1>
-                                        <p> We understand the fact that writing a book is not an easy job. Our 5-step ghostwriting process is described below:</p>
+                                        <h1>Our Expert Website Designers For Authors <span class="brands-color"> Focuses On Providing A Stunning, Personalized </span> Word Press Site At An Affordable Price.</h1>
+                                        <p>Best book writers renowned with authors since we're simple to deal with and have a thorough understanding of the elements that make up an excellent book author website. We make changes to your website so that it functions and looks terrific. Your website should display your work and emphasize your professionalism. We excel in creating unique portfolios that highlight your writing. <br> <br> Our website design for writers focusing on the elements that are most important to writers. Our WordPress websites are quicker and better optimized to rank higher across the board. For better reader access, we integrate with your social network accounts. Every website has a connection to Google Analytics, allowing you to monitor your visitors starting on the day it launches.</p>
+                                        <h1>A Simple 5 Steps<span class="brands-color">  Author Websites </span>Design Services</h1>
                                         <h1>Order<span class="brands-color"> Submission</span></h1>
-                                        <p>When you submit your request, our team will get back with a proposal. We'll discuss everything about the book, from genre and target audience to the number of chapters or pages it'll have in total. You can also share anything that's already written if needed for review purposes.</p>
+                                        <p>By completing a short form on our website, place an order. When necessary, provide the necessary details; then, wait to be greeted by our managers.</p>
                                     </div>
                                 </div>
                                 <div class="about-btn-inner">

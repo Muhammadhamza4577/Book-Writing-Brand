@@ -11,9 +11,7 @@
          <div class="row justify-content-center">
             <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                <div class="banner-content-service">
-                  <h1><span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">Contact 
-                     </span>Us
-                  </h1>
+                  <h1><span class="span-box-css">Contact </span>Us</h1>
                   <p>We would love to hear from you! Whether you have a question, feedback, or a business<br> inquiry, please feel free to get in touch with us. Our team is here to assist you and will do<br> our best to respond promptly.</p>
                </div>
             </div>

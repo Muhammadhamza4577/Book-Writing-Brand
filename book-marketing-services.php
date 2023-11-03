@@ -6,12 +6,12 @@
 <?php include('include/head.php');?>
 <?php include('include/header.php');?>
 <main>
-<section class="banner service-banner2">
+<section class="banner service-banner2" id="bookmarketing">
       <div class="container">
          <div class="row justify-content-center">
-            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mybannerservice">
                <div class="banner-content-service1">
-               <h1>Let Us Help You Share Your Story With The World With<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  Our Book Marketing Services 
+               <h1>Let Us Help You Share Your Story With The World With<span class="span-box-css">  Our Book Marketing Services 
                      </span>For Authors And Publishers.
                   </h1>
                   <p>Our book marketing experts are designed to help authors promote their books and reach a wider audience</p>
@@ -36,7 +36,7 @@
                </div>
             </div>
             <div class="col-1 col-sm-1 col-md-1 col-lg-1 col-xl-1 col-xxl-1"></div>
-            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
+            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5 mybannerservice">
             <div class="banner-form-box">
                                     <div class="form-box-content">
                                         <div class="banner-form">
@@ -123,11 +123,11 @@
    <section class="little-intro-services">
       <div class="container">
          <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
                   <h6>Book Marketing</h6>
-                  <h2>Amplify Your Voice, Elevate Your Story: <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  Reap The Benefits Of Our  </span> Book Marketing Company</h2>
+                  <h2>Amplify Your Voice, Elevate Your Story: <span class="span-box-css">  Reap The Benefits Of Our  </span> Book Marketing Company</h2>
                   <p>Best book writers have a team of experienced marketers who profoundly understands the book industry and the latest marketing trends, hire a book marketer to create innovative and effective marketing campaigns that deliver results. We offer a range of services, including social media marketing, email marketing, book trailers, paid advertising, and more.</p>
                   <!-- <div class="checklist-box">
                      <div class="check-list-about">
@@ -175,9 +175,9 @@
                   </div>
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-img">
-                  <img src="images/abt-img.png" alt="">
+                  <img src="images/bookmarketing/1-min.png" alt="">
                </div>
             </div>
          </div>
@@ -478,7 +478,7 @@
                             </div>
                         </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 myprocessbox">
                         <div class="sub-head-about">
                                     <div class="sub-about-img">
                                         <img src="images/pen-about.png" alt="">

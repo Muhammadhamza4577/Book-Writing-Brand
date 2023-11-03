@@ -6,12 +6,12 @@
 <?php include('include/head.php');?>
 <?php include('include/header.php');?>
 <main>
-   <section class="banner service-banner2">
+   <section class="banner service-banner2" id="booktrailer">
       <div class="container">
          <div class="row justify-content-center">
-            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mybannerservice">
                <div class="banner-content-service1">
-                  <h1>Give Your Book The Spotlight It Deserves With A Stunning<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Video Book Trailer.
+                  <h1>Give Your Book The Spotlight It Deserves With A Stunning<span class="span-box-css"> Video Book Trailer.
                      </span>
                   </h1>
                   <p>Do you need an experienced book trailer services to try this new marketing promotion technique? Best book writers is an expert book trailer production company with years of experience, so look no further. Our video book trailer are created to captivate your target audience's attention and leave a lasting impression. Your book will be the talk of the town with our trailer service! We have many specialists, including authors, designers, and filmmakers, who work together to make your writing trailer seem professional.</p>
@@ -36,7 +36,7 @@
                </div>
             </div>
             <div class="col-1 col-sm-1 col-md-1 col-lg-1 col-xl-1 col-xxl-1"></div>
-            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
+            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5 mybannerservice">
             <div class="banner-form-box">
                                     <div class="form-box-content">
                                         <div class="banner-form">
@@ -126,11 +126,11 @@
    <section class="little-intro-services">
       <div class="container">
       <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
                   <h6>Book Trailer</h6>
-                  <h2>Providing Video Book Trailer Services <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> For Aspiring Writers Who Want  </span> To Do Just A Little Bit More.</h2>
+                  <h2>Providing Video Book Trailer Services <span class="span-box-css"> For Aspiring Writers Who Want  </span> To Do Just A Little Bit More.</h2>
                   <p>Want your new book to grab the attention of your readers right away? This wouldn't have been conceivable a few years ago, but it is now with the Internet and video. People enjoy watching videos and staying attached to platforms like YouTube, social media, etc. Best book writers can produce a video book trailer and market it on several digital platforms so readers can find you immediately. We promise that by using video to advertise your book, you will achieve success swiftly, regardless of budget.</p>
                   <!-- <div class="checklist-box">
                      <div class="check-list-about1">
@@ -182,23 +182,23 @@
                   </div>
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-img">
-                  <img src="images/abt-img.png" alt="">
+                  <img src="images/booktrailer/1-min.png" alt="">
                </div>
             </div>
          </div>
       <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                   <div class="little-intro-img">
-                     <img src="images/abt-img2.png" alt="">
+                     <img src="images/booktrailer/2-min.png" alt="">
                   </div>
                </div>
-               <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+               <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                   <div class="little-intro-content">
                      <img src="images/pen-about.png" class="abt-pen" alt="">
                      <h6>Book Trailer</h6>
-                     <h2>Highly Creative Video <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Book Trailer, Grab The </span> Audience's Attention</h2>
+                     <h2>Highly Creative Video <span class="span-box-css"> Book Trailer, Grab The </span> Audience's Attention</h2>
                      <p>A book trailer video gives the reader another opportunity to experience a captivating story. It is the most effective methods of introducing the book's possibilities to recommended readers. We at Best book writers can assist you with this. We can make an intriguing video book production and advertise it across various digital platforms so that readers may find you right away.</p>
                      <!-- <div class="checklist-box">
                         <div class="check-list-about">
@@ -248,11 +248,11 @@
                </div>
          </div>
          <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
                   <h6>Book Trailer</h6>
-                  <h2>Catch the Maximum Attention <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  by our Video Book </span> Trailer Production</h2>
+                  <h2>Catch the Maximum Attention <span class="span-box-css">  by our Video Book </span> Trailer Production</h2>
                   <p>Video book trailer services at Best book writers are well-versed in production components and assist writers in promoting books through book trailer video marketing. Using top-notch footage, music, and a professional voice-over, we produce an exciting and professional trailer for your book.</p>
                   <!-- <div class="checklist-box">
                      <div class="check-list-about1">
@@ -304,9 +304,9 @@
                   </div>
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-img">
-                  <img src="images/abt-img.png" alt="">
+                  <img src="images/booktrailer/3-min.png" alt="">
                </div>
             </div>
          </div>      
@@ -587,52 +587,52 @@
                             <div class="col-sm-6 process-boxes">
                                 <div class="process-box">
                                     <div class="process-number"><h1>01</h1></div>
-                                    <div class="process-name"><h1>Conceptualization</h1>
-                                        <span class="process-divider">
-                                            <div class="dividers-process"></div>
-                                        </span>
-                                    </div>
-                                    <div class="process-desc"><p>An expert in the genre is chosen to examine your book from the writer's point of view and extract potential..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">ideas for a video trailer. During this stage, we encourage and value your thoughts and comments.</span></div>
-
-                                </div>
-                                <div class="process-box">
-                                    <div class="process-number"><h1>02</h1></div>
                                     <div class="process-name"><h1>Video Script</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>The essential elements are delivered to one of our professional screenwriters, who create a..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">detailed video script based on the information gathered in the previous phase. Before we proceed, the writing is delivered to the author for approval.</span></div>
+                                    <div class="process-desc"><p>The essential elements are delivered to one of our professional screenwriters, who create a detailed ..</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">The essential elements are delivered to one of our professional screenwriters, who create a detailed video script based on the information gathered in the previous phase. Before we proceed, the writing is delivered to the author for approval.</span></div>
+
+                                </div>
+                                <div class="process-box">
+                                    <div class="process-number"><h1>02</h1></div>
+                                    <div class="process-name"><h1>Animation</h1>
+                                        <span class="process-divider">
+                                            <div class="dividers-process"></div>
+                                        </span>
+                                    </div>
+                                    <div class="process-desc"><p>The script is ready for production after any necessary adjustments. Our team of producers,..</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">The script is ready for production after any necessary adjustments. Our team of producers, who create some of the best book trailers in the publishing sector, works on creating an enthralling book trailer video.</span></div>
 
                                 </div>
                             </div>
                             <div class="col-sm-6 process-boxes">
                                 <div class="process-box">
                                     <div class="process-number"><h1>03</h1></div>
-                                    <div class="process-name"><h1>Animation</h1>
+                                    <div class="process-name"><h1>Music & Voice Over</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>The script is ready for production after any necessary adjustments. Our team of producers..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">who create some of the best book trailers in the publishing sector, works on creating an enthralling book trailer video.</span></div>
+                                    <div class="process-desc"><p>Epic music appropriate for the video created in the previous phase is added to bring the trailer..</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">Epic music appropriate for the video created in the previous phase is added to bring the trailer video to life. The voice over carefully added and filled with effects in this step.</span></div>
                                 </div>
                                 <div class="process-box">
                                     <div class="process-number"><h1>04</h1></div>
-                                    <div class="process-name"><h1>Publishing</h1>
+                                    <div class="process-name"><h1>Final Approval</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>After we've designed a captivating cover page for your book, the last step of our ghostwriting process..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">After we've designed a captivating cover page for your book, the last step of our ghostwriting process is to put it out there so everyone can read it. We do this with design skills and make sure that you are able to get access online or in stores. The publishing of your work is an important phase, and we handle this with care.</span></div>
+                                    <div class="process-desc"><p>We will only stop working once we have achieved complete client satisfaction. The video..</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">We will only stop working once we have achieved complete client satisfaction. The video is edited and changed in response to the client's feedback and ideas until it is ideal. You may be confident that you will receive the best possible product.</span></div>
                                 </div>
                             </div>
                         </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 myprocessbox">
                         <div class="sub-head-about">
                                     <div class="sub-about-img">
                                         <img src="images/pen-about.png" alt="">
@@ -645,8 +645,10 @@
                                     <div class="desc-about-head">
                                         <h1>Process Of Video Book Of<span class="brands-color"> Publishing</span></h1>
                                         <p> The various steps invloved in creating a fascinating video book trialer, from planning to promotion:</p>
-                                        <h1>Order<span class="brands-color"> Submission</span></h1>
-                                        <p>WBook the position by providing the necessary details about your video book trailer. Upload any ideas, audio, or instructions that you want to have in your book. A manager will then welcome you and respond to all the information you have been given.</p>
+                                        <h1>Order<span class="brands-color"> Confirmation</span></h1>
+                                        <p>Book the position by providing the necessary details about your video book trailer. Upload any ideas, audio, or instructions that you want to have in your book. A manager will then welcome you and respond to all the information you have been given.</p>
+                                        <h1>Conceptua<span class="brands-color">lization</span></h1>
+                                        <p>An expert in the genre is chosen to examine your book from the writer's point of view and extract potential ideas for a video trailer. During this stage, we encourage and value your thoughts and comments.</p>
                                     </div>
                                 </div>
                                 <div class="about-btn-inner">

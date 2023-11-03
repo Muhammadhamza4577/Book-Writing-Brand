@@ -7,16 +7,16 @@
 <?php include('include/head.php');?>
 <?php include('include/header.php');?>
 <main>
-   <section class="banner service-banner">
+<section class="banner service-banner2" id="bookillustration">
       <div class="container">
          <div class="row justify-content-center">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
-               <div class="banner-content-service">
-                  <h1>Get Beautiful And Reliable<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  Book Illustration Services 
-                     </span>By Best Book Writers
+            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mybannerservice">
+               <div class="banner-content-service1">
+               <h1>Get Beautiful And Reliable<span class="span-box-css"> Book Illustration Services 
+                     </span>By Best Book Writers.
                   </h1>
                   <p>Best Book Writers are the perfect company for you if you're a self-publishing author looking for beautiful book illustrations at an exceptional rate. Our online book illustrators draw stunning, entirely original images for any genre.</p>
-                  <div class="banner-btn">
+                  <div class="banner-btn2">
                   <div class="getint">
                                         <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
                                     </div>
@@ -36,11 +36,45 @@
                   </div>
                </div>
             </div>
+            <div class="col-1 col-sm-1 col-md-1 col-lg-1 col-xl-1 col-xxl-1"></div>
+            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5 mybannerservice">
+            <div class="banner-form-box">
+                                    <div class="form-box-content">
+                                        <div class="banner-form">
+                                            <div class="banner-form-head">
+                                                <h1>Sign Up Now to <span style="color: #3EBFC2;"> Get 50% </span> Discount</h1>
+                                            </div>
+                                            <div class="banner-form-img">
+                                                <img src="images/book-qoute-img.png" alt="">
+                                            </div>
+                                        </div>
+                                        <form action=""  method=POST>
+                                            <div class="col-sm-12 footerform1">
+                                                <div class="col-sm-6 form-box-inout">
+                                                    <input type="name" placeholder="Full Name" name="fname" value="">
+                                                </div>
+                                                <div class="col-sm-6 form-box-inout">
+                                                    <input type="email" placeholder="Email Address" name="email" value="">
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <input type="tel" placeholder="Phone Number" name="number" value="">
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <textarea name="msg" value="" placeholder="Brief..." id="" rows="3"></textarea>
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <button type="submit" class="custom-btn btn-9 footer-btn">Sign Up</button>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+            </div>
          </div>
       </div>
       </div>
       </div>
-   </section>
+   </section>  
    <section class="inner-banner-services">
       <div class="container">
          <div class="row">
@@ -56,11 +90,11 @@
    <section class="little-intro-services">
       <div class="container">
       <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
                   <h6>Book Illustration</h6>
-                  <h2>Book Illustration Services from <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  Our Elite Team of Book Illustrators  </span> for Hire</h2>
+                  <h2>Book Illustration Services from <span class="span-box-css">  Our Elite Team of Book Illustrators  </span> for Hire</h2>
                   <p>Best Book Writers have experience providing book illustration services for printing and ebooks. Your nightmare of having illustrations that are the wrong format or size will never come true when working with us. Hire book illustrator and do your story justice and create an emotional connection.</p>
                   <!-- <div class="checklist-box">
                      <div class="check-list-about1">
@@ -112,23 +146,23 @@
                   </div>
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-img">
-                  <img src="images/abt-img.png" alt="">
+                  <img src="images/bookiIllustration/1-min.png" alt="">
                </div>
             </div>
          </div>
       <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                   <div class="little-intro-img">
-                     <img src="images/abt-img2.png" alt="">
+                     <img src="images/bookiIllustration/2-min.png" alt="">
                   </div>
                </div>
-               <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+               <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                   <div class="little-intro-content">
                      <img src="images/pen-about.png" class="abt-pen" alt="">
                      <h6>Book Illustration</h6>
-                     <h2>Hire Children’s Book <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Illustrators at Best </span>  Book Writers</h2>
+                     <h2>Hire Children’s Book <span class="span-box-css"> Illustrators at Best </span>  Book Writers</h2>
                      <p>We offer Stunning, realistic book images that engage readers and help bring your stories to life. With vibrant, in-depth graphics that set your book apart from the competition, you can make people come into being and landscapes leap off the page. A little visual aid can sometimes make a big difference in poetry or children's book illustration.</p>
                      <!-- <div class="checklist-box">
                         <div class="check-list-about">
@@ -178,11 +212,11 @@
                </div>
          </div>
          <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
                   <h6>Book Illustration</h6>
-                  <h2>Appealing Illustrations <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  Will Attract  </span>Your Readers' Attention.</h2>
+                  <h2>Appealing Illustrations <span class="span-box-css">  Will Attract  </span>Your Readers' Attention.</h2>
                   <p>We have a pool of expert online book illustrators available for hiring who can assist in making your concept a reality. Whether you require illustrations for a page cover or a character, you can rely on our illustrators to deliver outstanding pieces of art. We'll assist you in selecting an illustrator whose approach fits your book.</p>
                   <!-- <div class="checklist-box">
                      <div class="check-list-about1">
@@ -234,23 +268,23 @@
                   </div>
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-img">
-                  <img src="images/abt-img.png" alt="">
+                  <img src="images/bookiIllustration/3-min.png" alt="">
                </div>
             </div>
          </div>
          <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                   <div class="little-intro-img">
-                     <img src="images/abt-img2.png" alt="">
+                     <img src="images/bookiIllustration/4-min.png" alt="">
                   </div>
                </div>
-               <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+               <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
                   <h6>Book Illustration</h6>
-                  <h2>Before Choosing An<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  Illustrator</span>, Focus On Your Style.</h2>
+                  <h2>Before Choosing An<span class="span-box-css">  Illustrator</span>, Focus On Your Style.</h2>
                   <!-- <p>We are a creative bunch of aspiring adults who are making things happen for people with kickass ideas and amazing stories to tell. We write books on behalf of those individuals, giving them a voice in an increasingly busy world where one's individuality can be lost within seconds if not premiered properly-and then there is always our passion. More than a decade-long collective experience has enabled us to specialize globally in writing services offered worldwide.</p> -->
                   <div class="checklist-box">
                      <div class="check-list-about1">
@@ -626,7 +660,7 @@
                             </div>
                         </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 myprocessbox">
                         <div class="sub-head-about">
                                     <div class="sub-about-img">
                                         <img src="images/pen-about.png" alt="">

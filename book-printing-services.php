@@ -7,12 +7,12 @@
 <?php include('include/head.php');?>
 <?php include('include/header.php');?>
 <main>
-<section class="banner service-banner2">
+<section class="banner service-banner2" id="bookprinting">
       <div class="container">
          <div class="row justify-content-center">
-            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mybannerservice">
                <div class="banner-content-service1">
-               <h1>Discover The Power Of Printed Books With Our<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Book Printing Company.
+               <h1>Discover The Power Of Printed Books With Our<span class="span-box-css"> Book Printing Company.
                      </span>
                   </h1>
                   <p>For almost four decades, we've helped authors and publishers print your own books at affordable prices. Our hands-on approach and exceptional service ensure that our books satisfy our exacting requirements.</p>
@@ -37,7 +37,7 @@
                </div>
             </div>
             <div class="col-1 col-sm-1 col-md-1 col-lg-1 col-xl-1 col-xxl-1"></div>
-            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
+            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5 mybannerservice">
             <div class="banner-form-box">
                                     <div class="form-box-content">
                                         <div class="banner-form">
@@ -184,7 +184,7 @@
          </div> -->
          <div class="row justify-content-center align-items-center about-box-alignment">
             <div class="col-sm-12">
-               <div class="our-services-boxes-book-print">
+               <div class="our-services-boxes">
                   <h1>FROM DESIGN TO DELIVERY, WE ARE DEDICATED TO PROVIDING OUTSTANDING BOOK PRINTING SERVICES.</h1>
                   <p>Best Book Writers are dedicated to assisting you in achieving reader expectations, reaching new audiences, and generating revenue streams by providing nothing less than great quality and service that evolves with the industry. Whether you're looking to print book online or seeking assistance with a larger project, we also offer various book printing services for self-publishers to fit your unique needs. That is our promise to you for every project.</p>
                </div>
@@ -192,7 +192,7 @@
             <div class="col-sm-12">
             <div class="service-upper-box sliderserv" >
                         <div class="col-sm-3">
-                            <div class="service-inner-box">
+                            <div class="service-inner-box myboxheight">
                                 <div class="service-box">
                                     <div class="service-num">
                                         <h1>01</h1>
@@ -217,7 +217,7 @@
                             </div>
                         </div>
                         <div class="col-sm-3">
-                            <div class="service-inner-box">
+                            <div class="service-inner-box myboxheight">
                                 <div class="service-box">
                                     <div class="service-num">
                                         <h1>02</h1>
@@ -242,7 +242,7 @@
                             </div>
                         </div>
                         <div class="col-sm-3">
-                            <div class="service-inner-box">
+                            <div class="service-inner-box myboxheight">
                                 <div class="service-box">
                                     <div class="service-num">
                                         <h1>03</h1>
@@ -267,7 +267,7 @@
                             </div>
                         </div>
                         <div class="col-sm-3" >
-                            <div class="service-inner-box">
+                            <div class="service-inner-box myboxheight">
                                 <div class="service-box">
                                     <div class="service-num">
                                         <h1>04</h1>
@@ -292,7 +292,7 @@
                             </div>
                         </div>
                         <div class="col-sm-3">
-                            <div class="service-inner-box">
+                            <div class="service-inner-box myboxheight">
                                 <div class="service-box">
                                     <div class="service-num">
                                         <h1>05</h1>
@@ -504,7 +504,7 @@
                             </div>
                         </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 myprocessbox">
                         <div class="sub-head-about">
                                     <div class="sub-about-img">
                                         <img src="images/pen-about.png" alt="">

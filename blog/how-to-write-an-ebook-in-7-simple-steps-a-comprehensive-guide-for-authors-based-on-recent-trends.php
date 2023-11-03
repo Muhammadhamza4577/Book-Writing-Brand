@@ -7,17 +7,20 @@
 <?php include('../include/header-blog.php');?>
 <main>
 
-<section class="banner blog">
-<div class="container">
-<div class="row justify-content-center">
-<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
-<div class="banner-content">
-<h5>How To Write An EBook In 7 Simple Steps- A Comprehensive Guide For Authors Based On Recent Trends</h5>
-</div>
-</div>
-</div>
-</div>
-</section>
+<section class="banner banner2">
+      <div class="container">
+         <div class="row justify-content-center">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
+               <div class="banner-content-about">
+                  <h1>How To Write An Ebook In 7 <span class="span-box-css"> Simple Steps- A Comprehensive Guide 
+                  </span> For Authors Based On Recent Trends</h1>
+               </div>
+            </div>
+         </div>
+      </div>
+      </div>
+      </div>
+   </section>
 
 
 <section class="blog-mainn">

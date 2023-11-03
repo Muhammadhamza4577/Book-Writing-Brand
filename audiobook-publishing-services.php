@@ -6,12 +6,12 @@
 <?php include('include/head.php');?>
 <?php include('include/header.php');?>
 <main>
-<section class="banner service-banner2">
+<section class="banner service-banner2" id="audiobook">
       <div class="container">
          <div class="row justify-content-center">
-            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mybannerservice">
                <div class="banner-content-service1">
-               <h1>Are You Looking For The Best Audiobook <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Publishing? You've Got To 
+               <h1>Are You Looking For The Best Audiobook <span class="span-box-css"> Publishing? You've Got To 
                      </span>The Right Place!
                   </h1>
                   <p>Are you exploring a narrator for your audiobook who can make your story come to life? Look nowhere else! Best book writers take pride in providing exceptional audiobook publishing services customized to each client's requirements. We have a team of outstanding audiobook narrators committed to providing captivating performances that hold listeners' attention from beginning to end and have a variety of genre specialties. Additionally, we use innovative sound engineering methods and recording technology to make audiobooks up to the highest quality standards.</p>
@@ -36,7 +36,7 @@
                </div>
             </div>
             <div class="col-1 col-sm-1 col-md-1 col-lg-1 col-xl-1 col-xxl-1"></div>
-            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
+            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5 mybannerservice">
             <div class="banner-form-box">
                                     <div class="form-box-content">
                                         <div class="banner-form">
@@ -123,11 +123,11 @@
    <section class="little-intro-services">
       <div class="container">
       <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
                   <h6>Audiobook Publishing</h6>
-                  <h2>Bring Your Story To Life <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">   With The Perfect  </span> Audiobook Narrator.</h2>
+                  <h2>Bring Your Story To Life <span class="span-box-css">   With The Perfect  </span> Audiobook Narrator.</h2>
                   <p>Audio is one of the book industry's fastest-growing areas, and it's now simpler than ever to download and listen to audiobooks on the move. It is quick and easy to cast and hire a voice actor to record your book as an audiobook. You can employ solo narration or an individual narrator for an audiobook. Alternatively, you could use a cast of narrators to voice various roles. We have highly skilled audiobook narrators who comprehend the significance of each critical component contributing to the best narrating and incorporating it into their position. Our audiobook narrators are professional at ensuring consistency in solo and multi-voice narration. We continuously review our prior audios to verify consistency and maintain quality. Best book writers offer a variety of promotional tools to help authors promote their audiobooks and reach a wider audience through audible self-publishing services. Hiring our professional audiobook publishers to narrate your audiobook's quality and sales can be significantly enhanced.</p>
                   <!-- <div class="checklist-box">
                      <div class="check-list-about1">
@@ -179,23 +179,23 @@
                   </div>
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-img">
-                  <img src="images/abt-img.png" alt="">
+                  <img src="images/audiobook/1-min.png" alt="">
                </div>
             </div>
          </div>
       <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                   <div class="little-intro-img">
-                     <img src="images/abt-img2.png" alt="">
+                     <img src="images/audiobook/2-min.png" alt="">
                   </div>
                </div>
-               <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+               <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                   <div class="little-intro-content">
                      <img src="images/pen-about.png" class="abt-pen" alt="">
                      <h6>Audiobook Publishing</h6>
-                     <h2>Why Should You Hire Our <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Audiobook Publishing  </span>  Services?</h2>
+                     <h2>Why Should You Hire Our <span class="span-box-css"> Audiobook Publishing  </span>  Services?</h2>
                      <p>Our talented group of audiobook specialists has the tools and abilities required to finish your project. Our audiobook narrators ensure consistency is maintained by continuously evaluating their prior narrations. The identical pronunciations, narration style, and dialogue delivery are kept throughout.</p>
                      <!-- <div class="checklist-box">
                         <div class="check-list-about">
@@ -245,11 +245,11 @@
                </div>
          </div>
          <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
                   <h6>Audiobook Publishing</h6>
-                  <h2>Offering Reliable, Comprehensive, <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  And Professional Self-publishing </span>Audiobooks.</h2>
+                  <h2>Offering Reliable, Comprehensive, <span class="span-box-css">  And Professional Self-publishing </span>Audiobooks.</h2>
                   <p>We assist authors and publishers as they record and create audiobooks. From the start of the project to the finished output, our main objective is to deliver an exceptional audiobook publishing service. We specialize in dealing with authors wishing to narrate their audiobooks and offer full audiobook creation options, from independent authors to tremendous publishers.</p>
                   <!-- <div class="checklist-box">
                      <div class="check-list-about1">
@@ -301,9 +301,9 @@
                   </div>
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-img">
-                  <img src="images/abt-img.png" alt="">
+                  <img src="images/audiobook/3-min.png" alt="">
                </div>
             </div>
          </div>         
@@ -584,52 +584,52 @@
                             <div class="col-sm-6 process-boxes">
                                 <div class="process-box">
                                     <div class="process-number"><h1>01</h1></div>
-                                    <div class="process-name"><h1>Outline Drafting</h1>
+                                    <div class="process-name"><h1>Choose Narrators</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>Once we have gathered all of your information, our team will put together an outline for you..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">Once we have gathered all of your information, our team will put together an outline for you. This is the perfect way to make sure that every chapter fits with what's come before and after it in terms of direction.</span></div>
+                                    <div class="process-desc"><p>The best book writers have a clear vision of the tone and voice they desire for your audiobook...</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">The best book writers have a clear vision of the tone and voice they desire for your audiobook. We choose audiobook narrators from our database for you to listen to samples of them reading various passages from your book.</span></div>
 
                                 </div>
                                 <div class="process-box">
                                     <div class="process-number"><h1>02</h1></div>
-                                    <div class="process-name"><h1>Ghostwriting</h1>
+                                    <div class="process-name"><h1>Recording</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>The ghostwriting process starts as soon as you approve the outline. A suitable writer is assigned..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">The ghostwriting process starts as soon as you approve the outline. A suitable writer is assigned to work on your first chapter and sends back completed content every few weeks or months, depending upon how much editing needs to be done in between drafts. However, we manage the deadline based on your requests and demands.</span></div>
+                                    <div class="process-desc"><p>Multiple sessions in a professional recording studio with top-notch gear may be required to ensure...</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">Multiple sessions in a professional recording studio with top-notch gear may be required to ensure the narrator accurately conveys the tone and meaning of the book. The author and publisher may also be involved in the recording process.</span></div>
 
                                 </div>
                             </div>
                             <div class="col-sm-6 process-boxes">
                                 <div class="process-box">
                                     <div class="process-number"><h1>03</h1></div>
-                                    <div class="process-name"><h1>Editing And Formatting</h1>
+                                    <div class="process-name"><h1>Editing And Post-Production</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>Best Book Writers will help you create a book that is free from errors and poor sentence structures..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">Best Book Writers will help you create a book that is free from errors and poor sentence structures. Our team of experts has rigorous editing on their tasks, making sure to give your content cleanliness while also making it easy for readers.</span></div>
+                                    <div class="process-desc"><p>Once the recording is completed, the audio files are adjusted to remove any errors or inconsistencies...</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">Once the recording is completed, the audio files are adjusted to remove any errors or inconsistencies after the recording is finished. The audio is mixed and processed to guarantee consistent sound quality across the entire book.</span></div>
                                 </div>
                                 <div class="process-box">
                                     <div class="process-number"><h1>04</h1></div>
-                                    <div class="process-name"><h1>Publishing</h1>
+                                    <div class="process-name"><h1>Publishing & Marketing</h1>
                                         <span class="process-divider">
                                             <div class="dividers-process"></div>
                                         </span>
                                     </div>
-                                    <div class="process-desc"><p>After we've designed a captivating cover page for your book, the last step of our ghostwriting process..</p></div>
-                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">After we've designed a captivating cover page for your book, the last step of our ghostwriting process is to put it out there so everyone can read it. We do this with design skills and make sure that you are able to get access online or in stores. The publishing of your work is an important phase, and we handle this with care.</span></div>
+                                    <div class="process-desc"><p>Best book writers can also help to publish and market your audiobooks through various retailers,...</p></div>
+                                    <div class="process-btn-txt">Read More<span class="process-btn-txthover">Best book writers can also help to publish and market your audiobooks through various retailers, including physical bookshops and online channels like Audible, Amazon, and iTunes.</span></div>
                                 </div>
                             </div>
                         </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 myprocessbox">
                         <div class="sub-head-about">
                                     <div class="sub-about-img">
                                         <img src="images/pen-about.png" alt="">
@@ -640,10 +640,10 @@
                                 </div>
                                 <div class="banner-content2">
                                     <div class="desc-about-head">
-                                        <h1>A Sneak Preview Of<span class="brands-color"> Our Simplified</span> Process</h1>
-                                        <p> We understand the fact that writing a book is not an easy job. Our 5-step ghostwriting process is described below:</p>
-                                        <h1>Order<span class="brands-color"> Submission</span></h1>
-                                        <p>When you submit your request, our team will get back with a proposal. We'll discuss everything about the book, from genre and target audience to the number of chapters or pages it'll have in total. You can also share anything that's already written if needed for review purposes.</p>
+                                        <h1>Every Successful Audiobook Is<span class="brands-color">  The Outcome Of A Meticulously </span>  Planned Publishing Process.</h1>
+                                        <p> From selecting the ideal narrator to promoting the book to a broader audience, publishing an audiobook requires careful planning and teamwork with a team of professionals. At Best book writers, our procedure is effortless to follow.</p>
+                                        <h1>Order<span class="brands-color"> Confirmation</span></h1>
+                                        <p>By providing the necessary details about your audiobook, book the position. Upload any ideas, audio, or instructions that you want to have in your book. A manager will then welcome you and respond to all the information you have been given.</p>
                                     </div>
                                 </div>
                                 <div class="about-btn-inner">

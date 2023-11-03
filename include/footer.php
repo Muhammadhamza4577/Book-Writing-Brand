@@ -3,7 +3,7 @@
         <div class="row upper-footer">
             <div class="col-md-3">
                 <div class="footer-logo">
-                    <a href="#">
+                    <a href="index">
                         <img src="images/footer-logo.png" alt="">
                     </a>
                 </div>
@@ -32,25 +32,25 @@
                 <div class="footer-link">
                     <div class="page-link-footer">
                         <ul>
-                            <li><a href="#">Ghostwriting</a></li>
-                            <li><a href="#">Book Editing</a></li>
-                            <li><a href="#">Book Cover Design</a></li>
-                            <li><a href="#">Ebook Cover Design</a></li>
-                            <li><a href="#">Book Publishing</a></li>
-                            <li><a href="#">Book Marketing</a></li>
-                            <li><a href="#">Ebook Writing Services</a></li>
-                            <li><a href="#">Ebook Cover Design</a></li>
+                            <li><a href="professional-ghostwriting-services">Ghostwriting</a></li>
+                            <li><a href="book-editing-services">Book Editing</a></li>
+                            <li><a href="book-cover-design-services">Book Cover Design</a></li>
+                            <li><a href="ebook-cover-design-services">Ebook Cover Design</a></li>
+                            <li><a href="book-publishing-services">Book Publishing</a></li>
+                            <li><a href="book-marketing-services">Book Marketing</a></li>
+                            <li><a href="ebook-writing-services">Ebook Writing Services</a></li>
+                            <!-- <li><a href="#">Ebook Cover Design</a></li> -->
                         </ul>
                     </div>
                     <div class="page-link-footer">
                         <ul>
-                            <li><a href="#">Biography Writing</a></li>
-                            <li><a href="#">Memoir Writing</a></li>
-                            <li><a href="#">Book Printing</a></li>
-                            <li><a href="#">Video Book</a></li>
-                            <li><a href="#">Audio Book</a></li>
-                            <li><a href="#">Author Website</a></li>
-                            <li><a href="#">Book Illustration</a></li>
+                            <li><a href="biography-writing-services">Biography Writing</a></li>
+                            <li><a href="memoir-writing-services">Memoir Writing</a></li>
+                            <li><a href="book-printing-services">Book Printing</a></li>
+                            <li><a href="book-trailer-services">Video Book</a></li>
+                            <li><a href="audiobook-publishing-services">Audio Book</a></li>
+                            <li><a href="author-website-design-services">Author Website</a></li>
+                            <li><a href="book-illustration-services">Book Illustration</a></li>
                         </ul>
                     </div>
                 </div>
@@ -62,9 +62,9 @@
                 <div class="footer-link">
                     <div class="page-link-footer">
                         <ul>
-                            <li><a href="#">About Us</a></li>
-                            <li><a href="#">Contact Us</a></li>
-                            <li><a href="#">Blog</a></li>
+                            <li><a href="about-us">About Us</a></li>
+                            <li><a href="contact-us">Contact Us</a></li>
+                            <li><a href="blog">Blog</a></li>
                         </ul>
                     </div>
                 </div>
@@ -74,8 +74,8 @@
                 <div class="footer-link">
                     <div class="page-link-footer">
                         <ul>
-                            <li><a href="#">Privacy Policy</a></li>
-                            <li><a href="#">Terms & Condition</a></li>
+                            <li><a href="privacy-policy">Privacy Policy</a></li>
+                            <li><a href="terms-conditions">Terms & Condition</a></li>
                         </ul>
                     </div>
                 </div>
@@ -364,16 +364,16 @@ pauseOnHover:false,
 slidesToScroll: 3,
 responsive: [
 {
-breakpoint: 1601,
+breakpoint: 1100,
 settings: {
-slidesToShow: 4,
+slidesToShow: 3,
 slidesToScroll: 3,
 infinite: true,
 dots: true
 }
 },
 {
-breakpoint: 600,
+breakpoint: 768,
 settings: {
 slidesToShow: 2,
 slidesToScroll: 1,
@@ -384,7 +384,7 @@ dots: true
 {
 breakpoint: 480,
 settings: {
-slidesToShow: 2,
+slidesToShow: 1,
 slidesToScroll: 1,
 infinite: true,
 dots: true
@@ -412,7 +412,7 @@ autoplay:true,
         centerMode: true,
         centerPadding: '40px',
         dots: true,
-        slidesToShow: 3
+        slidesToShow: 2,
       }
     },
     {
@@ -422,7 +422,7 @@ autoplay:true,
         centerMode: true,
         dots: true,
         centerPadding: '40px',
-        slidesToShow: 1
+        slidesToShow: 1,
       }
     }
   ]
@@ -439,18 +439,18 @@ pauseOnHover:false,
 slidesToScroll: 3,
 responsive: [
 {
-breakpoint: 1601,
+breakpoint: 1200,
 settings: {
-slidesToShow: 5,
+slidesToShow: 3,
 slidesToScroll: 3,
 infinite: true,
 dots: true
 }
 },
 {
-breakpoint: 600,
+breakpoint: 768,
 settings: {
-slidesToShow: 2,
+slidesToShow: 3,
 slidesToScroll: 1,
 infinite: true,
 dots: true
@@ -459,7 +459,7 @@ dots: true
 {
 breakpoint: 480,
 settings: {
-slidesToShow: 2,
+slidesToShow: 1,
 slidesToScroll: 1,
 infinite: true,
 dots: true

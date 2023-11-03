@@ -6,12 +6,12 @@
 <?php include('include/head.php');?>
 <?php include('include/header.php');?>
 <main>
-<section class="banner service-banner2">
+<section class="banner service-banner2" id="ghostwriting">
       <div class="container">
          <div class="row justify-content-center">
-            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mybannerservice">
                <div class="banner-content-service1">
-               <h1>One-stop Destination For Competent And Professional<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Ghostwriting Services
+               <h1>One-stop Destination For Competent And Professional<span class="span-box-css"> Ghostwriting Services
                      </span>
                   </h1>
                   <p>If you are planning to become a bestseller and you want to live this dream, then you have landed in the right place. Our team of expert ghostwriting services works diligently to produce high-quality content while meeting your specified deadline</p>
@@ -36,7 +36,7 @@
                </div>
             </div>
             <div class="col-1 col-sm-1 col-md-1 col-lg-1 col-xl-1 col-xxl-1"></div>
-            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
+            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5 mybannerservice">
             <div class="banner-form-box">
                                     <div class="form-box-content">
                                         <div class="banner-form">
@@ -123,11 +123,11 @@
    <section class="little-intro-services">
       <div class="container">
          <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
                   <h6>Ghostwriting</h6>
-                  <h2>Our Writers Possess High <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Qualifications </span> In Various Niches!</h2>
+                  <h2>Our Writers Possess High <span class="span-box-css"> Qualifications </span> In Various Niches!</h2>
                   <p>We are a creative bunch of aspiring adults who are making things happen for people with kickass ideas and amazing stories to tell. We write books on behalf of those individuals, giving them a voice in an increasingly busy world where one's individuality can be lost within seconds if not premiered properly-and then there is always our passion. More than a decade-long collective experience has enabled us to specialize globally in writing services offered worldwide.</p>
                   <div class="checklist-box">
                      <div class="check-list-about">
@@ -175,9 +175,9 @@
                   </div>
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-img">
-                  <img src="images/abt-img.png" alt="">
+                  <img src="images/ghostwriting/1-min.png" alt="">
                </div>
             </div>
          </div>
@@ -642,7 +642,7 @@
                             </div>
                         </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 myprocessbox">
                         <div class="sub-head-about">
                                     <div class="sub-about-img">
                                         <img src="images/pen-about.png" alt="">

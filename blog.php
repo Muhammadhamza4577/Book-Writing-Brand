@@ -11,7 +11,7 @@
          <div class="row justify-content-center">
             <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                <div class="banner-content-service">
-                  <h1>Welcome To The <br><span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">Best Book Writers Blog
+                  <h1>Welcome To The <br><span class="span-box-css">Best Book Writers Blog
                      </span>
                   </h1>
                </div>
@@ -39,7 +39,7 @@
                <div class="tab-content" id="myTabContent">
                   <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
                      <div class="row box-visiblity">
-                        <div class="col-md-3">
+                        <div class="col-md-3 myblogbox">
                            <a href="blog/how-to-write-an-ebook-in-7-simple-steps-a-comprehensive-guide-for-authors-based-on-recent-trends">
                               <div class="tb-box-content">
                                  <img src="images/tab-img1.jpg">
@@ -47,7 +47,7 @@
                               </div>
                            </a>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-3 myblogbox">
                            <a href="blog/planning-for-non-fiction-book-writing-five-additional-considerations-to-keep-in-mind">
                               <div class="tb-box-content">
                                  <img src="images/tab-img5.jpg">
@@ -59,7 +59,7 @@
                   </div>
                   <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
                      <div class="row box-visiblity">
-                        <div class="col-md-3">
+                        <div class="col-md-3 myblogbox">
                            <a href="blog/6-simple-tried-and-tested-steps-to-publish-a-book-in-2022">
                               <div class="tb-box-content">
                                  <img src="images/tab-img2.jpg">
@@ -67,7 +67,7 @@
                               </div>
                            </a>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-3 myblogbox">
                            <a href="blog/an-easy-guide-for-2023-10-steps-to-self-publish-your-own-book">
                               <div class="tb-box-content">
                                  <img src="images/tab-img4.jpg">
@@ -79,7 +79,7 @@
                   </div>
                   <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
                      <div class="row box-visiblity">
-                        <div class="col-md-3">
+                        <div class="col-md-3 myblogbox">
                            <a href="blog/6-simple-strategies-to-market-an-ebook-an-essential-guide-to-bring-more-traffic-and-enhance-sales">
                               <div class="tb-box-content">
                                  <img src="images/tab-img3.jpg">

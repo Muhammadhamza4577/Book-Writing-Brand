@@ -3,8 +3,8 @@
     $descripion = "Best Book Writers respects and honors the privacy of each of our book writing clients. Please review our policy and contact us with any questions. ";
     $canonical = "https://bestbookwriters.com/privacy-policy";
 ?> 
-<?php include('include/head.php');?>
-<?php include('include/header.php');?>
+<?php include('include/head-prvcy.php');?>
+<?php include('include/header-prvcy.php');?>
 
 <main>
 

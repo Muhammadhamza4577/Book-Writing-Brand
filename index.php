@@ -7,8 +7,8 @@
          <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 banner-size">
             <div class="banner-content">
                <div class="home-banner">
-                  <div class="row">
-                     <div class="col-md-6">
+                  <div class="row mybannercssclass">
+                     <div class="col-md-6 banner-box">
                         <div class="sub-head5 ">
                            <div class="sub-head-img">
                               <img src="images/pen.png" alt="">
@@ -43,12 +43,12 @@
                         </div>
                      </div>
                      <div class="col-md-1"></div>
-                     <div class="col-md-5">
+                     <div class="col-md-5 banner-form-sec">
                         <div class="banner-form-box">
                            <div class="form-box-content">
                               <div class="banner-form">
                                  <div class="banner-form-head">
-                                    <h1>Sign Up Now to <span style="color: #3EBFC2;"> Get 50% </span> Discount</h1>
+                                    <h1 class="form-head">Sign Up Now to <span style="color: #3EBFC2;"> Get 50% </span> Discount</h1>
                                  </div>
                                  <div class="banner-form-img">
                                     <img src="images/book-qoute-img.png" alt="">
@@ -911,7 +911,7 @@
                   </div>
                </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 process-box-nxt">
                <div class="sub-head-about">
                   <div class="sub-about-img">
                      <img src="images/pen-about.png" alt="">

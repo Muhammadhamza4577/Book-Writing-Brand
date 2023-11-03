@@ -11,7 +11,7 @@
          <div class="row justify-content-center">
             <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                <div class="banner-content-service">
-                  <h1>Explore <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Best Book 
+                  <h1>Explore <span class="span-box-css"> Best Book 
                      </span><br>Writers Services
                   </h1>
                   <p>We Have The Audacity To Bring Imagination To Reality</p>
@@ -123,7 +123,7 @@
    <section class="little-intro-services">
       <div class="container">
          <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myservice-box">
                <div class="little-intro-content">
                   <!-- <img src="images/pen-about.png" class="abt-pen" alt=""> -->
                   <!-- <h6>Ghostwriting</h6> -->
@@ -175,19 +175,19 @@
                   </div>
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myservice-box">
                <div class="little-intro-img">
-                  <img src="images/abt-img.png" alt="">
+                  <img src="images/mainservices/1-min.png" alt="">
                </div>
             </div>
          </div>
-         <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+         <div class="row justify-content-center align-items-center about-box-alignment service-boxes">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myservice-box">
                <div class="little-intro-img">
-                  <img src="images/abt-img2.png" alt="">
+                  <img src="images/mainservices/2-min.png" alt="">
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myservice-box">
                <div class="little-intro-content">
                   <!-- <img src="images/pen-about.png" class="abt-pen" alt=""> -->
                   <!-- <h6>Ghostwriting</h6> -->
@@ -253,11 +253,11 @@
             <div class="col-sm-7 qoute-box">
                 <div class="qoute-abt-box">
                    <div class="content-abt">
-                           <h3>Join Us To Become A <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 30px !important;}"> Best-selling </span>Author</h3>
+                           <h3>Join Us To Become A <span class="span-box-css"> Best-selling </span>Author</h3>
                       <span class="book-qoute-abt-divider">
                          <div class="dividers-abt"></div>
                       </span>
-                        <p>Get all the help and guidance you need from our experts. Our book writer for hire is always available at your service. Contact today!</p>
+                        <p class="span-box-desc">Get all the help and guidance you need from our experts. Our book writer for hire is always available at your service. Contact today!</p>
                    </div>
                    <div class="banner-btn1">
                       <div class="getint2">
@@ -285,7 +285,7 @@
    <section class="little-intro-services2">
       <div class="container">
          <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myservice-box">
                <div class="little-intro-content">
                   <!-- <img src="images/pen-about.png" class="abt-pen" alt=""> -->
                   <!-- <h6>Ghostwriting</h6> -->
@@ -337,19 +337,19 @@
                   </div>
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myservice-box">
                <div class="little-intro-img">
-                  <img src="images/abt-img.png" alt="">
+                  <img src="images/mainservices/3-min.png" alt="">
                </div>
             </div>
          </div>
-         <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+         <div class="row justify-content-center align-items-center about-box-alignment service-boxes">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myservice-box">
                <div class="little-intro-img">
-                  <img src="images/abt-img2.png" alt="">
+                  <img src="images/mainservices/4-min.png" alt="">
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myservice-box">
                <div class="little-intro-content">
                   <!-- <img src="images/pen-about.png" class="abt-pen" alt=""> -->
                   <!-- <h6>Ghostwriting</h6> -->
@@ -403,7 +403,7 @@
             </div>
          </div>
          <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myservice-box">
                <div class="little-intro-content">
                   <!-- <img src="images/pen-about.png" class="abt-pen" alt=""> -->
                   <!-- <h6>Ghostwriting</h6> -->
@@ -455,19 +455,19 @@
                   </div>
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myservice-box">
                <div class="little-intro-img">
-                  <img src="images/abt-img.png" alt="">
+                  <img src="images/mainservices/5-min.png" alt="">
                </div>
             </div>
          </div>
-         <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+         <div class="row justify-content-center align-items-center about-box-alignment service-boxes">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myservice-box">
                <div class="little-intro-img">
-                  <img src="images/abt-img2.png" alt="">
+                  <img src="images/mainservices/6-min.png" alt="">
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myservice-box">
                <div class="little-intro-content">
                   <!-- <img src="images/pen-about.png" class="abt-pen" alt=""> -->
                   <!-- <h6>Ghostwriting</h6> -->
@@ -521,7 +521,7 @@
             </div>
          </div>
          <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myservice-box">
                <div class="little-intro-content">
                   <!-- <img src="images/pen-about.png" class="abt-pen" alt=""> -->
                   <!-- <h6>Ghostwriting</h6> -->
@@ -573,19 +573,19 @@
                   </div>
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myservice-box">
                <div class="little-intro-img">
-                  <img src="images/abt-img.png" alt="">
+                  <img src="images/mainservices/7-min.png" alt="">
                </div>
             </div>
          </div>
-         <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+         <div class="row justify-content-center align-items-center about-box-alignment service-boxes">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myservice-box">
                <div class="little-intro-img">
-                  <img src="images/abt-img2.png" alt="">
+                  <img src="images/mainservices/8-min.png" alt="">
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myservice-box">
                <div class="little-intro-content">
                   <!-- <img src="images/pen-about.png" class="abt-pen" alt=""> -->
                   <!-- <h6>Ghostwriting</h6> -->
@@ -639,7 +639,7 @@
             </div>
          </div>
          <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myservice-box">
                <div class="little-intro-content">
                   <!-- <img src="images/pen-about.png" class="abt-pen" alt=""> -->
                   <!-- <h6>Ghostwriting</h6> -->
@@ -691,9 +691,9 @@
                   </div>
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myservice-box">
                <div class="little-intro-img">
-                  <img src="images/abt-img.png" alt="">
+                  <img src="images/mainservices/9-min.png" alt="">
                </div>
             </div>
          </div>

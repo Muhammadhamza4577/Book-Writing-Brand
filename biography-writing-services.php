@@ -6,12 +6,12 @@
 <?php include('include/head.php');?>
 <?php include('include/header.php');?>
 <main>
-<section class="banner service-banner2">
+<section class="banner service-banner2" id="biographyservice">
       <div class="container">
          <div class="row justify-content-center">
-            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mybannerservice">
                <div class="banner-content-service1">
-               <h1>Preserving Legacies, One Story At<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  A Time By Our Professional 
+               <h1>Preserving Legacies, One Story At<span class="span-box-css">  A Time By Our Professional 
                      </span>Biography Writers
                   </h1>
                   <p>Our biography writing services offer a professional and personalized approach to capturing the essence of a person's life, honoring their legacy for generations to come.</p>
@@ -36,7 +36,7 @@
                </div>
             </div>
             <div class="col-1 col-sm-1 col-md-1 col-lg-1 col-xl-1 col-xxl-1"></div>
-            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
+            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5 mybannerservice">
             <div class="banner-form-box">
                                     <div class="form-box-content">
                                         <div class="banner-form">
@@ -123,11 +123,11 @@
    <section class="little-intro-services">
       <div class="container">
          <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
                   <h6>Biography Writing</h6>
-                  <h2>Explore The Hidden <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Depths Of Human  </span> Experiences</h2>
+                  <h2>Explore The Hidden <span class="span-box-css"> Depths Of Human  </span> Experiences</h2>
                   <p>Best Book Writers believe that every life deserves to be celebrated and remembered. That's why we offer professional bio writing services that pay tribute to the unique experiences, passions, and achievements of the people we honor. <br><br>Our team of writers and researchers will work tirelessly to uncover and tell your ancestors' stories, weaving together a rich tapestry of personal anecdotes, cultural insights, and historical context that will leave a lasting legacy for generations to come.</p>
                   <!-- <div class="checklist-box">
                      <div class="check-list-about">
@@ -175,23 +175,23 @@
                   </div>
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-img">
-                  <img src="images/abt-img.png" alt="">
+                  <img src="images/biography/1-min.png" alt="">
                </div>
             </div>
          </div>
          <div class="row justify-content-center align-items-center about-box-alignment">
-         <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+         <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-img">
-                  <img src="images/abt-img2.png" alt="">
+                  <img src="images/biography/2-min.png" alt="">
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
                   <h6>Biography Writing</h6>
-                  <h2>Highest Quality Biography <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}"> Writing Services </span>  That You Can Buy</h2>
+                  <h2>Highest Quality Biography <span class="span-box-css"> Writing Services </span>  That You Can Buy</h2>
                   <p>Would you like to memorialize someone special's life? Look only as far as our professional biography writers for hire. Our expert writers are dedicated to crafting compelling, insightful, and engaging biographies that capture the essence of the person's life, achievements, and struggles. We take pride in our attention to detail, dedication to quality, and commitment to bringing your vision to life on the page.</p>
                   <!-- <div class="checklist-box">
                      <div class="check-list-about">
@@ -538,7 +538,7 @@
                             </div>
                         </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 myprocessbox">
                         <div class="sub-head-about">
                                     <div class="sub-about-img">
                                         <img src="images/pen-about.png" alt="">
@@ -583,6 +583,41 @@
                     </div>
                 </div>
     </section>
+    <section class="little-intro-services">
+      <div class="container">
+         <div class="row justify-content-center align-items-center about-box-alignment">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
+               <div class="little-intro-content">
+                  <h2>A Simplistic <span class="span-box-css"> Approach To Biography </span> Writing</h2>
+                  <p>We bring a team of professionals to the business who have years of experience and critical expertise in writing biographies. We house an exceptional group that continues with its excellence on every project.   </p>
+                  <div class="about-btn-inner">
+                  <div class="getint">
+                                        <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                                    </div>
+                     <div class="number-btn-about">
+                        <a href="tel:+1-737-881-7227">
+                           <div class="about-phone">
+                              <div class="about-icon_phone">
+                                 <i class="fa fa-phone" aria-hidden="true"></i>
+                              </div>
+                              <div class="about-head_phone">
+                                 <h5>.Live Chat</h5>
+                                 <h4>+1-737-881-7227</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
+               <div class="little-intro-img">
+                  <img src="images/biography/3-min.png" alt="">
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
    <section class="newsletter">
       <?php include('include/newsletter.php');?>
    </section>

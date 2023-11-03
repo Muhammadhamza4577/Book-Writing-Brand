@@ -6,12 +6,12 @@
 <?php include('include/head.php');?>
 <?php include('include/header.php');?>
 <main>
-<section class="banner service-banner2">
+<section class="banner service-banner2" id="memoirservice">
       <div class="container">
          <div class="row justify-content-center">
-            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+            <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mybannerservice">
                <div class="banner-content-service1">
-               <h1>Transform Your Life Story Into A Compelling<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  Memoir With Our Memoir 
+               <h1>Transform Your Life Story Into A Compelling<span class="span-box-css">  Memoir With Our Memoir 
                      </span>Writing Services
                   </h1>
                   <p>The best book writers can offer you the support, guidance, and expertise you need to turn your life story into a book that inspires, informs, and entertains readers.</p>
@@ -36,7 +36,7 @@
                </div>
             </div>
             <div class="col-1 col-sm-1 col-md-1 col-lg-1 col-xl-1 col-xxl-1"></div>
-            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
+            <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 col-xxl-5 mybannerservice">
             <div class="banner-form-box">
                                     <div class="form-box-content">
                                         <div class="banner-form">
@@ -123,11 +123,11 @@
    <section class="little-intro-services">
       <div class="container">
          <div class="row justify-content-center align-items-center about-box-alignment">
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
                   <h6>Memoir Writing</h6>
-                  <h2>The Best Book Writers <span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">Memoir Writing </span>  Experience</h2>
+                  <h2>The Best Book Writers <span class="span-box-css">Memoir Writing </span>  Experience</h2>
                   <p>Best Book Writers is dedicated to assisting authors in establishing successful careers. There are many talented people with beautiful ideas and stories, but they need a platform to showcase their abilities. <br><br>If you are looking expert memoir writers for hire, we have professionals who can help bring your story to life. Best book writers have memoir writing experts skilled in crafting compelling narratives that capture the essence of your experiences and bring them to life on the page.</p>
                   <!-- <div class="checklist-box">
                      <div class="check-list-about">
@@ -175,23 +175,23 @@
                   </div>
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-img">
-                  <img src="images/abt-img.png" alt="">
+                  <img src="images/memoirwriting/1-min.png" alt="">
                </div>
             </div>
          </div>
          <div class="row justify-content-center align-items-center about-box-alignment">
-         <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+         <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-img">
-                  <img src="images/abt-img2.png" alt="">
+                  <img src="images/memoirwriting/2-min.png" alt="">
                </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
                   <h6>Memoir Writing</h6>
-                  <h2>Top-Notch Memoir Writing<span style="color:#3EBEC1;font-family: poppins !important; text-transform: none;font-size: 40px !important;}">  Services Supervised </span>  By Experts</h2>
+                  <h2>Top-Notch Memoir Writing<span class="span-box-css">  Services Supervised </span>  By Experts</h2>
                   <p>We are a company based in the United States dedicated to assisting more aspiring authors in realizing their dreams and becoming published. Best book writers are committed to delivering high-quality memoirs crafted with care and attention to detail. With our top-notch memoir writing services, you can rest assured that your story will be in the hands of experts dedicated to helping you create a memorable and impactful book.</p>
                   <!-- <div class="checklist-box">
                      <div class="check-list-about">
@@ -537,7 +537,7 @@
                             </div>
                         </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 myprocessbox">
                         <div class="sub-head-about">
                                     <div class="sub-about-img">
                                         <img src="images/pen-about.png" alt="">
@@ -582,6 +582,41 @@
                     </div>
                 </div>
     </section>
+    <section class="little-intro-services">
+      <div class="container">
+         <div class="row justify-content-center align-items-center about-box-alignment">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
+               <div class="little-intro-content">
+                  <h2>Crafting Your Life <span class="span-box-css"> Story With Purpose </span>  And Passion </h2>
+                  <p>Our belief in your success is at the forefront of our memoir writing services. With our team of expert memoir writers for hire, we guarantee to deliver the most captivating content for your memoir, whether a short story or a full-length manuscript. Our wealth of experience in the industry ensures that every detail is noticed during the process of crafting something genuinely exceptional.</p>
+                  <div class="about-btn-inner">
+                  <div class="getint">
+                                        <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                                    </div>
+                     <div class="number-btn-about">
+                        <a href="tel:+1-737-881-7227">
+                           <div class="about-phone">
+                              <div class="about-icon_phone">
+                                 <i class="fa fa-phone" aria-hidden="true"></i>
+                              </div>
+                              <div class="about-head_phone">
+                                 <h5>.Live Chat</h5>
+                                 <h4>+1-737-881-7227</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col xl-6 col-xxl-6 myinnerservice">
+               <div class="little-intro-img">
+                  <img src="images/memoirwriting/3-min.png" alt="">
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
    <section class="newsletter">
       <?php include('include/newsletter.php');?>
    </section>
