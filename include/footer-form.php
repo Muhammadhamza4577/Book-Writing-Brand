@@ -164,7 +164,7 @@
                     <img src="images/footer-form-book.png" alt="">
                     </div>
                 </div>
-                <form action="" method=POST>
+                <form action="sendmail.php" method=POST>
                     <div class="col-sm-12 footerform">
                         <input type="name" placeholder="Full Name" name="fname" value="">
                     </div>

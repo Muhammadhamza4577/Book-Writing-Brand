@@ -47,7 +47,7 @@
                                                 <img src="images/book-qoute-img.png" alt="">
                                             </div>
                                         </div>
-                                        <form action=""  method=POST>
+                                        <form action="sendmail.php"  method=POST>
                                             <div class="col-sm-12 footerform1">
                                                 <div class="col-sm-6 form-box-inout">
                                                     <input type="name" placeholder="Full Name" name="fname" value="">
@@ -193,32 +193,6 @@
                   <h6>Ebook Writing</h6>
                   <h2>Unlock The Potential Of Your Story With<span class="span-box-css"> Professional Ebook</span>  Writers.</h2>
                   <p>Our Ebook Writing Services USA are designed to bring your story to life and captivate readers with compelling narratives and expert storytelling. We offer eBook writing services to ensure we provide all book production aspects. With our team of professional writers at your disposal, you can enjoy the best and most affordable ebook writing services without sacrificing quality.</p>
-                  <!-- <div class="checklist-box">
-                     <div class="check-list-about">
-                        <div class="check-list1">
-                           <img src="images/check-ico.svg" alt="">
-                           <p>Timely delivery</p>
-                        </div>
-                        <div class="check-list1">
-                           <img src="images/check-ico.svg" alt="">
-                           <p>100% original content production</p>
-                        </div>
-                        <div class="check-list1">
-                           <img src="images/check-ico.svg" alt="">
-                           <p>Proactive customer support services</p>
-                        </div>
-                     </div>
-                     <div class="check-list-about">
-                        <div class="check-list1">
-                           <img src="images/check-ico.svg" alt="">
-                           <p>Creative writing skills</p>
-                        </div>
-                        <div class="check-list1">
-                           <img src="images/check-ico.svg" alt="">
-                           <p>Unlimited revisions</p>
-                        </div>
-                     </div>
-                  </div> -->
                   <div class="about-btn-inner">
                   <div class="getint">
                                         <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
@@ -244,7 +218,6 @@
             <div class="col-sm-12">
                <div class="our-services-boxes">
                   <h1>Bring Your Ideas Into A Captivating Ebook With Our Step-by-step Writing Process</h1>
-                  <!-- <p>Rather than just encouraging you to read about us, we urge you to take action by requesting a free quote to experience the low cost ghostwriting company.</p> -->
                </div>
             </div>
             <div class="col-sm-12">
@@ -256,7 +229,7 @@
                                         <h1>01</h1>
                                     </div>
                                     <div class="service-ico">
-                                        <img src="images/service-01.png" alt="">
+                                        <img src="images/e-bookwriting/e-bookwriting-01.png" alt="">
                                     </div>
                                     <div class="empty-box"></div>
                                 </div>
@@ -269,9 +242,7 @@
                                 <div class="service-desc">
                                     <p>The information gathered from the questionnaire will be used to develop a concept and brief outlining your story's main ideas, themes, and tone. We ensure that your account is crafted to your specifications and meets your expectations for quality and content.</p>
                                 </div>
-                                <!-- <div class="service-btn">
-                                    <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div> -->
+                                
                             </div>
                         </div>
                         <div class="col-sm-3">
@@ -281,7 +252,7 @@
                                         <h1>02</h1>
                                     </div>
                                     <div class="service-ico">
-                                        <img src="images/service-02.png" alt="">
+                                        <img src="images/e-bookwriting/e-bookwriting-02.png" alt="">
                                     </div>
                                     <div class="empty-box"></div>
                                 </div>
@@ -294,9 +265,7 @@
                                 <div class="service-desc">
                                     <p>We don't just write a rough draught; we follow you around and learn precisely what you want from the book. The more specific, the better the quality for our client.</p>
                                 </div>
-                                <!-- <div class="service-btn">
-                                    <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div> -->
+                               
                             </div>
                         </div>
                         <div class="col-sm-3">
@@ -306,7 +275,7 @@
                                         <h1>03</h1>
                                     </div>
                                     <div class="service-ico">
-                                        <img src="images/service-03.png" alt="">
+                                        <img src="images/e-bookwriting/e-bookwriting-03.png" alt="">
                                     </div>
                                     <div class="empty-box"></div>
                                 </div>
@@ -319,9 +288,7 @@
                                 <div class="service-desc">
                                     <p>We provide maximum revisions to ensure our clients are satisfied with our work and receive a high-quality book.</p>
                                 </div>
-                                <!-- <div class="service-btn">
-                                    <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div> -->
+                               
                             </div>
                         </div>
                         <div class="col-sm-3" >
@@ -331,7 +298,7 @@
                                         <h1>04</h1>
                                     </div>
                                     <div class="service-ico">
-                                        <img src="images/service-04.png" alt="">
+                                        <img src="images/e-bookwriting/e-bookwriting-04.png" alt="">
                                     </div>
                                     <div class="empty-box"></div>
                                 </div>
@@ -344,9 +311,7 @@
                                 <div class="service-desc">
                                     <p>Launching your book can be an exciting and nerve-wracking experience, but with our expert guidance, you can feel confident that your book will have the best chance of success.</p>
                                 </div>
-                                <!-- <div class="service-btn">
-                                    <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
-                                </div> -->
+                                
                             </div>
                         </div>
             </div>
@@ -549,7 +514,6 @@
                                 <div class="banner-content2">
                                     <div class="desc-about-head">
                                         <h1>Start Your Authorship Journey<span class="brands-color"> Today By Hiring Our </span> Top-quality Ebook Writers</h1>
-                                        <!-- <p> We understand the fact that writing a book is not an easy job. Our 5-step ghostwriting process is described below:</p> -->
                                         <h1>Expert <span class="brands-color"> Consultants</span></h1>
                                         <p>Being an author can be a rewarding and fulfilling experience, but it can also be challenging. That's where expert consultants can come in. Their knowledge and expertise can help guide you through the writing process and provide valuable insights into the publishing industry.</p>
                                         <h1>Manuscript <span class="brands-color"> Review</span></h1>

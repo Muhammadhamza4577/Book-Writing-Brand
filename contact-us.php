@@ -46,7 +46,7 @@
                     </a>
                 </div>
                 <div class="quick-box">
-                    <a href="mailto: info@bestbookwriters.com">
+                    <a href="mailto: info@bestbookpublisher.com">
                         <div class="email-quick-box">
                             <div class="col-sm-3">
                                 <div class="icon-email">
@@ -56,7 +56,7 @@
                             <div class="col-sm-9">
                                 <div class="email-content">
                                     <h2>Mail Us</h2>
-                                    <h4>info@bestbookwriters.com</h4>
+                                    <h4>info@bestbookpublisher.com</h4>
                                 </div>
                             </div>
                         </div>
@@ -92,7 +92,7 @@
                     <img src="images/pen-about.png" alt="">
                     </div>
                 </div>
-                <form action="" method=POST>
+                <form action="sendmail.php" method=POST>
                     <div class="col-sm-12 footerform">
                         <input type="name" placeholder="Full Name" name="fname" value="">
                     </div>

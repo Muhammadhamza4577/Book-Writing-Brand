@@ -1,168 +1,9 @@
 <?php include('include/head.php');?>
 <?php include('include/header.php');?>
 <main>
-   <section class="banner myHomepage">
-      <div class="container">
-      <div class="row justify-content-center ">
-         <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 banner-size">
-            <div class="banner-content">
-               <div class="home-banner">
-                  <div class="row mybannercssclass">
-                     <div class="col-md-6 banner-box">
-                        <div class="sub-head5 ">
-                           <div class="sub-head-img">
-                              <img src="images/pen.png" alt="">
-                           </div>
-                           <div class="sub-head-title ">
-                              <h1>Write Your Story</h1>
-                           </div>
-                        </div>
-                        <div class="banner-content2">
-                           <div class="banner-head5">
-                              <h1>Creating And Shaping Ideas Into <span> Bestsellers Through Book</span> Writing Services</h1>
-                              <p>Do you have an inspiring story to share? You can inspire the world and influence others through our bestselling authors and proactive book writing services.</p>
-                           </div>
-                        </div>
-                        <div class="banner-btn5">
-                           <div class="getint">
-                              <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
-                           </div>
-                           <div class="number-btn">
-                              <a href="tel:+1-737-881-7227">
-                                 <div class="banner-phone">
-                                    <div class="icon_phone">
-                                       <i class="fa fa-phone" aria-hidden="true"></i>
-                                    </div>
-                                    <div class="banner-head_phone">
-                                       <h5>.Live Chat</h5>
-                                       <h4>+1-737-881-7227</h4>
-                                    </div>
-                                 </div>
-                              </a>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-md-1"></div>
-                     <div class="col-md-5 banner-form-sec">
-                        <div class="banner-form-box">
-                           <div class="form-box-content">
-                              <div class="banner-form">
-                                 <div class="banner-form-head">
-                                    <h1 class="form-head">Sign Up Now to <span style="color: #3EBFC2;"> Get 50% </span> Discount</h1>
-                                 </div>
-                                 <div class="banner-form-img">
-                                    <img src="images/book-qoute-img.png" alt="">
-                                 </div>
-                              </div>
-                              <form action=""  method=POST>
-                                 <div class="col-sm-12 footerform1">
-                                    <div class="col-sm-6 form-box-inout">
-                                       <input type="name" placeholder="Full Name" name="fname" value="">
-                                    </div>
-                                    <div class="col-sm-6 form-box-inout">
-                                       <input type="email" placeholder="Email Address" name="email" value="">
-                                    </div>
-                                 </div>
-                                 <div class="col-sm-12 dropdown-box">
-                                    <div class="col-sm-6 dropdown-boxes">
-                                       <select name="services" id="services">
-                                          <option value="select-your-service" disabled selected>Select your Service</option>
-                                          <option value="ghostwriting-services">Ghostwriting Services</option>
-                                          <option value="book-editing-services">Book Editing Services</option>
-                                          <option value="book-cover-design-services">Book Cover Design Services</option>
-                                          <option value="ebook-cover-design-services">Ebook Cover Design Services</option>
-                                          <option value="book-publishing-services">Book Publishing Services</option>
-                                          <option value="book-marketing-services">Book Marketing Services</option>
-                                          <option value="ebook-writing-services">Ebook Writing Services</option>
-                                          <option value="biography-writing-services">Biography Writing Services</option>
-                                          <option value="memoir-writing-services">Memoir Writing Services</option>
-                                          <option value="book-printing-services">Book Printing Services</option>
-                                          <option value="video-book-services">Video Book Services</option>
-                                          <option value="audio-book-services">Audio Book Services</option>
-                                          <option value="author-website-services">Author Website Services</option>
-                                          <option value="book-illustration-services">Book Illustration Services</option>
-                                       </select>
-                                    </div>
-                                    <div class="col-sm-6">
-                                       <input type="tel" placeholder="Phone Number" name="number" value="">
-                                    </div>
-                                 </div>
-                                 <div class="col-sm-12">
-                                    <textarea name="msg" value="" placeholder="Brief..." id="" rows="3"></textarea>
-                                 </div>
-                                 <div class="col-sm-12">
-                                    <button type="submit" class="custom-btn btn-9 footer-btn">Sign Up</button>
-                                 </div>
-                              </form>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="highly-recomended-by5">
-                     <div class="high-recommend">
-                        <div class="recommend-head">
-                           <!-- <h5>Highly Recommended By:</h5> -->
-                           <div class="stars">
-                              <!-- <i class="fa fa-star" aria-hidden="true"></i>
-                                 <i class="fa fa-star" aria-hidden="true"></i>
-                                 <i class="fa fa-star" aria-hidden="true"></i>
-                                 <i class="fa fa-star" aria-hidden="true"></i>
-                                 <i class="fa fa-star" aria-hidden="true"></i> -->
-                           </div>
-                        </div>
-                        <div class="recommend-img">
-                           <!-- <img src="images/arrow.png" alt=""> -->
-                        </div>
-                     </div>
-                     <div class="banner-inner-img">
-                        <img src="images/banner-inner-img.png" alt="">
-                     </div>
-                     <div class="img">
-                        <ul class="client-logo-slider">
-                           <li>
-                              <img src="images/good-firms-logo.png" alt="" class="img-fluid">
-                           </li>
-                           <li>
-                              <img src="images/clutch-logo.png" alt="" class="img-fluid">
-                           </li>
-                           <li>
-                              <img src="images/Amazon-Kindle-logo.png" alt="" class="img-fluid">
-                           </li>
-                           <li>
-                              <a href="https://www.trustpilot.com/review/bestbookwriters.com" target="_blank"><img src="images/Trustpilot-logo.png" alt="" class="img-fluid"></a>
-                           </li>
-                           <li>
-                              <img src="images/good-reads.png" alt="" class="img-fluid">
-                           </li>
-                           <li>
-                              <img src="images/banner-brands-logo-5.png" alt="" class="img-fluid">
-                           </li>
-                        </ul>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="inner-about">
-            <div class="row justify-content-center">
-               <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 about-size">
-                  <div class="banner-content">
-                     <div class="row">
-                        <div class="col-md-12">
-                           <div class="about-content">
-                              <div class="about-head">
-                                 <h1>People From Diverse Backgrounds Trust<span class="brands-color"> Best Book Writers</span> Because Of Our Beautifully Tailored, Error-Free, And Original Book Writing Services.</h1>
-                                 <p>Think you have a great story to tell? We can write and publish it <br><br> Are you struggling to brainstorm ideas and place them in a meaningful format? Not sure about how to convey your creative story dwindling in your mind? We can answer these questions as we have been in the book writing services for over a decade. We offer professional book writing services that are backed by extensive research, and it is customized according to your needs. The sheer professionalism of our book writing service is evident from our exquisitely drafted, published books, along with extensive consultation offered by our professional book writers.</p>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
+<section class="main-home-banner">
+   <?php include('include/home-banner.php');?>
+</section>
    <!-- <section class="banner myHomepage">
       <div class="container">
           <div class="row justify-content-center ">
@@ -414,7 +255,7 @@
                               <h1>01</h1>
                            </div>
                            <div class="service-ico">
-                              <img src="images/service-01.png" alt="">
+                              <img src="images/icons/home-ico-01-min.png" alt="">
                            </div>
                            <div class="empty-box"></div>
                         </div>
@@ -439,7 +280,7 @@
                               <h1>02</h1>
                            </div>
                            <div class="service-ico">
-                              <img src="images/service-02.png" alt="">
+                              <img src="images/icons/home-ico-02-min.png" alt="">
                            </div>
                            <div class="empty-box"></div>
                         </div>
@@ -464,7 +305,7 @@
                               <h1>03</h1>
                            </div>
                            <div class="service-ico">
-                              <img src="images/service-03.png" alt="">
+                              <img src="images/icons/home-ico-03-min.png" alt="">
                            </div>
                            <div class="empty-box"></div>
                         </div>
@@ -489,7 +330,7 @@
                               <h1>04</h1>
                            </div>
                            <div class="service-ico">
-                              <img src="images/service-04.png" alt="">
+                              <img src="images/icons/home-ico-04-min.png" alt="">
                            </div>
                            <div class="empty-box"></div>
                         </div>
@@ -514,7 +355,7 @@
                               <h1>05</h1>
                            </div>
                            <div class="service-ico">
-                              <img src="images/service-01.png" alt="">
+                              <img src="images/icons/home-ico-05-min.png" alt="">
                            </div>
                            <div class="empty-box"></div>
                         </div>
@@ -539,7 +380,7 @@
                               <h1>06</h1>
                            </div>
                            <div class="service-ico">
-                              <img src="images/service-01.png" alt="">
+                              <img src="images/icons/home-ico-06-min.png" alt="">
                            </div>
                            <div class="empty-box"></div>
                         </div>
@@ -564,7 +405,7 @@
                               <h1>07</h1>
                            </div>
                            <div class="service-ico">
-                              <img src="images/service-01.png" alt="">
+                              <img src="images/icons/home-ico-07-min.png" alt="">
                            </div>
                            <div class="empty-box"></div>
                         </div>
@@ -589,7 +430,7 @@
                               <h1>08</h1>
                            </div>
                            <div class="service-ico">
-                              <img src="images/service-01.png" alt="">
+                              <img src="images/icons/home-ico-08-min.png" alt="">
                            </div>
                            <div class="empty-box"></div>
                         </div>
@@ -614,7 +455,7 @@
                               <h1>09</h1>
                            </div>
                            <div class="service-ico">
-                              <img src="images/service-01.png" alt="">
+                              <img src="images/icons/home-ico-09-min.png" alt="">
                            </div>
                            <div class="empty-box"></div>
                         </div>
@@ -731,37 +572,37 @@
                      <ul class="nav nav-pills mb-3 d-flex your-story-inner" id="pills-tab" role="tablist">
                         <li class="nav-item mx-2" role="presentation">
                            <button class="nav-link active" id="pills-story-7-tab" data-bs-toggle="pill" data-bs-target="#pills-story-7" type="button" role="tab" aria-controls="pills-story-7" aria-selected="true">
-                           <img class="tab-icon-img" src="images/doing-icon.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
+                           <img class="tab-icon-img" src="images/icons/home-ico-010-min.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
                            <img class="tab-arrow" src="images/tab-arrow.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
                            </button>
                         </li>
                         <li class="nav-item mx-2" role="presentation">
                            <button class="nav-link" id="pills-story-8-tab" data-bs-toggle="pill" data-bs-target="#pills-story-8" type="button" role="tab" aria-controls="pills-story-8" aria-selected="false">
-                           <img class="tab-icon-img" src="images/doing-icon.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
+                           <img class="tab-icon-img" src="images/icons/home-ico-011-min.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
                            <img class="tab-arrow" src="images/tab-arrow.png" style="width:75px; height:75px;" class="img-fluid" alt="Best Book Writers">
                            </button>
                         </li>
                         <li class="nav-item mx-2" role="presentation">
                            <button class="nav-link" id="pills-story-9-tab" data-bs-toggle="pill" data-bs-target="#pills-story-9" type="button" role="tab" aria-controls="pills-story-9" aria-selected="false">
-                           <img class="tab-icon-img" src="images/doing-icon.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
+                           <img class="tab-icon-img" src="images/icons/home-ico-012-min.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
                            <img class="tab-arrow" src="images/tab-arrow.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
                            </button>
                         </li>
                         <li class="nav-item mx-2" role="presentation">
                            <button class="nav-link" id="pills-story-10-tab" data-bs-toggle="pill" data-bs-target="#pills-story-10" type="button" role="tab" aria-controls="pills-story-10" aria-selected="false">
-                           <img class="tab-icon-img" src="images/doing-icon.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
+                           <img class="tab-icon-img" src="images/icons/home-ico-013-min.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
                            <img class="tab-arrow" src="images/tab-arrow.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
                            </button>
                         </li>
                         <li class="nav-item mx-2" role="presentation">
                            <button class="nav-link" id="pills-story-11-tab" data-bs-toggle="pill" data-bs-target="#pills-story-11" type="button" role="tab" aria-controls="pills-story-11" aria-selected="false">
-                           <img class="tab-icon-img" src="images/doing-icon.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
+                           <img class="tab-icon-img" src="images/icons/home-ico-014-min.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
                            <img class="tab-arrow" src="images/tab-arrow.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
                            </button>
                         </li>
                         <li class="nav-item mx-2" role="presentation">
                            <button class="nav-link" id="pills-story-6-tab" data-bs-toggle="pill" data-bs-target="#pills-story-6" type="button" role="tab" aria-controls="pills-story-6" aria-selected="false">
-                           <img class="tab-icon-img" src="images/doing-icon.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
+                           <img class="tab-icon-img" src="images/icons/home-ico-015-min.png" style="width:75px; height: 75px;" class="img-fluid" alt="Best Book Writers">
                            </button>
                         </li>
                      </ul>

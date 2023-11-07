@@ -48,7 +48,7 @@
                                                 <img src="images/book-qoute-img.png" alt="">
                                             </div>
                                         </div>
-                                        <form action=""  method=POST>
+                                        <form action="sendmail.php"  method=POST>
                                             <div class="col-sm-12 footerform1">
                                                 <div class="col-sm-6 form-box-inout">
                                                     <input type="name" placeholder="Full Name" name="fname" value="">
@@ -198,7 +198,7 @@
                                         <h1>01</h1>
                                     </div>
                                     <div class="service-ico">
-                                        <img src="images/service-01.png" alt="">
+                                        <img src="images/bookprinting/bookprinting-icon-01.png" alt="">
                                     </div>
                                     <div class="empty-box"></div>
                                 </div>
@@ -223,7 +223,7 @@
                                         <h1>02</h1>
                                     </div>
                                     <div class="service-ico">
-                                        <img src="images/service-02.png" alt="">
+                                        <img src="images/bookprinting/bookprinting-icon-02.png" alt="">
                                     </div>
                                     <div class="empty-box"></div>
                                 </div>
@@ -248,7 +248,7 @@
                                         <h1>03</h1>
                                     </div>
                                     <div class="service-ico">
-                                        <img src="images/service-03.png" alt="">
+                                        <img src="images/bookprinting/bookprinting-icon-03.png" alt="">
                                     </div>
                                     <div class="empty-box"></div>
                                 </div>
@@ -273,7 +273,7 @@
                                         <h1>04</h1>
                                     </div>
                                     <div class="service-ico">
-                                        <img src="images/service-04.png" alt="">
+                                        <img src="images/bookprinting/bookprinting-icon-04.png" alt="">
                                     </div>
                                     <div class="empty-box"></div>
                                 </div>
@@ -298,7 +298,7 @@
                                         <h1>05</h1>
                                     </div>
                                     <div class="service-ico">
-                                        <img src="images/service-01.png" alt="">
+                                        <img src="images/bookprinting/bookprinting-icon-05.png" alt="">
                                     </div>
                                     <div class="empty-box"></div>
                                 </div>

@@ -16,10 +16,10 @@
             <div class="col-md-3">
                 <div class="footer-social">
                     <ul>
-                        <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                        <li><a href="https://twitter.com/BBPublisher"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.linkedin.com/showcase/best-book-publisher/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.facebook.com/BestBookPublisher/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.instagram.com/bestbookpublisher/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -97,7 +97,7 @@
                         <img src="images/email-icon-f.png" alt="">
                     </div>
                     <div class="icon-info">
-                    <h1><a href="mailto: info@bestbookwriters.com">info@bestbookwriters.com</a></h1>
+                    <h1><a href="mailto: info@bestbookpublisher.com">info@bestbookpublisher.com</a></h1>
                     </div>
                 </div>
                 <div class="icon-box">
@@ -128,7 +128,7 @@
         <div class="row copyright-web">
             <div class="col-sm-6">
                 <div class="copyright">
-                    <h1>All Rights Reserved 2023 - Best Book Writers</h1>
+                    <h1>All Rights Reserved 2023 - Best Book Publisher</h1>
                 </div>
             </div>
             <div class="col-sm-6">

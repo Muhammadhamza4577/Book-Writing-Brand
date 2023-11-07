@@ -48,7 +48,7 @@
                                                 <img src="images/book-qoute-img.png" alt="">
                                             </div>
                                         </div>
-                                        <form action=""  method=POST>
+                                        <form action="sendmail.php"  method=POST>
                                             <div class="col-sm-12 footerform1">
                                                 <div class="col-sm-6 form-box-inout">
                                                     <input type="name" placeholder="Full Name" name="fname" value="">
