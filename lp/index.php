@@ -102,7 +102,6 @@
 </div>
 <div class="col-md-6">
 <input type="tel" class="form-control phno" id="" placeholder="Phone No. *" name="phone" required>
-
 </div>
 <div class="col-md-12">
 <input type="" name="email_address" placeholder="Email Address**" required>
@@ -119,23 +118,21 @@
 <div class="container">
 <div class="part-logos">
 <div class="parts-logo-slide">
-<img src="images/logo-01-.png" alt="">
+<img src="images/logo-001.png" alt="">
 </div>
 <div class="parts-logo-slide">
-<img src="images/logo-02-removebg-preview.png" alt="">
+<img src="images/logo-002.png" alt="">
 </div>
 <div class="parts-logo-slide">
-<img src="images/logo-03-removebg-preview.png" alt="">
+<img src="images/logo-003.png" alt="">
 </div>
 <div class="parts-logo-slide">
-<img src="images/logo-04-removebg-preview.png" alt="">
+<img src="images/logo-004.png" alt="">
 </div>
 <div class="parts-logo-slide">
-<img src="images/logo-05.png" alt="">
+<img src="images/logo-005.png" alt="">
 </div>
-<div class="parts-logo-slide">
-<img src="images/logo-03-removebg-preview.png" alt="">
-</div>
+
 </div>
 </div>
 </section>
@@ -184,7 +181,8 @@
 <div class="col-md-3">
     <div class="pkBox">
 <h3>ESSENTIAL PACKAGE </h3>
-<span class="price">$799 <sup>$1599 </sup></span>
+<!--<span class="price">$399 <sup>$1299 </sup></span>-->
+<span class="price"> <sup> </sup></span>
 <ul>
 <li>Book Editing.</li>
 <li>Line by line Proofreading.</li>
@@ -205,7 +203,8 @@
 <div class="col-md-3">
     <div class="pkBox">
 <h3>PRIME PACKAGE </h3>
-<span class="price">$1499 <sup>$2999 </sup></span>
+<!--<span class="price">$999 <sup>$2499 </sup></span>-->
+<span class="price"> <sup> </sup></span>
 <ul>
 <li><strong>Pictures or Illustrations Formatting.</strong></li>
 <li>Book Cover Design (illustrative or pictorial).</li>
@@ -228,10 +227,10 @@
 </div></div>
 <div class="col-md-3">
     <div class="pkBox"> 
-    <div class="best-seller"><img src="images/seller.png" alt=""></div>
-    <!-- <div class="ribbon ribbon-top-right"><span>Best Seller</span></div> -->
+    <!--<div class="ribbon ribbon-top-right"><span>Best Seller</span></div>-->
 <h3>ADVANCED PACKAGE </h3>
-<span class="price">$2499 <sup>$4999 </sup></span>
+<!--<span class="price">$1899 <sup>$4399 </sup></span>-->
+<span class="price"> <sup> </sup></span>
 <ul>
 <li><strong>Editorial Assessment of the Manuscript.</strong></li>
 <li>	Pictures or Illustrations Formatting.</li>
@@ -258,7 +257,8 @@
 <div class="col-md-3">
     <div class="pkBox">
 <h3>PRO PACKAGE </h3>
-<span class="price">$4500 <sup>$5999 </sup></span>
+<!--<span class="price">$2999 <sup>$4498 </sup></span>-->
+<span class="price"> <sup> </sup></span>
 <ul>
 <li><strong>Developmental Editing up-to 50 pages. </strong></li>
 <li><strong>Structural Editing of the manuscript. </strong></li>
@@ -296,7 +296,7 @@
 <p>Our clients trust us with their dreams and we turn them into a solid reality. Hear it from our clients:</p>
 </div>
 <div class="review-img">
-<img src="images/review-img-removebg-preview.png" alt="">
+<img src="images/review-img.png" alt="">
 </div>
 <div class="tmls-slider">
 <div class="tmls-slide">
@@ -321,7 +321,7 @@
 <li><i class="fa fa-star" aria-hidden="true"></i></li>
 <li><i class="fa fa-star" aria-hidden="true"></i></li>
 </ul>
-<p>My book wasn’t like everyone else’s out there. When I decided to get my book written, I was working on it with the aim of getting a movie made out of it in the future. But in order to make that dream turn into a reality, I had to find the right words to showcase the idea I had. Initially, I started writing the book myself however something didn’t feel right. That’s when a friend suggested I approach Best Book Writers as they really were living up to their name. I rang them and was right away connected to Adam Smith. Our first discussion lasted up to 2 hours and he listened to my plan very eagerly. Then, along with his team’s effort, he sent me a detailed project scope with the project ETA. Everything at that moment just seemed right and I signed the contract with them there and then. To this date, my book has been proceeding very swimmingly and I don’t regret selecting Best Book Writers for even a second. Super excited to see what comes next our way!</p>
+<p>My book wasn’t like everyone else’s out there. When I decided to get my book written, I was working on it with the aim of getting a movie made out of it in the future. But in order to make that dream turn into a reality, I had to find the right words to showcase the idea I had. Initially, I started writing the book myself however something didn’t feel right. That’s when a friend suggested I approach Best Book Publisher as they really were living up to their name. I rang them and was right away connected to Adam Smith. Our first discussion lasted up to 2 hours and he listened to my plan very eagerly. Then, along with his team’s effort, he sent me a detailed project scope with the project ETA. Everything at that moment just seemed right and I signed the contract with them there and then. To this date, my book has been proceeding very swimmingly and I don’t regret selecting Best Book Publisher for even a second. Super excited to see what comes next our way!</p>
 <h5>Rachael Murray</h5>
 </div>
 </div>
@@ -360,7 +360,7 @@
 <li><i class="fa fa-star" aria-hidden="true"></i></li>
 <li><i class="fa fa-star" aria-hidden="true"></i></li>
 </ul>
-<p>My book wasn’t like everyone else’s out there. When I decided to get my book written, I was working on it with the aim of getting a movie made out of it in the future. But in order to make that dream turn into a reality, I had to find the right words to showcase the idea I had. Initially, I started writing the book myself however something didn’t feel right. That’s when a friend suggested I approach Best Book Writers as they really were living up to their name. I rang them and was right away connected to Adam Smith. Our first discussion lasted up to 2 hours and he listened to my plan very eagerly. Then, along with his team’s effort, he sent me a detailed project scope with the project ETA. Everything at that moment just seemed right and I signed the contract with them there and then. To this date, my book has been proceeding very swimmingly and I don’t regret selecting Best Book Writers for even a second. Super excited to see what comes next our way!</p>
+<p>My book wasn’t like everyone else’s out there. When I decided to get my book written, I was working on it with the aim of getting a movie made out of it in the future. But in order to make that dream turn into a reality, I had to find the right words to showcase the idea I had. Initially, I started writing the book myself however something didn’t feel right. That’s when a friend suggested I approach Best Book Publisher as they really were living up to their name. I rang them and was right away connected to Adam Smith. Our first discussion lasted up to 2 hours and he listened to my plan very eagerly. Then, along with his team’s effort, he sent me a detailed project scope with the project ETA. Everything at that moment just seemed right and I signed the contract with them there and then. To this date, my book has been proceeding very swimmingly and I don’t regret selecting Best Book Publisher for even a second. Super excited to see what comes next our way!</p>
 <h5>Rachael Murray</h5>
 </div>
 </div>
@@ -399,7 +399,7 @@
 <li><i class="fa fa-star" aria-hidden="true"></i></li>
 <li><i class="fa fa-star" aria-hidden="true"></i></li>
 </ul>
-<p>My book wasn’t like everyone else’s out there. When I decided to get my book written, I was working on it with the aim of getting a movie made out of it in the future. But in order to make that dream turn into a reality, I had to find the right words to showcase the idea I had. Initially, I started writing the book myself however something didn’t feel right. That’s when a friend suggested I approach Best Book Writers as they really were living up to their name. I rang them and was right away connected to Adam Smith. Our first discussion lasted up to 2 hours and he listened to my plan very eagerly. Then, along with his team’s effort, he sent me a detailed project scope with the project ETA. Everything at that moment just seemed right and I signed the contract with them there and then. To this date, my book has been proceeding very swimmingly and I don’t regret selecting Best Book Writers for even a second. Super excited to see what comes next our way!</p>
+<p>My book wasn’t like everyone else’s out there. When I decided to get my book written, I was working on it with the aim of getting a movie made out of it in the future. But in order to make that dream turn into a reality, I had to find the right words to showcase the idea I had. Initially, I started writing the book myself however something didn’t feel right. That’s when a friend suggested I approach Best Book Publisher as they really were living up to their name. I rang them and was right away connected to Adam Smith. Our first discussion lasted up to 2 hours and he listened to my plan very eagerly. Then, along with his team’s effort, he sent me a detailed project scope with the project ETA. Everything at that moment just seemed right and I signed the contract with them there and then. To this date, my book has been proceeding very swimmingly and I don’t regret selecting Best Book Publisher for even a second. Super excited to see what comes next our way!</p>
 <h5>Rachael Murray</h5>
 </div>
 </div>
@@ -422,19 +422,19 @@
 </section>
 <section class="menu-script-sec">
 <div class="bubble-shape1">
-<img src="images/bubble-shape1.png" alt="">
+<img src="images/bubble-shape01.png" alt="">
 </div>
 <div class="bubble-shape2">
-<img src="images/bubble-shape2.png" alt="">
+<img src="images/bubble-shape02.png" alt="">
 </div>
 <div class="container">
 <div class="row row-flx">
 <div class="col-md-6">
 <div class="mnuscpt-blk">
 <h2>Transform Your Manuscript into a Best-Seller with Self - Publishing</h2>
-<p>Are you ready to turn your story into a compelling bestseller? Look no further than Best book writers via Amazon Publishing and iBooks. Your writing will reach new heights with the help of these efficient eBook publishers, getting readers and launching your book to the top of the charts. Utilize your writing skills to their utmost and leverage the power of self-publishing on Amazon and iBooks to transform your manuscript into a leading seller. With the combined reach of these platforms, your words will resonate with readers worldwide, propelling your book to the pinnacle of success. Take advantage of the opportunity to showcase your talent and captivate audiences on Amazon and iBooks. Turn your story into a bestseller today!</p>
+<p>Are you ready to turn your story into a compelling bestseller? Look no further than Best Book Publisher via Amazon Publishing and iBooks. Your writing will reach new heights with the help of these efficient eBook publishers, getting readers and launching your book to the top of the charts. Utilize your writing skills to their utmost and leverage the power of self-publishing on Amazon and iBooks to transform your manuscript into a leading seller. With the combined reach of these platforms, your words will resonate with readers worldwide, propelling your book to the pinnacle of success. Take advantage of the opportunity to showcase your talent and captivate audiences on Amazon and iBooks. Turn your story into a bestseller today!</p>
 <div class="theme-btn">
-<a class="thmn-btnn1 grey-btn" href="javascript:" onclick="setButtonURL()">Let's Chat<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+<a class="thmn-btn1 grey-btn" href="javascript:" onclick="setButtonURL()">Let's Chat<i class="fa fa-angle-right" aria-hidden="true"></i></a>
 
 <a class="thmn-btn1 grey-btn calle" href="tel:+1-737-881-7227">Call Now <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 <button type="button" class="hvr-grow tc-image-effect-shine" data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started<i class="fa fa-angle-right" aria-hidden="true"></i></button>
@@ -466,7 +466,7 @@
 <li><span>Article Writing</span></li>
 </ul>
 <div class="theme-btn">
-<a class="thmn-btnn1 grey-btn" href="javascript:" onclick="setButtonURL()">Let's Chat<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+<a class="thmn-btn1 grey-btn" href="javascript:" onclick="setButtonURL()">Let's Chat<i class="fa fa-angle-right" aria-hidden="true"></i></a>
 
 <a class="thmn-btn1 grey-btn calle" href="tel:+1-737-881-7227">Call Now <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 <button type="button" class="hvr-grow tc-image-effect-shine" data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started<i class="fa fa-angle-right" aria-hidden="true"></i></button>
@@ -480,7 +480,7 @@
 <section class="get-book">
 <div class="container">
 <div class="get-book-blk">
-<img src="images/get-book.png" alt="">
+<img src="images/get-book1.png" alt="">
 <div class="get-book-txt">
 <h2>Get Your Book Written At Affordable Rates</h2>
 <p>We are here to take your book to the next level.</p>
@@ -500,8 +500,8 @@
 <div class="row row-flx">
 <div class="col-md-6">
 <div class="book-public-blk">
-<h2>Looking for Book Publishing? <span>Best book writers are available 24/7</span></h2>
-<p>Discover the comprehensive services available at Best Book Writers, designed to bring your vision to life. Our expertise extends to editing, audiobook publishing, design, self-publishing through Kindle Direct Publishing (KDP) on Amazon, and distribution services. We excel in eBook publishing and offer excellent children's book publishing options. Our extensive distribution network and dedicated marketing support ensure your book receives the exposure it deserves. By utilizing our Amazon book publishing services, including Kindle book publishing, you can enjoy numerous advantages: </p>
+<h2>Looking for Book Publishing? <span>Best Book Publisher are available 24/7</span></h2>
+<p>Discover the comprehensive services available at Best Book Publisher, designed to bring your vision to life. Our expertise extends to editing, audiobook publishing, design, self-publishing through Kindle Direct Publishing (KDP) on Amazon, and distribution services. We excel in eBook publishing and offer excellent children's book publishing options. Our extensive distribution network and dedicated marketing support ensure your book receives the exposure it deserves. By utilizing our Amazon book publishing services, including Kindle book publishing, you can enjoy numerous advantages: </p>
 <ul>
 <li><span>Expanding your reach </span></li>
 <li><span>Gaining increased visibility </span></li>
@@ -533,28 +533,28 @@
 <div class="row">
 <div class="col-md-3 col-sm-6">
 <div class="step-blk">
-<span><img src="images/step-icon1.png" alt=""></span>
+<span><img src="images/step-icon01.png" alt=""></span>
 <h5>Contact Us</h5>
 <p>You will contact our book publishing company in the first stage of the book publishing process to discuss your publishing aims and learn more about your book to see how we can best support you.</p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6">
 <div class="step-blk">
-<span><img src="images/step-icon2.png" alt=""></span>
+<span><img src="images/step-icon02.png" alt=""></span>
 <h5>Submit Your Manuscript</h5>
 <p>In this step, you will give us your completed manuscript. As a result, our team of expert writers will review and evaluate it, providing comprehensive feedback.</p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6">
 <div class="step-blk">
-<span><img src="images/step-icon3.png" alt=""></span>
+<span><img src="images/step-icon03.png" alt=""></span>
 <h5>Bring Your Book To Life</h5>
 <p>We understand that self-publishers can be daunting, but with our guidance, you can confidently navigate the process and turn your manuscript into a published book.</p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6">
 <div class="step-blk">
-<span><img src="images/step-icon4.png" alt=""></span>
+<span><img src="images/step-icon04.png" alt=""></span>
 <h5>Share Your Story To The World</h5>
 <p>When you're ready to self-publish a book, we'll handle the printing and distribution while providing audiobook publishing and marketing assistance to help you connect with readers and share your story with the world.</p>
 </div>
@@ -577,8 +577,7 @@
 <div class="row">
 <div class="col-md-4"><input required type="text" name="Name" placeholder="Enter Your Name"></div>
 <div class="col-md-4"><input required type="email" name="Email" placeholder="Enter Your Email"></div>
-<div class="col-md-4"><input type="tel" class="form-control phno" id="" placeholder="Phone No. *" name="phone" required>
-</div>
+<div class="col-md-4"><input type="tel" class="form-control phno" id="" placeholder="Phone No. *" name="phone" required></div>
 <div class="col-md-8"><input required type="text" name="Subject" placeholder="Enter Your Subject"></div>
 <div class="col-md-4"><div class="file-blk"><input type="file" name=""></div></div>
 <div class="col-md-12"><textarea required placeholder="Project Discription"></textarea></div>

@@ -2742,15 +2742,6 @@ footer .footer-bottom span:nth-child(2) {
 .modal-footer {
   border: none;
 }
-.modal .modal-dialog .modal-content .modal-header button {
-  border-radius: 50%;
-  color: #ffa22a;
-  border: 3px solid #ffa22a;
-  line-height: 1em;
-  text-align: center;
-  font-size: 16px;
-  opacity: 1;
-}
 .modal .modal-dialog .modal-content .modal-header .btn-close {
   background: inherit;
   opacity: inherit;
@@ -2854,14 +2845,7 @@ select:-moz-focusring {
     font-size:36px;
 }
 
-.modal .modal-dialog .modal-content {
-  background: linear-gradient(
-    80deg,
-    rgba(83, 65, 128, 1) 23%,
-    rgba(39, 33, 54, 1) 77%
-  );
-  padding: 10px 8px;
-}
+
 .modal .modal-dialog .modal-content .modal-body p {
     font-family: "Rubik", sans-serif;
     font-weight: 400;
@@ -4206,15 +4190,6 @@ select:-moz-focusring {
 .modal-footer {
   border: none;
 }
-.modal .modal-dialog .modal-content .modal-header button {
-  border-radius: 50%;
-  color: #ffa22a;
-  border: 3px solid #ffa22a;
-  line-height: 1em;
-  text-align: center;
-  font-size: 16px;
-  opacity: 1;
-}
 .modal .modal-dialog .modal-content .modal-header .btn-close {
   background: inherit;
   opacity: inherit;
@@ -4318,14 +4293,6 @@ select:-moz-focusring {
     font-size:36px;
 }
 
-.modal .modal-dialog .modal-content {
-  background: linear-gradient(
-    80deg,
-    rgba(83, 65, 128, 1) 23%,
-    rgba(39, 33, 54, 1) 77%
-  );
-  padding: 10px 8px;
-}
 .modal .modal-dialog .modal-content .modal-body p {
     font-family: "Rubik", sans-serif;
     font-weight: 400;

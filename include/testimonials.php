@@ -1,15 +1,15 @@
+<section class="bottom-testimonial">
 <div class="container mytestimonaial">
    <div class="row testi-content">
       <div class="col-sm-6">
          <div class="testi-head">
-            <h1>What Our Clients Say Only Motivates Us to Go<span> Above & Beyond Their </span>Expectations.</h1>
-            <!-- <p>Monotonectally brand worldwide value before in seamless process data Collaboratively initiate strategic expertise after functionalized models in. </p> -->
+            <h1>Feedbacks & <span> Testimonials.</span></h1>
          </div>
       </div>
       <div class="col-sm-6">
          <div class="about-btn-inner">
             <div class="getint">
-               <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+               <a href="javascript:void(0);" class="custom-btn btn-9 btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal">Get Started Today <i class="fa fa-angle-right"></i></a>
             </div>
             <div class="number-btn-about">
                <a href="tel:+1-737-881-7227">
@@ -33,15 +33,38 @@
             <div class="col-sm-3" style="margin-top: 50px;">
                <div class="test-box">
                   <div class="client-img">
-                     <img src="images/client-01.png" alt="">
+                     <img src="images/client-03.png" alt="">
                   </div>
                   <div class="client-desc">
-                     <p>I understand the fact that I am not the best writer in the world and that is the reason why looked out for different online editing services. The quotes offered to me were too much, but I opted for Best Book Writers. My Warner was really helpful and he coordinated with me in framing up different chapters. Thanks a lot Best Book Writers guys, you guys are good.</p>
+                     <p>Excellent service, good approach and quick turnover. Highly recommended.</p>
                   </div>
                   <div class="client-box">
                      <div class="client-name">
-                        <h1>True Johnson</h1>
-                        <p>Great coordination!</p>
+                        <h1>Hayley</h1>
+                        <!-- <p>Great coordination!</p> -->
+                     </div>
+                     <div class="star-rate">
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <!-- <i class="fa fa-star" aria-hidden="true"></i> -->
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-sm-3 box-align" >
+               <div class="test-box">
+                  <div class="client-img">
+                     <img src="images/client-01.png" alt="">
+                  </div>
+                  <div class="client-desc">
+                     <p>Very cooperative staff. They were able to understand my complex project requirements and deliver everything on time.</p>
+                  </div>
+                  <div class="client-box">
+                     <div class="client-name">
+                        <h1>John</h1>
+                        <!-- <p>Top service and accurate delivery</p> -->
                      </div>
                      <div class="star-rate">
                         <i class="fa fa-star" aria-hidden="true"></i>
@@ -53,25 +76,48 @@
                   </div>
                </div>
             </div>
-            <div class="col-sm-3 box-align" >
+            <div class="col-sm-3" style="margin-top: 50px;">
                <div class="test-box">
                   <div class="client-img">
-                     <img src="images/client-02.png" alt="">
+                     <img src="images/client-07.png" alt="">
                   </div>
                   <div class="client-desc">
-                     <p>After completing my book I realized that how arduous book writing can be even for people who are good in writing. The technical details along with the formatting as a bit tough on my side. I contacted Best Book Writers editing services and these guys delivered my work after various corrections in just 72 hours.</p>
+                     <p>Best book writing professionals I have came across in USA. They delivered everything they had promised. Very satisfied.</p>
                   </div>
                   <div class="client-box">
                      <div class="client-name">
-                        <h1>Courtney Sam</h1>
-                        <p>Top service and accurate delivery</p>
+                        <h1>Marker</h1>
+                        <!-- <p>Super stuff!</p> -->
                      </div>
                      <div class="star-rate">
                         <i class="fa fa-star" aria-hidden="true"></i>
                         <i class="fa fa-star" aria-hidden="true"></i>
                         <i class="fa fa-star" aria-hidden="true"></i>
                         <i class="fa fa-star" aria-hidden="true"></i>
+                        <!-- <i class="fa fa-star" aria-hidden="true"></i> -->
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-sm-3">
+               <div class="test-box">
+                  <div class="client-img">
+                     <img src="images/client-04.png" alt="">
+                  </div>
+                  <div class="client-desc">
+                     <p>I was skeptic at first but after talking to Adam and conveying all my queries, I received better quality work than I had imagined. I recommend their services to everyone out there.</p>
+                  </div>
+                  <div class="client-box">
+                     <div class="client-name">
+                        <h1>Elaine</h1>
+                        <!-- <p>Marketing professionals</p> -->
+                     </div>
+                     <div class="star-rate">
                         <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <!-- <i class="fa fa-star" aria-hidden="true"></i> -->
                      </div>
                   </div>
                </div>
@@ -82,12 +128,12 @@
                      <img src="images/client-05.png" alt="">
                   </div>
                   <div class="client-desc">
-                     <p>I wanted a simple yet trendy book cover design to attract more and more readers. I managed something myself through certain free applications, but ended up making a mess of my book cover lol. Thank God I opted for these Best Book Writers guys and they are friendly and super professional in their work.</p>
+                     <p>1.	To publish my book, I needed a hassle-free book publishing plan. My sales have increased ever since this website accomplished far more than it promised</p>
                   </div>
                   <div class="client-box">
                      <div class="client-name">
-                        <h1>Simon Abbot</h1>
-                        <p>Super stuff!</p>
+                        <h1>Bob</h1>
+                        <!-- <p>Research gurus</p> -->
                      </div>
                      <div class="star-rate">
                         <i class="fa fa-star" aria-hidden="true"></i>
@@ -102,15 +148,15 @@
             <div class="col-sm-3">
                <div class="test-box">
                   <div class="client-img">
-                     <img src="images/client-03.png" alt="">
+                     <img src="images/client-09.png" alt="">
                   </div>
                   <div class="client-desc">
-                     <p>Thanks a lot guys! You guys just did something super special for me. I am so happy to hire you guys as my marketing strategist. Give some recognition to Beckham he surely should be compensated more :)</p>
+                     <p>2.	My script was due in less than a month, and I had no desire to write anything. These gentlemen were sent from heaven at that precise moment, and I finished my script in time for my deadline</p>
                   </div>
                   <div class="client-box">
                      <div class="client-name">
-                        <h1>Neda Salim</h1>
-                        <p>Marketing professionals</p>
+                        <h1>Henry</h1>
+                        <!-- <p>Publishing done in a professional manner</p> -->
                      </div>
                      <div class="star-rate">
                         <i class="fa fa-star" aria-hidden="true"></i>
@@ -125,15 +171,15 @@
             <div class="col-sm-3" style="margin-top: 50px;">
                <div class="test-box">
                   <div class="client-img">
-                     <img src="images/client-04.png" alt="">
+                     <img src="images/client-08.png" alt="">
                   </div>
                   <div class="client-desc">
-                     <p>The topic of my book was literally very difficult and people said no to me because of my core ground-breaking medicinal research. The David was super professional and Best Book Writers is certainly a professional Book writing brand. Thanks Guys!!!</p>
+                     <p>3.	This website has given me the confidence to write a novel that is unlike any other work of fiction. I'm working on a bestseller. </p>
                   </div>
                   <div class="client-box">
                      <div class="client-name">
-                        <h1>Sarah Edwards</h1>
-                        <p>Research gurus</p>
+                        <h1>Katy</h1>
+                        <!-- <p>Book writing completed within my deadline</p> -->
                      </div>
                      <div class="star-rate">
                         <i class="fa fa-star" aria-hidden="true"></i>
@@ -148,15 +194,15 @@
             <div class="col-sm-3">
                <div class="test-box">
                   <div class="client-img">
-                     <img src="images/client-06.png" alt="">
+                     <img src="images/client-10.png" alt="">
                   </div>
                   <div class="client-desc">
-                     <p>I was worried about publishing of the book because I was done with writing the book, design of the book cover, and a bit of marketing. However, I want to change the publisher and wanted a formidable publisher to publish my book. Best Book Writers people helped me out in this domain and they are professionals.</p>
+                     <p>4.	Since fiction writing demands a great deal of imagination and attention to detail, I need a second set of eyes to review my work and assist me in producing a book that stands out from the others. This platform helped me achieve better and I am very thankful. </p>
                   </div>
                   <div class="client-box">
                      <div class="client-name">
-                        <h1>Silvia Peter</h1>
-                        <p>Publishing done in a professional manner</p>
+                        <h1>Rose</h1>
+                        <!-- <p>100% satisfied</p> -->
                      </div>
                      <div class="star-rate">
                         <i class="fa fa-star" aria-hidden="true"></i>
@@ -169,86 +215,40 @@
                </div>
             </div>
             <div class="col-sm-3" style="margin-top: 50px;">
-               <div class="test-box">
-                  <div class="client-img">
-                     <img src="images/client-03.png" alt="">
-                  </div>
-                  <div class="client-desc">
-                     <p>The guy Alex was a professional and super honest with me when it comes to delivering the complete book in 15 days. I committed with my husband that we should outsource this work and I am glad that these guys helped me out in a professional manner.</p>
-                  </div>
-                  <div class="client-box">
-                     <div class="client-name">
-                        <h1>Irene Samuels</h1>
-                        <p>Book writing completed within my deadline</p>
-                     </div>
-                     <div class="star-rate">
-                        <i class="fa fa-star" aria-hidden="true"></i>
-                        <i class="fa fa-star" aria-hidden="true"></i>
-                        <i class="fa fa-star" aria-hidden="true"></i>
-                        <i class="fa fa-star" aria-hidden="true"></i>
-                        <i class="fa fa-star" aria-hidden="true"></i>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="col-sm-3">
-               <div class="test-box">
-                  <div class="client-img">
-                     <img src="images/client-04.png" alt="">
-                  </div>
-                  <div class="client-desc">
-                     <p>I just provided the basic outline to the writers at Best Book Writers and they produced a superb draft. The editing department along with quality assurance was up to date with their work. I have realized that the dollars spent on these guys was a viable investment.</p>
-                  </div>
-                  <div class="client-box">
-                     <div class="client-name">
-                        <h1>Lene Steve</h1>
-                        <p>100% satisfied</p>
-                     </div>
-                     <div class="star-rate">
-                        <i class="fa fa-star" aria-hidden="true"></i>
-                        <i class="fa fa-star" aria-hidden="true"></i>
-                        <i class="fa fa-star" aria-hidden="true"></i>
-                        <i class="fa fa-star" aria-hidden="true"></i>
-                        <i class="fa fa-star" aria-hidden="true"></i>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="col-sm-3" style="margin-top: 50px;">
-               <div class="test-box">
-                  <div class="client-img">
-                     <img src="images/client-06.png" alt="">
-                  </div>
-                  <div class="client-desc">
-                     <p>The Book writing process looks cumbersome, but it was entertaining and professional to the core. I loved the engagement that you guys create with the customers, and the best part is that we can contact you whenever we want.</p>
-                  </div>
-                  <div class="client-box">
-                     <div class="client-name">
-                        <h1>Melina Sim</h1>
-                        <p>Smooth and entertaining process</p>
-                     </div>
-                     <div class="star-rate">
-                        <i class="fa fa-star" aria-hidden="true"></i>
-                        <i class="fa fa-star" aria-hidden="true"></i>
-                        <i class="fa fa-star" aria-hidden="true"></i>
-                        <i class="fa fa-star" aria-hidden="true"></i>
-                        <i class="fa fa-star" aria-hidden="true"></i>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="col-sm-3">
                <div class="test-box">
                   <div class="client-img">
                      <img src="images/client-02.png" alt="">
                   </div>
                   <div class="client-desc">
-                     <p>I was short on money and I had a very tight budget. My loan was still on pending, but you guys helped me out and provided an installment plan. I still cannot imagine that you I signed up in just 200 bucks. I am ready to opt or an audio book too once my loan is approved.</p>
+                     <p>I've wanted to create and publish poems for a long time, but I'm not very good at putting my ideas down on paper. I gave these individuals my vision and as a result. </p>
                   </div>
                   <div class="client-box">
                      <div class="client-name">
-                        <h1>Steven Smith</h1>
-                        <p>Super error free work!</p>
+                        <h1>Alex </h1>
+                        <!-- <p>Smooth and entertaining process</p> -->
+                     </div>
+                     <div class="star-rate">
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <!-- <i class="fa fa-star" aria-hidden="true"></i> -->
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-sm-3">
+               <div class="test-box">
+                  <div class="client-img">
+                     <img src="images/client-06.png" alt="">
+                  </div>
+                  <div class="client-desc">
+                     <p>My first published book of poetry, was released. I've wanted to write a science fiction book that has become a bestseller since I was twelve years old. I'm delighted I came to this page when browsing the internet. I'm so close to realizing my goal. </p>
+                  </div>
+                  <div class="client-box">
+                     <div class="client-name">
+                        <h1>Samantha</h1>
+                        <!-- <p>Super error free work!</p> -->
                      </div>
                      <div class="star-rate">
                         <i class="fa fa-star" aria-hidden="true"></i>
@@ -264,3 +264,4 @@
       </div>
    </div>
 </div>
+</section>

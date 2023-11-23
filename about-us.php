@@ -11,13 +11,13 @@
          <div class="row justify-content-center">
             <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                <div class="banner-content-about">
-                  <h1>We Are Not Just Simply Writing Your Content, But We Are Helping <span class="span-box-css"> You To Relive Your Dream
-                     </span>
+                  <h1>As Professional Book Publishers, <span class="span-box-css">  We Will Help You Make Your Dream 
+                     </span>Come True
                   </h1>
-                  <p>Experienced writers are handling your project to generate the maximum possible results.</p>
+                  <p>Let our book publishing professionals take over the process of your manuscript publishing while you take a seat back and relax.</p>
                   <div class="banner-btn">
                      <div class="getint">
-                        <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                        <a href="javascript:void(0);" class="custom-btn btn-9 btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal">Start Today <i class="fa fa-angle-right"></i></a>
                      </div>
                      <div class="number-btn">
                         <a href="tel:+1-737-881-7227">
@@ -47,11 +47,11 @@
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
                   <h6>About Us</h6>
-                  <h2>Who We Are</h2>
-                  <p>We are a creative bunch of aspiring adults who are making things happen for people with kickass ideas and amazing stories to tell. We write books on behalf of those individuals, giving them a voice in an increasingly busy world where one's individuality can be lost within seconds if not premiered properly-and then there is always our passion. More than a decade-long collective experience has enabled us to specialize globally in writing services offered worldwide.</p>
+                  <h2>Who are we?</h2>
+                  <p>BestBookPublishers is a heaven for authors, dreamers, and storytellers. We're a passionate team dedicated to empowering writers on their literary journey. With a fusion of creativity and expertise, we offer comprehensive ebook writing, editing, and publishing services. Our mission is to nurture your ideas, shaping them into captivating narratives that resonate with readers worldwide. From the inception of a concept to the final step of publication, our team stands as your guiding companion, providing personalized support and a wealth of industry knowledge.<br><br>Your digital story is our canvas, and we're committed to harnessing the potential of ebooks, turning your vision into an immersive, page-turning reality. Our commitment is to transform your concepts into immersive, compelling stories that thrive in the dynamic digital landscape. From concept development to the final touch of publication, our expertise in ebook writing, editing, and publication ensures that your words leap off the screen and into the hearts of readers. We're dedicated to guiding authors through the ever-evolving world of digital storytelling, harnessing technology and creativity to create ebooks that not only engage but leave a lasting impression.</p>
                   <div class="about-btn-inner">
                      <div class="getint">
-                        <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                        <a href="javascript:void(0);" class="custom-btn btn-9 btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal">Start Today <i class="fa fa-angle-right"></i></a>
                      </div>
                      <div class="number-btn-about">
                         <a href="tel:+1-737-881-7227">
@@ -85,11 +85,11 @@
                <div class="little-intro-content">
                   <img src="images/pen-about.png" class="abt-pen" alt="">
                   <h6>About Projects</h6>
-                  <h2>Your Project At Best Book Writers Is In Safe Hands.</h2>
-                  <p>We at Best Book Writers believe that professionalism, quality, and total customer satisfaction are all core values here at our company. We have a wide range of services that meet the needs or expectations of clients. The project length does not matter, and no matter how big your project may be will get done right by us with plenty of time invested into making sure it's completed well within budget too.</p>
+                  <h2>Transforming your Manuscript</h2>
+                  <p>Our mission is to transform your creative sparks into immersive digital narratives that captivate audiences across screens and devices. From concept to completion, our expertise in ebook writing, editing, and publishing ensures your words resonate in the digital landscape. With a blend of innovation and craftsmanship, we're here to navigate the nuances of ebook creation, guiding authors to unleash their stories in formats that speak to the modern reader.</p>
                   <div class="about-btn-inner">
                      <div class="getint">
-                        <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                        <a href="services" class="custom-btn btn-9 btn btn-primary" >Learn More<i class="fa fa-angle-right"></i></a>
                      </div>
                      <div class="number-btn-about">
                         <a href="tel:+1-737-881-7227">
@@ -181,7 +181,7 @@
          </div>
          <div class="about-btn-team">
             <div class="getint">
-               <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+               <a href="javascript:void(0);" class="custom-btn btn-9 btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal">Get Started Today <i class="fa fa-angle-right"></i></a>
             </div>
             <div class="number-btn-team">
                <a href="tel:+1-737-881-7227">
@@ -204,148 +204,148 @@
          <div class="row">
             <div class="col-md-12">
                <div class="ourclients-head">
-                  <h1>Our Satisfied <span class="span-box-css">Clients</span></h1>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque saepe facere consequuntur commodi obcaecati eius dolorem aperiam corrupti modi, nesciunt tempora, praesentium dolor eveniet libero? Totam quam maxime alias. Corporis!</p>
+                  <h1>Client's Satisfaction<span class="span-box-css"> is our priority</span></h1>
+                  <p>In order to establish ourselves as a reputable book publishing company, we make sure to cater our clients till they are 100% satisfied. Their satisfaction is our priority.</p>
                </div>
                <div class="caro">
                   <div class="caro-item">
                      <div class="caro-box">
-                        <div class="title">Paris</div>
+                        <!--<div class="title">Paris</div>-->
                         <div class="num">01</div>
-                        <img src="images/books/book-covers-01.jpg" />
+                        <img src="images/books/book-covers-01.webp" />
                      </div>
                   </div>
                   <div class="caro-item">
                      <div class="caro-box">
-                        <div class="title">Warsaw</div>
+                        <!--<div class="title">Warsaw</div>-->
                         <div class="num">02</div>
-                        <img src="images/books/book-covers-02.jpg" />
+                        <img src="images/books/book-covers-02.webp" />
                      </div>
                   </div>
                   <div class="caro-item">
                      <div class="caro-box">
-                        <div class="title">Madrid</div>
+                        <!--<div class="title">Madrid</div>-->
                         <div class="num">03</div>
-                        <img src="images/books/book-covers-03.jpg" />
+                        <img src="images/books/book-covers-03.webp" />
                      </div>
                   </div>
                   <div class="caro-item">
                      <div class="caro-box">
-                        <div class="title">Sydney</div>
+                        <!--<div class="title">Sydney</div>-->
                         <div class="num">04</div>
-                        <img src="images/books/book-covers-04.jpg" />
+                        <img src="images/books/book-covers-04.webp" />
                      </div>
                   </div>
                   <div class="caro-item">
                      <div class="caro-box">
-                        <div class="title">Istanbul</div>
+                        <!--<div class="title">Istanbul</div>-->
                         <div class="num">05</div>
-                        <img src="images/books/book-covers-05.jpg" />
+                        <img src="images/books/book-covers-05.webp" />
                      </div>
                   </div>
                   <div class="caro-item">
                      <div class="caro-box">
-                        <div class="title">Prague</div>
+                        <!--<div class="title">Prague</div>-->
                         <div class="num">06</div>
-                        <img src="images/books/book-covers-06.jpg" />
+                        <img src="images/books/book-covers-06.webp" />
                      </div>
                   </div>
                   <div class="caro-item">
                      <div class="caro-box">
-                        <div class="title">Munich</div>
+                        <!--<div class="title">Munich</div>-->
                         <div class="num">07</div>
-                        <img src="images/books/book-covers-07.jpg" />
+                        <img src="images/books/book-covers-07.webp" />
                      </div>
                   </div>
                   <div class="caro-item">
                      <div class="caro-box">
-                        <div class="title">Venice</div>
+                        <!--<div class="title">Venice</div>-->
                         <div class="num">08</div>
-                        <img src="images/books/book-covers-08.jpg" />
+                        <img src="images/books/book-covers-08.webp" />
                      </div>
                   </div>
                   <div class="caro-item">
                      <div class="caro-box">
-                        <div class="title">Oslo</div>
+                        <!--<div class="title">Oslo</div>-->
                         <div class="num">09</div>
-                        <img src="images/books/book-covers-09.jpg" />
+                        <img src="images/books/book-covers-09.webp" />
                      </div>
                   </div>
                   <div class="caro-item">
                      <div class="caro-box">
-                        <div class="title">London</div>
+                        <!--<div class="title">London</div>-->
                         <div class="num">10</div>
-                        <img src="images/books/book-covers-10.jpg" />
+                        <img src="images/books/book-covers-10.webp" />
                      </div>
                   </div>
                   <div class="caro-item">
                      <div class="caro-box">
-                        <div class="title">London</div>
-                        <div class="num">10</div>
-                        <img src="images/books/book-covers-11.jpg" />
+                        <!--<div class="title">London</div>-->
+                        <div class="num">11</div>
+                        <img src="images/books/book-covers-11.webp" />
                      </div>
                   </div>
                   <div class="caro-item">
                      <div class="caro-box">
-                        <div class="title">London</div>
-                        <div class="num">10</div>
-                        <img src="images/books/book-covers-12.jpg" />
+                        <!--<div class="title">London</div>-->
+                        <div class="num">12</div>
+                        <img src="images/books/book-covers-12.webp" />
                      </div>
                   </div>
                   <div class="caro-item">
                      <div class="caro-box">
-                        <div class="title">London</div>
-                        <div class="num">10</div>
-                        <img src="images/books/book-covers-13.jpg" />
+                        <!--<div class="title">London</div>-->
+                        <div class="num">13</div>
+                        <img src="images/books/book-covers-13.webp" />
                      </div>
                   </div>
                   <div class="caro-item">
                      <div class="caro-box">
-                        <div class="title">London</div>
-                        <div class="num">10</div>
-                        <img src="images/books/book-covers-14.jpg" />
+                        <!--<div class="title">London</div>-->
+                        <div class="num">14</div>
+                        <img src="images/books/book-covers-14.webp" />
                      </div>
                   </div>
                   <div class="caro-item">
                      <div class="caro-box">
-                        <div class="title">London</div>
-                        <div class="num">10</div>
-                        <img src="images/books/book-covers-15.jpg" />
+                        <!--<div class="title">London</div>-->
+                        <div class="num">15</div>
+                        <img src="images/books/book-covers-15.webp" />
                      </div>
                   </div>
                   <div class="caro-item">
                      <div class="caro-box">
-                        <div class="title">London</div>
-                        <div class="num">10</div>
-                        <img src="images/books/book-covers-16.jpg" />
+                        <!--<div class="title">London</div>-->
+                        <div class="num">16</div>
+                        <img src="images/books/book-covers-16.webp" />
                      </div>
                   </div>
                   <div class="caro-item">
                      <div class="caro-box">
-                        <div class="title">London</div>
-                        <div class="num">10</div>
-                        <img src="images/books/book-covers-17.jpg" />
+                        <!--<div class="title">London</div>-->
+                        <div class="num">17</div>
+                        <img src="images/books/book-covers-17.webp" />
                      </div>
                   </div>
                   <div class="caro-item">
                      <div class="caro-box">
-                        <div class="title">London</div>
-                        <div class="num">10</div>
-                        <img src="images/books/book-covers-18.jpg" />
+                        <!--<div class="title">London</div>-->
+                        <div class="num">18</div>
+                        <img src="images/books/book-covers-18.webp" />
                      </div>
                   </div>
                   <div class="caro-item">
                      <div class="caro-box">
-                        <div class="title">London</div>
-                        <div class="num">10</div>
-                        <img src="images/books/book-covers-19.jpg" />
+                        <!--<div class="title">London</div>-->
+                        <div class="num">19</div>
+                        <img src="images/books/book-covers-19.webp" />
                      </div>
                   </div>
                   <div class="caro-item">
                      <div class="caro-box">
-                        <div class="title">London</div>
-                        <div class="num">10</div>
-                        <img src="images/books/book-covers-20.jpg" />
+                        <!--<div class="title">London</div>-->
+                        <div class="num">20</div>
+                        <img src="images/books/book-covers-20.webp" />
                      </div>
                   </div>
                </div>

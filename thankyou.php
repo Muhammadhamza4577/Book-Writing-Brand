@@ -131,7 +131,7 @@
                 <h1>Thank you !</h1>
                 <!--<p>Thanks for subscribing to our news letter. </p>-->
                 <!--<p class="recvie">you should receive a confirmation email soon </p>-->
-                <a class="go-home" href="https://amzmarketingpro.com/">
+                <a class="go-home" href="https://bestbookpublisher.com/">
                     go home
                 </a>
             </div>

@@ -3,7 +3,7 @@
         <div class="row upper-footer">
             <div class="col-md-3">
                 <div class="footer-logo">
-                    <a href="../index">
+                    <a href="https://bestbookpublisher.com/">
                         <img src="../images/footer-logo.png" alt="">
                     </a>
                 </div>
@@ -140,7 +140,51 @@
     </div>
 
 </section>
-
+<section>
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="myModalLabel">Get The 50% Extra Off On All Services</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">x</button>
+            </div>
+            <div class="modal-body">
+               <form>
+                    <div class="mb-3">
+                        <input type="text" class="form-control" id="name" placeholder="Enter Your Full Name">
+                    </div>
+                    <div class="mb-3">
+                        <input type="email" class="form-control" id="email" placeholder="Enter Your Email Address">
+                    </div>
+                    <div class="mb-3">
+                        <input type="tel" class="form-control" id="number" placeholder="Enter Phone Number">
+                    </div>
+                    <div class="mb-3">
+                    <select name="services" id="services" required="required">
+                           <option value="select-your-service" disabled selected>Select your Service</option>
+                           <option value="ghostwriting-services">Ghostwriting Services</option>
+                           <option value="book-editing-services">Book Editing Services</option>
+                           <option value="book-cover-design-services">Book Cover Design Services</option>
+                           <option value="ebook-cover-design-services">Ebook Cover Design Services</option>
+                           <option value="book-publishing-services">Book Publishing Services</option>
+                           <option value="book-marketing-services">Book Marketing Services</option>
+                           <option value="ebook-writing-services">Ebook Writing Services</option>
+                           <option value="biography-writing-services">Biography Writing Services</option>
+                           <option value="memoir-writing-services">Memoir Writing Services</option>
+                           <option value="book-printing-services">Book Printing Services</option>
+                           <option value="video-book-services">Video Book Services</option>
+                           <option value="audio-book-services">Audio Book Services</option>
+                           <option value="author-website-services">Author Website Services</option>
+                           <option value="book-illustration-services">Book Illustration Services</option>
+                        </select>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
 <script src="../js/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 <script src="../js/owl.carousel.min.js"></script>

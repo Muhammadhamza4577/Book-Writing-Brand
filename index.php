@@ -1,118 +1,9 @@
 <?php include('include/head.php');?>
 <?php include('include/header.php');?>
 <main>
-<section class="main-home-banner">
-   <?php include('include/home-banner.php');?>
-</section>
-   <!-- <section class="banner myHomepage">
-      <div class="container">
-          <div class="row justify-content-center ">
-              <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 banner-size">
-                  <div class="banner-content">
-                      <div class="home-banner">
-                      <div class="row">
-                          <div class="col-md-12">
-                              <div class="sub-head ">
-                                  <div class="sub-head-img">
-                                      <img src="images/pen.png" alt="">
-                                  </div>
-                                  <div class="sub-head-title ">
-                                      <h1>Write Your Story</h1>
-                                  </div>
-                              </div>
-                              <div class="banner-content2">
-                                  <div class="banner-head">
-                                       <h1>Creating And Shaping Ideas Into <span> Bestsellers Through Book</span> Writing Services</h1>
-                                      <p>Do you have an inspiring story to share? You can inspire the world and influence others through our bestselling authors and proactive book writing services.</p>
-                                  </div>
-                              </div>
-                              <div class="banner-btn">
-                                  <div class="getint">
-                                      <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
-                                  </div>
-                                   <div class="number-btn">
-                                      <a href="tel:+1-737-881-7227">
-                                          <div class="banner-phone">
-                                          	<div class="icon_phone">
-                                          	<i class="fa fa-phone" aria-hidden="true"></i>
-                                          	</div>
-                                          	<div class="banner-head_phone">
-                                          		<h5>.Live Chat</h5>
-                                          		<h4>+1-737-881-7227</h4>
-                                          	</div>
-                                          </div>
-                                      </a>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                      <div class="highly-recomended-by">
-                              <div class="high-recommend">
-                                  <div class="recommend-head">
-                                      <h5>Highly Recommended By:</h5>
-                                      <div class="stars">
-                                          <i class="fa fa-star" aria-hidden="true"></i>
-                                          <i class="fa fa-star" aria-hidden="true"></i>
-                                          <i class="fa fa-star" aria-hidden="true"></i>
-                                          <i class="fa fa-star" aria-hidden="true"></i>
-                                          <i class="fa fa-star" aria-hidden="true"></i>
-                                      </div>
-                                  </div>
-                              <div class="recommend-img">
-                                  <img src="images/arrow.png" alt="">
-                              </div>
-                          </div>
-                          <div class="banner-inner-img">
-                              <img src="images/banner-inner-img.png" alt="">
-                          </div>
-                          <div class="img">
-                              <ul class="client-logo-slider">
-                                  <li>
-                                      <img src="images/good-firms-logo.png" alt="" class="img-fluid">
-                                  </li>
-                                  <li>
-                                      <img src="images/clutch-logo.png" alt="" class="img-fluid">
-                                  </li>
-                                  <li>
-                                      <img src="images/Amazon-Kindle-logo.png" alt="" class="img-fluid">
-                                  </li>
-                                  <li>
-                                      <a href="https://www.trustpilot.com/review/bestbookwriters.com" target="_blank"><img src="images/Trustpilot-logo.png" alt="" class="img-fluid"></a>
-                                  </li>
-                                  <li>
-                                      <img src="images/good-reads.png" alt="" class="img-fluid">
-                                  </li>
-                                  <li>
-                                      <img src="images/banner-brands-logo-5.png" alt="" class="img-fluid">
-                                  </li>
-                              </ul>
-                          </div>
-                      </div>
-                      </div>
-                  </div>
-                  </div>
-                  <div class="inner-about">
-          <div class="row justify-content-center">
-              <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 about-size">
-                  <div class="banner-content">
-                      <div class="row">
-                          <div class="col-md-12">
-                              <div class="about-content">
-                                  <div class="about-head">
-                                      <h1>People From Diverse Backgrounds Trust<span class="brands-color"> Best Book Writers</span> Because Of Our Beautifully Tailored, Error-Free, And Original Book Writing Services.</h1>
-                                      <p>Think you have a great story to tell? We can write and publish it <br><br> Are you struggling to brainstorm ideas and place them in a meaningful format? Not sure about how to convey your creative story dwindling in your mind? We can answer these questions as we have been in the book writing services for over a decade. We offer professional book writing services that are backed by extensive research, and it is customized according to your needs. The sheer professionalism of our book writing service is evident from our exquisitely drafted, published books, along with extensive consultation offered by our professional book writers.</p>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                      </div>
-                  </div>
-      
-      
-              </div>
-          </div>
-          </div>
-      </section> -->
+   <section class="main-home-banner">
+      <?php include('include/home-banner.php');?>
+   </section>
    <section class="about-organized">
       <div class="container">
          <div class="row">
@@ -127,13 +18,13 @@
                </div>
                <div class="about-org-content">
                   <div class="about-org-head">
-                     <h1>Brands, Organizations, Celebrities, <span class="brands-color">and Individuals All Trust Our </span> Quality, Professional Writing Services. </h1>
-                     <p>Over the years, best book writers has established itself as one of the renowned names in the book writing services company in USA. We follow a massive and diverse portfolio of clients from different parts of the world. We not only provide basic writing services, but our book writing service enables them to become renowned authors within a short span of time. We can manage all your writing concerns, and you can easily vouch for us. Whether you are planning to inspire others through your life-changing story or you want us to work on a fictional genre, we have all the bases covered when it comes to affordable book writing services.</p>
+                     <h1>Cost-effective Solutions <span class="brands-color">to your Book Writing </span> Problems!</h1>
+                     <p>Searching for affordable book writing services company in USA? Look no further – our company is your dedicated solution. Our team of expert book writers for hire is committed to delivering high-quality content while ensuring it remains cost-effective for you. We understand that bringing your literary dreams to life shouldn't break the bank, and that's why we offer professional yet affordable book writing services that are not only exceptional but also budget-friendly.<br>Whether you're an aspiring author with a captivating story or a business professional aiming to share your expertise, our professional book writing company is your reliable partner. Contact us today and discover how affordable excellence from expert book writers can be when it comes to your book-writing needs.</p>
                   </div>
                </div>
                <div class="about-btn-inner">
                   <div class="getint">
-                     <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                     <a href="javascript:void(0);" class="custom-btn btn-9 btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal">Get Started Today <i class="fa fa-angle-right"></i></a>
                   </div>
                   <div class="number-btn-about">
                      <a href="tel:+1-737-881-7227">
@@ -168,7 +59,7 @@
             <div class="col-md-6">
                <div class="about-us-img">
                   <img src="images/about-book-bg.png" alt="">
-                  <img class="about-book" src="images/about-book.png" alt="">
+                  <img class="about-book" src="images/about-book.webp" alt="">
                </div>
             </div>
             <div class="col-md-6">
@@ -182,28 +73,38 @@
                </div>
                <div class="banner-content2">
                   <div class="desc-about-head">
-                     <h1>The <span class="brands-color">Best Book</span> Writing Service With Unmatched Quality </h1>
-                     <p>Best Book Writers, being an expert book writers, takes pride in completing thousands of book-writing projects. We are known for our work, and we have helped numerous individuals, organizations, artists, and famous personalities around the globe. At Best Book Writers, we offer various writers for our clients, and they can select them based on their preferred genres.
-                        Do you want to know what makes us different from the conventional book writing industry and how our services differ from other providers? The following skills and attributes depict how our professional book writing services are different from other book writing company.
-                     </p>
+                     <h1>Looking for Professional <span class="brands-color"> Book Writing Services </span> Nearby? Look No More! </h1>
+                     <p>At BestBookPublishers, we pride ourselves on delivering professional book writing services guided by a meticulous process, all thanks to our team of expert book writers. </p>
                   </div>
                </div>
                <div class="checklist-box">
-                  <div class="check-list-about">
+                  <div class="check-list-about full-content">
                      <div class="check-list">
                         <img src="images/check-ico.svg" alt="">
-                        <p>Thorough research before producing the content</p>
+                        <p><strong>Consultation:</strong> Discussing your vision, goals, and preferences, whether for aspiring authors or business professionals</p>
                      </div>
                      <div class="check-list">
                         <img src="images/check-ico.svg" alt="">
-                        <p> The originality of the content with the core emphasis on quality</p>
+                        <p><strong>Research:</strong> Our expert book writers conduct thorough research to gather insights and ideas that will enrich your manuscript.</p>
                      </div>
                      <div class="check-list">
                         <img src="images/check-ico.svg" alt="">
-                        <p>Creating an initial outline along with the project scope</p>
+                        <p><strong>Planning:</strong> We create a comprehensive plan, including the book's structure and outline when you receive our affordable book writing services.</p>
+                     </div>
+                     <div class="check-list">
+                        <img src="images/check-ico.svg" alt="">
+                        <p><strong>Writing:</strong> With your input and our expertise, we begin the writing process. </p>
+                     </div>
+                     <div class="check-list">
+                        <img src="images/check-ico.svg" alt="">
+                        <p><strong>Editing:</strong> Our professional book writing services also include drafting, revising, and refining the manuscript until it meets the highest standards.</p>
+                     </div>
+                     <div class="check-list">
+                        <img src="images/check-ico.svg" alt="">
+                        <p><strong>Proofreading and Quality Assurance:</strong> Every word and phrase is meticulously examined to eliminate errors and ensure the text is polished to perfection. </p>
                      </div>
                   </div>
-                  <div class="check-list-about">
+                  <!-- <div class="check-list-about">
                      <div class="check-list">
                         <img src="images/check-ico.svg" alt="">
                         <p>A detailed discussion with the clients about the content of their book</p>
@@ -216,11 +117,11 @@
                         <img src="images/check-ico.svg" alt="">
                         <p>Producing 100% unique content with revision facilities</p>
                      </div>
-                  </div>
+                  </div> -->
                </div>
                <div class="about-btn-inner">
                   <div class="getint">
-                     <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                     <a href="javascript:void(0);" class="custom-btn btn-9 btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal">Get Started Today <i class="fa fa-angle-right"></i></a>
                   </div>
                   <div class="number-btn-about">
                      <a href="tel:+1-737-881-7227">
@@ -245,7 +146,7 @@
          <div class="row">
             <div class="col-md-12">
                <div class="service-heading">
-                  <h1>Book Writing Services at <span class="service-head"> Best Book Writers </span></h1>
+                  <h1>Services Rendered by <span class="service-head"> BestBookPublishers </span></h1>
                </div>
                <div class="service-upper-box sliderserv" >
                   <div class="col-sm-3">
@@ -260,16 +161,16 @@
                            <div class="empty-box"></div>
                         </div>
                         <div class="service-head">
-                           <h1>Ghostwriting Services</h1>
+                           <h1>Ebook Writing</h1>
                         </div>
                         <div class="service-divider">
                            <div class="divider"></div>
                         </div>
                         <div class="service-desc">
-                           <p>We make sure the best writers complete your book within a stipulated timeframe. You can vouch for our ghostwriting services and attain affordable book writing services.</p>
+                           <p>At Best Book Publisher, we render exceptional writing services to our clients. No matter what the genre, our writing team knows it how to satisfy you.</p>
                         </div>
                         <div class="service-btn">
-                           <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
+                           <a href="professional-ghostwriting-services">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
                         </div>
                      </div>
                   </div>
@@ -285,16 +186,16 @@
                            <div class="empty-box"></div>
                         </div>
                         <div class="service-head">
-                           <h1>Book writing & proofreading </h1>
+                           <h1>Ebook Editing </h1>
                         </div>
                         <div class="service-divider">
                            <div class="divider"></div>
                         </div>
                         <div class="service-desc">
-                           <p>It is imperative to have a master editor and a proofreader that will edit your masterpiece. We have got you covered when it comes to viable editing and proofreading services. We provide professional book writing with proofreading at affordable book writing services. </p>
+                           <p>Apart from having incredibly talented book writers, we also have an exceptional editorial board that looks into your already written manuscript and fix all the errors, making it publish-ready.</p>
                         </div>
                         <div class="service-btn">
-                           <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
+                           <a href="ebook-writing-services">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
                         </div>
                      </div>
                   </div>
@@ -310,16 +211,16 @@
                            <div class="empty-box"></div>
                         </div>
                         <div class="service-head">
-                           <h1>Book Cover design</h1>
+                           <h1>Ebook Proofreading</h1>
                         </div>
                         <div class="service-divider">
                            <div class="divider"></div>
                         </div>
                         <div class="service-desc">
-                           <p>Your book cover speaks a lot about the quality of your book. An aesthetically designed book cover not only attracts readers but also entices the general audience to opt for your book. </p>
+                           <p>Already have a manuscript ready? Want a professional to quickly skim scan your literary piece and eliminate all the existing errors? Don't worry, our unparalleled proofreading team will do the job for you.</p>
                         </div>
                         <div class="service-btn">
-                           <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
+                           <a href="book-cover-design-services">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
                         </div>
                      </div>
                   </div>
@@ -335,16 +236,16 @@
                            <div class="empty-box"></div>
                         </div>
                         <div class="service-head">
-                           <h1>Book Publishing</h1>
+                           <h1>Ebook Formatting</h1>
                         </div>
                         <div class="service-divider">
                            <div class="divider"></div>
                         </div>
                         <div class="service-desc">
-                           <p>We care for our customers, and we have partnered with different top-notch publishers. We can make sure that you can publish your book and enhance your ROI proactively. </p>
+                           <p>A book without proper formatting is like trying to make sense out of a jungle of words. Don't worry for Best Book Publisher have exceptional book formatters who are familiar with every book publishing format. </p>
                         </div>
                         <div class="service-btn">
-                           <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
+                           <a href="book-publishing-services">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
                         </div>
                      </div>
                   </div>
@@ -366,10 +267,10 @@
                            <div class="divider"></div>
                         </div>
                         <div class="service-desc">
-                           <p>Marketing is the basic parameter of success, and an effective book marketing campaign drives sales. We rely on our marketing team to generate out-of-the-box marketing solutions and provide smart marketing solutions. </p>
+                           <p>Marketing is a fundamental key to success, and a successful book marketing campaign boosts sales. Our marketing team crafts innovative solutions to drive effective campaigns and deliver smart strategies</p>
                         </div>
                         <div class="service-btn">
-                           <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
+                           <a href="book-marketing-services">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
                         </div>
                      </div>
                   </div>
@@ -391,10 +292,10 @@
                            <div class="divider"></div>
                         </div>
                         <div class="service-desc">
-                           <p>You can share your life's journey and some success stories with us. We are professional book writing company that can transform them and create an autobiographical book. </p>
+                           <p>Share your life's journey and success stories with us. As a professional book writing company, we can transform them into a captivating autobiographical book. </p>
                         </div>
                         <div class="service-btn">
-                           <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
+                           <a href="biography-writing-services">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
                         </div>
                      </div>
                   </div>
@@ -410,16 +311,16 @@
                            <div class="empty-box"></div>
                         </div>
                         <div class="service-head">
-                           <h1>EBook writing</h1>
+                           <h1>Ghostwriting Services</h1>
                         </div>
                         <div class="service-divider">
                            <div class="divider"></div>
                         </div>
                         <div class="service-desc">
-                           <p>We focus on different niches and genres to provide quality content to our esteemed customers. At Best Book Writers, we have got all the bases covered because our professional book writers can work on any available genre. </p>
+                           <p>Elevate your narrative with our Ghostwriting Services. Whether it's a personal story or business content, our skilled ghostwriters bring your ideas to life. From memoirs to business books, we expertly craft your vision into a captivating masterpiece </p>
                         </div>
                         <div class="service-btn">
-                           <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
+                           <a href="ebook-writing-services">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
                         </div>
                      </div>
                   </div>
@@ -441,10 +342,10 @@
                            <div class="divider"></div>
                         </div>
                         <div class="service-desc">
-                           <p>Instructional, historical, commentary based writing on specific topics. </p>
+                           <p>Crafting specialized content encompassing instructional, historical, and commentary-based writing on specific topics.</p>
                         </div>
                         <div class="service-btn">
-                           <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
+                           <a href="ebook-cover-design-services">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
                         </div>
                      </div>
                   </div>
@@ -466,10 +367,10 @@
                            <div class="divider"></div>
                         </div>
                         <div class="service-desc">
-                           <p>You can avail yourself of compelling story writing through our memoir service that utilizes 1st person POV narration. </p>
+                           <p>Experience captivating storytelling with our memoir service, employing a first-person point of view narration</p>
                         </div>
                         <div class="service-btn">
-                           <a href="#">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
+                           <a href="memoir-writing-services">Learn More<i class="fa fa-plus" aria-hidden="true"></i></a>
                         </div>
                      </div>
                   </div>
@@ -507,13 +408,13 @@
                </div>
                <div class="chooseus-content">
                   <div class="choose-us-head">
-                     <h1>Why Should You Opt For Our <span class="brands-color">Professional Book Writing </span> Company? </h1>
-                     <p>We believe in professionals that rely on their versatility and wide range of experience in different academic disciplines, including arts, business, technology, advertising, communications, social sciences, and engineering. Our writers focus on strategy building, brainstorming ideology, consultation, and proactive communication with the clients to develop a fine-tuned product. Different people feel confused about this notion because they want to write a book, but they do not have the necessary skills or resources to complete this notion. We at Best Book Writers rely on the originality of content with pin-point accuracy that generates viable results. Our organization relies on experienced writers, and our writing department includes full time writers, managers, proofreaders, and a dedicated quality assurance team.</p>
+                     <h1>Why Select Our <span class="brands-color"> Expert Book Writing </span> Services? </h1>
+                     <p>We believe in professionals who leverage their versatility and extensive experience across various academic disciplines, such as arts, business, technology, advertising, communications, social sciences, and engineering. Our writers specialize in strategic planning, ideation, consulting, and proactive communication with clients to deliver a finely crafted product. Many individuals feel perplexed by the idea of writing a book due to a lack of skills or resources. At Best Book Puhblisher, we prioritize original content with precision to yield tangible results. Our organization is powered by experienced writers, featuring a dedicated team of full-time writers, managers, proofreaders, and quality assurance experts.</p>
                   </div>
                </div>
                <div class="about-btn-inner">
                   <div class="getint">
-                     <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                     <a href="javascript:void(0);" class="custom-btn btn-9 btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal">Get Started Today <i class="fa fa-angle-right"></i></a>
                   </div>
                   <div class="number-btn-about">
                      <a href="tel:+1-737-881-7227">
@@ -546,11 +447,11 @@
             <div class="col-sm-9">
                <div class="tab-content-box">
                   <div class="tabs-cont-head">
-                     <h1>Our Recipe For Success Relies On Creativity Passion and Strategic Implementation</h1>
+                     <h1>Our Success Formula Involves Creativity, Passion, and Strategic Execution</h1>
                   </div>
                   <div class="test-btn-inner">
                      <div class="test-btn">
-                        <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                        <a href="javascript:void(0);" class="custom-btn btn-9 btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal">Get Started Today <i class="fa fa-angle-right"></i></a>
                      </div>
                      <div class="number-btn-test">
                         <a href="tel:+1-737-881-7227">
@@ -610,60 +511,60 @@
                         <div class="tab-pane fade show active" id="pills-story-7" role="tabpanel" aria-labelledby="pills-story-7-tab">
                            <div class="row text-start">
                               <div class="col-md-4 col-sm-12">
-                                 <h3><b> Extensive research and interviews</b></h3>
+                                 <h3><b>Creative Vision and Tactical Execution</b></h3>
                               </div>
                               <div class="col-md-8 col-sm-12">
-                                 <p>Our writers are well-versed in different research-based scenarios, and we conduct thorough research when it comes to book writing services. We provide a customized questionnaire for our clients, and our salesperson also asks relevant questions just to make sure that we are able to understand the instructions of the client. The input from your end helps us to set the tone and voice of the book. </p>
+                                 <p>We have a board of well-versed writers who conduct thorough reasearch when it comes to book writing services. In order to understand the requirements of the client properly, we ask several questions, then add our creative vision and execute it tactically.</p>
                               </div>
                            </div>
                         </div>
                         <div class="tab-pane fade" id="pills-story-8" role="tabpanel" aria-labelledby="pills-story-8-tab">
                            <div class="row text-start">
                               <div class="col-md-4 col-sm-12">
-                                 <h3><b>Planning and outline </b></h3>
+                                 <h3><b>Strategic Planning and Blueprinting: </b></h3>
                               </div>
                               <div class="col-md-8 col-sm-12">
-                                 <p>We believe that the outline of the book is important, and this is the basic stage of writing a book. We work on the core points of every chapter and send you a customized questionnaire for every chapter just to make sure that the writing department and the client are on the same page. The basic points of every chapter are provided just to make sure that every chapter is aligned with the client's brief. </p>
+                                 <p>Recognizing the pivotal role of a well-crafted book outline, we consider it the fundamental stage in the book-writing process. We meticulously address the core points of each chapter, ensuring alignment with the client's brief through personalized questionnaires.</p>
                               </div>
                            </div>
                         </div>
                         <div class="tab-pane fade" id="pills-story-9" role="tabpanel" aria-labelledby="pills-story-9-tab">
                            <div class="row text-start">
                               <div class="col-md-4 col-sm-12">
-                                 <h3><b>Dedicated consultation </b></h3>
+                                 <h3><b>Dedicated Consultation Support:</b></h3>
                               </div>
                               <div class="col-md-8 col-sm-12">
-                                 <p>Our customer support team is available 24/7 just to make sure that they can clarify your confusion and concerns regarding your order. This support is offered to make sure that both of us are on the same page and do not deviate from the right direction.</p>
+                                 <p>Our customer support team is available round-the-clock to clarify any confusion or concerns you may have regarding your order. </p>
                               </div>
                            </div>
                         </div>
                         <div class="tab-pane fade" id="pills-story-10" role="tabpanel" aria-labelledby="pills-story-10-tab">
                            <div class="row text-start">
                               <div class="col-md-4 col-sm-12">
-                                 <h3><b>Revisions </b></h3>
+                                 <h3><b>Iterative Revisions: </b></h3>
                               </div>
                               <div class="col-md-8 col-sm-12">
-                                 <p>The ideology of revisions is to make sure that quality content is created, and if you do not like a sentence, paragraph, or chapter from the manuscript, we can delete or change that. We at Best Book Writers offer unlimited revisions to make sure that our clients receive quality content. </p>
+                                 <p>The philosophy behind our revision process is to guarantee the creation of high-quality content. We offer unlimited revisions to ensure our clients receive content of the highest standard.</p>
                               </div>
                            </div>
                         </div>
                         <div class="tab-pane fade" id="pills-story-11" role="tabpanel" aria-labelledby="pills-story-11-tab">
                            <div class="row text-start">
                               <div class="col-md-4 col-sm-12">
-                                 <h3><b>Editing and formatting </b></h3>
+                                 <h3><b>Precision Editing and Formatting: </b></h3>
                               </div>
                               <div class="col-md-8 col-sm-12">
-                                 <p>We at Best Book Writers understand the fact that quality is the major concern of our clients, and our team of experts indulges in extensive editing and proofreading process to fine-tune the product. Our experts ensure that they are no grammatical errors or poor sentence structure in our book content. </p>
+                                 <p>Acknowledging the paramount importance of quality, our expert team engages in an extensive editing and proofreading process to refine the product. </p>
                               </div>
                            </div>
                         </div>
                         <div class="tab-pane fade" id="pills-story-6" role="tabpanel" aria-labelledby="pills-story-6-tab">
                            <div class="row text-start">
                               <div class="col-md-4 col-sm-12">
-                                 <h3><b>Book Cover Designing </b></h3>
+                                 <h3><b>Striking Book Cover Design:</b></h3>
                               </div>
                               <div class="col-md-8 col-sm-12">
-                                 <p>An exotic book cover design entices people towards the book, and our book designers make sure that they produce aesthetically sound book covers that are aligned with the theme of the book. The core objective is to attract more and more visitors online to read and buy the book. </p>
+                                 <p>Our book designers meticulously craft aesthetically pleasing covers aligned with the book's theme, with the core objective of attracting a growing online audience to explore and purchase the book.</p>
                               </div>
                            </div>
                         </div>
@@ -673,7 +574,7 @@
             </div>
             <div class="col-sm-3">
                <div class="tab-book-img">
-                  <img src="images/tab-sec-book.png" alt="">
+                  <img src="images/tab-sec-book.webp" alt="">
                </div>
             </div>
          </div>
@@ -692,30 +593,30 @@
                            <h1>01</h1>
                         </div>
                         <div class="process-name">
-                           <h1>Book Writing</h1>
+                           <h1>Writing</h1>
                            <span class="process-divider">
                               <div class="dividers-process"></div>
                            </span>
                         </div>
                         <div class="process-desc">
-                           <p>Once we are done with the outline and the scope of your project..</p>
+                           <p>Our team crafts your story from scratch, capturing your ideas and vision to create a compelling manuscript.</p>
                         </div>
-                        <div class="process-btn-txt">Read More<span class="process-btn-txthover">Once we are done with the outline and the scope of your project, our writers will subsequently proceed with the actual book-writing process. The process flow remains simple, and we follow the chapter-wise submission ideology. We will submit a quick draft of chapter 1 based on your outline and our project scope, and we will wait for your approval. This step ensures quality in the process, and do not rush to other chapters before fine-tuning the previous submission. We will continue the writing process of the 2nd chapter once you have approved the 1st chapter.</span></div>
+                        <!-- <div class="process-btn-txt">Read More<span class="process-btn-txthover">Once we are done with the outline and the scope of your project, our writers will subsequently proceed with the actual book-writing process. The process flow remains simple, and we follow the chapter-wise submission ideology. We will submit a quick draft of chapter 1 based on your outline and our project scope, and we will wait for your approval. This step ensures quality in the process, and do not rush to other chapters before fine-tuning the previous submission. We will continue the writing process of the 2nd chapter once you have approved the 1st chapter.</span></div> -->
                      </div>
                      <div class="process-box">
                         <div class="process-number">
                            <h1>02</h1>
                         </div>
                         <div class="process-name">
-                           <h1>Editing And Proofreading</h1>
+                           <h1>Editing</h1>
                            <span class="process-divider">
                               <div class="dividers-process"></div>
                            </span>
                         </div>
                         <div class="process-desc">
-                           <p>The assurance of quality remains the key process of book writing, and editing..</p>
+                           <p>We refine and polish your manuscript, ensuring clarity, coherence, and a captivating narrative structure.</p>
                         </div>
-                        <div class="process-btn-txt">Read More<span class="process-btn-txthover">The assurance of quality remains the key process of book writing, and editing, along with proofreading, ensures this perspective. Our experienced editors will proofread the content and edit it to make sure it is relevant and free from all grammatical and punctuation errors. This stage is important to ensure quality because it examines the plot, structure, and overall flow thoroughly. At this stage, we will send you the final manuscript and wait for your suggestions regarding the edit.</span></div>
+                        <!-- <div class="process-btn-txt">Read More<span class="process-btn-txthover">The assurance of quality remains the key process of book writing, and editing, along with proofreading, ensures this perspective. Our experienced editors will proofread the content and edit it to make sure it is relevant and free from all grammatical and punctuation errors. This stage is important to ensure quality because it examines the plot, structure, and overall flow thoroughly. At this stage, we will send you the final manuscript and wait for your suggestions regarding the edit.</span></div> -->
                      </div>
                   </div>
                   <div class="col-sm-6 process-boxes">
@@ -724,30 +625,30 @@
                            <h1>03</h1>
                         </div>
                         <div class="process-name">
-                           <h1>Book Formatting</h1>
+                           <h1>Formatting</h1>
                            <span class="process-divider">
                               <div class="dividers-process"></div>
                            </span>
                         </div>
                         <div class="process-desc">
-                           <p>It is imperative to focus on proper formatting guidelines, and it is an essential..</p>
+                           <p>Our experts meticulously format your book, ensuring it meets professional standards for publication across various platforms.</p>
                         </div>
-                        <div class="process-btn-txt">Read More<span class="process-btn-txthover">It is imperative to focus on proper formatting guidelines, and it is an essential part of our process. This includes following the basic formatting guidelines of font size, margins, tables, heading styles, images, graphs, etc. This is the stage where we include different illustrations based on your instructions, along with an exotic book cover design. Our designers make sure that the book cover design looks visually appealing and follows the aesthetics. Our professional book writing makes sure that we give viable suggestions and maintain correspondence throughout the process to maintain proper quality.</span></div>
+                        <!-- <div class="process-btn-txt">Read More<span class="process-btn-txthover">It is imperative to focus on proper formatting guidelines, and it is an essential part of our process. This includes following the basic formatting guidelines of font size, margins, tables, heading styles, images, graphs, etc. This is the stage where we include different illustrations based on your instructions, along with an exotic book cover design. Our designers make sure that the book cover design looks visually appealing and follows the aesthetics. Our professional book writing makes sure that we give viable suggestions and maintain correspondence throughout the process to maintain proper quality.</span></div> -->
                      </div>
                      <div class="process-box">
                         <div class="process-number">
                            <h1>04</h1>
                         </div>
                         <div class="process-name">
-                           <h1>Book Publishing</h1>
+                           <h1>Publishing </h1>
                            <span class="process-divider">
                               <div class="dividers-process"></div>
                            </span>
                         </div>
                         <div class="process-desc">
-                           <p>We will move into this stage when your book is ready! Once your book is ready..</p>
+                           <p>We guide you through the publishing process, offering support to make your book available to your audience, whether it's in print or digital form.</p>
                         </div>
-                        <div class="process-btn-txt">Read More<span class="process-btn-txthover">We will move into this stage when your book is ready! Once your book is ready, we will make sure that our expert book writers give you some basic options for publishing the book. Our project manager will give you a detailed overview of the publishing services. Our expert marketing team will also provide consultation regarding how we can sell your book and how your book will reach your targeted audience. Our core focus would be on selling your book, and our objective will be targeted towards making you a renowned author.</span></div>
+                        <!-- <div class="process-btn-txt">Read More<span class="process-btn-txthover">We will move into this stage when your book is ready! Once your book is ready, we will make sure that our expert book writers give you some basic options for publishing the book. Our project manager will give you a detailed overview of the publishing services. Our expert marketing team will also provide consultation regarding how we can sell your book and how your book will reach your targeted audience. Our core focus would be on selling your book, and our objective will be targeted towards making you a renowned author.</span></div> -->
                      </div>
                   </div>
                </div>
@@ -763,15 +664,15 @@
                </div>
                <div class="banner-content2">
                   <div class="desc-about-head">
-                     <h1>Our Quality Assurance And <span class="brands-color"> Value-enhancement </span> Process</h1>
-                     <p> We follow a simple 5-step value-driven process that enhances the efficacy of our final product.</p>
-                     <h1>Outline Development,<span class="brands-color"> Report Generation,</span>  And Extensive Research</h1>
-                     <p>Our dedicated project manager will reach out to you once you are done with submitting your project details. This is the infancy stage of your book, and our team will coordinate with you by submitting a detailed questionnaire regarding your project. This will allow you to share the details of the book, plot, genre, protagonist/antagonist, etc. After sorting all the details, we will assign it to our expert book writers, and the selection of the writer is based on their preferred genres. The writer immediately begins the writing process and develops a compelling outline based on your project brief.</p>
+                     <h1>Our Process for <span class="brands-color"> Quality Assurance and Value </span> Enhancement</h1>
+                     <p>Once you've completed the submission of your project details, our dedicated project manager will contact you. This marks the initial phase of your book project, during which our team will collaborate with you by sending a comprehensive questionnaire to gather information about your book, including its plot, genre, main characters, and more. After consolidating all the necessary details, we will assign your project to one of our skilled book writers, chosen based on their preferred genres. The writer will promptly initiate the writing process and craft a compelling outline in accordance with your project brief. After the outline is drafted, it will be sent to you for approval. Once the approval is obtained, we will start with the writing process of your project as per the approved project scope.</p>
+                     <!-- <h1>Outline Development,<span class="brands-color"> Report Generation,</span>  And Extensive Research</h1> -->
+                     <!-- <p>Our dedicated project manager will reach out to you once you are done with submitting your project details. This is the infancy stage of your book, and our team will coordinate with you by submitting a detailed questionnaire regarding your project. This will allow you to share the details of the book, plot, genre, protagonist/antagonist, etc. After sorting all the details, we will assign it to our expert book writers, and the selection of the writer is based on their preferred genres. The writer immediately begins the writing process and develops a compelling outline based on your project brief.</p> -->
                   </div>
                </div>
                <div class="about-btn-inner">
                   <div class="getint">
-                     <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                     <a href="javascript:void(0);" class="custom-btn btn-9 btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal">Get Started Today <i class="fa fa-angle-right"></i></a>
                   </div>
                   <div class="number-btn-about">
                      <a href="tel:+1-737-881-7227">

@@ -2,14 +2,14 @@
     <div class="row">
         <div class="col-sm-6">
             <div class="do-things-head">
-                <h1>We Have A Thing For<br> Doing Things <span> Differently </span></h1>
-                <h3>creativity | passion | strategy</h3>
+                <h1>What Sets Apart our <span> Professional Book Writers  </span>from Others?</h1>
+                <!-- <h3>creativity | passion | strategy</h3> -->
             </div>
         </div>
         <div class="col-sm-6">
         <div class="about-btn-inner">
             <div class="getint">
-               <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+               <a href="javascript:void(0);" class="custom-btn btn-9 btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal">Get Started Today <i class="fa fa-angle-right"></i></a>
             </div>
             <div class="number-btn-about">
                <a href="tel:+1-737-881-7227">
@@ -36,8 +36,8 @@
                         <img class="onhover-img" src="images/doing-icon-hover.png" alt="">
                     </div>
                     <div class="doing-box-content">
-                        <h1>Creativity</h1>
-                        <p>We approach book writing with utmost creativity, allowing free flow of ideas.</p>
+                        <h1>Innovation  </h1>
+                        <p>We embrace book writing with a deep commitment to fostering creativity, allowing ideas to flow freely.</p>
                     </div>
                 </div>
             </div>
@@ -48,8 +48,8 @@
                         <img class="onhover-img" src="images/doing-icon-hover.png" alt="">
                     </div>
                     <div class="doing-box-content">
-                        <h1>Synergy</h1>
-                        <p>Synergizing ideas with a touch of storytelling.</p>
+                        <h1>Coaction</h1>
+                        <p>Our team members blend ideas seamlessly, infusing them with storytelling and narration.</p>
                     </div>
                 </div>
             </div>
@@ -61,7 +61,7 @@
                     </div>
                     <div class="doing-box-content">
                         <h1>Transparency</h1>
-                        <p>Making sure all processes are transparently reviewed by clients.</p>
+                        <p>We prioritize transparent communication and ensure that all processes are open for client review.</p>
                     </div>
                 </div>
             </div>
@@ -76,8 +76,8 @@
                         <img class="onhover-img" src="images/doing-icon-hover.png" alt="">
                     </div>
                     <div class="doing-box-content">
-                        <h1>Dedicated Project</h1>
-                        <p>Working with us, you get to hire dedicated book writers that are assigned to your project for seamless operation.</p>
+                        <h1>Commitment</h1>
+                        <p>When you collaborate with us, you're paired with a dedicated book writer who caters to all your specific needs.</p>
                     </div>
                 </div>
             </div>
@@ -88,8 +88,8 @@
                         <img class="onhover-img" src="images/doing-icon-hover.png" alt="">
                     </div>
                     <div class="doing-box-content">
-                        <h1>Originality</h1>
-                        <p>Writing hundred percent original content every time.</p>
+                        <h1>Novelty</h1>
+                        <p>Our commitment to originality means that every book we create is meticulously crafted from scratch, ensuring unique content every time.</p>
                     </div>
                 </div>
             </div>
@@ -101,7 +101,7 @@
                     </div>
                     <div class="doing-box-content">
                         <h1>Experience</h1>
-                        <p>A collective experience of more than a decade.</p>
+                        <p>Our seasoned professionals bring a profound understanding of the intricacies of book writing, backed by over a decade of experience in the field.</p>
                     </div>
                 </div>
             </div>

@@ -12,9 +12,9 @@ if(isset($_POST) && count($_POST) > 0){
     $data.='</table>';
       $headers = "MIME-Version: 1.0" . "\r\n";
     $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-    $headers .= "From:info@bestbookwriters.com \r\n";
-    $subject='Best Book Writer LP Book Publishing new Inquiry';
-    $mailSent=mail("sraziua2@gmail.com,sean.nydhub@gmail.com,info@bestbookwriters.com,sifatwastixpert@gmail.com,owais@smarttechlabllc.com",$subject,$data,$headers);
+    $headers .= "From:info@bestbookpublisher.com \r\n";
+    $subject='Best Book Publisher LP Book Publishing new Inquiry';
+    $mailSent=mail("sraziua2@gmail.com,info@bestbookpublisher.com",$subject,$data,$headers);
     
     if($mailSent){
      header("Location: https://bestbookwriters.com/lp-book-publishing/thankyou.php");
@@ -25,5 +25,3 @@ if(isset($_POST) && count($_POST) > 0){
 }
 
 ?>
-
-

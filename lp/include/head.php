@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-      <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+      <link rel="shortcut icon" type="image/x-icon" href="images/book-public-bfr1.png">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/custom.css">
@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="css/slick-theme.css">
     <link rel="stylesheet" href="css/fancybox.min.css">
 
-            <title>Book Publishing | Best Book Writers</title>
+            <title>Book Publishing | Best Book Publisher</title>
             
             
     <!-- Google Tag Manager -->
@@ -36,31 +36,6 @@
   });
 </script>
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11025876772"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'AW-11025876772');
-</script>
-
-<script>
-  gtag('config', 'AW-11025876772/g_kvCKKEvcAYEKSOxokp', {
-    'phone_conversion_number': '+1-737-881-7227'
-  });
-</script>
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-NEVD6LV8MG"></script>
-<script type="text/javascript">     (function(c,l,a,r,i,t,y){         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};         t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);     })(window, document, "clarity", "script", "hqiagec93p"); </script>
-<script> 
-window.dataLayer = window.dataLayer || []; 
-function gtag(){dataLayer.push(arguments);} 
-gtag('js', new Date()); 
-
-gtag('config', 'G-NEVD6LV8MG'); 
-</script>  
 
      <script>
      var dtm = window.parent.document.createElement('script'); dtm.type="text/javascript"; dtm.id = 'ze-snippet'; dtm.src='https://static.zdassets.com/ekr/snippet.js?key=1a12342a-513e-43bb-8530-8cc919fea1ea'; var d = window.parent.document.getElementsByTagName('head')[0]; d.appendChild(dtm); var dtmf = window.parent.document.createElement('script'); dtmf.type="text/javascript"; dtmf.id = '_adobe_dtm_script_footer_tag'; dtmf.text='_satellite.pageBottom();'; var bd = window.parent.document.getElementsByTagName('body')[0];

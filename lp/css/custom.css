@@ -31,7 +31,7 @@ a,input,label,li,p,select,small,textarea,ul {
     font-weight: 300
 }
 
-a,h1,h2,h3,h4,h5,h6,li,p{
+a,h1,h2,h3,h4,h5,h6,li,p, {
     -webkit-transition: .3s ease-in-out;
     -moz-transition: .3s ease-in-out;
     transition: .3s ease-in-out
@@ -55,12 +55,12 @@ li {
 }
 
 .top-bar {
-    background-color: #546706;
+    background-color: #3ebfc2;
     padding: 10px 0
 }
 
 .hdr-form,.soc-ftr ul li a,.tp-bar-blk ul li a,a.hdr-btn1 {
-    background-color: #e9ecef
+    background-color: #fff
 }
 
 .copyrit-blk,.hdr-blk,.part-logos,.tp-bar-blk {
@@ -86,11 +86,22 @@ li {
 
 .book-public-blk h2,.book-public-blk li,.book-public-blk p,.step-blk:hover h5,.step-blk:hover p,a.hdr-btn2,a.hdr-email,a.thmn-btn1,span.trms-txt {
     color: #fff
+
 }
+
+.hdr-email:hover{
+    
+    color:white !important;
+}
+
+
 
 a.hdr-email i {
     margin-right: 8px
+       
 }
+
+
 
 .tp-bar-blk ul li a {
     min-width: 35px;
@@ -98,14 +109,13 @@ a.hdr-email i {
     height: 35px;
     border-radius: 100%;
     justify-content: center;
-    color: #546706;
+    color: #3ebfc2;
     font-size: 20px
 }
 
 .hdr-btm {
-    border-bottom: 1px solid #e9ecef;
+    border-bottom: 1px solid #85949d;
     padding: 8px 0;
-    background: #e9ecef;
     /* position: absolute; */
     width: 100%;
     z-index: 99
@@ -116,7 +126,7 @@ a.hdr-btn1 {
 }
 
 .hdr-btn a {
-    border: 1px solid #546706;
+    border: 1px solid #0a6688;
     padding: 10px 20px;
     border-radius: 10px 10px 10px 0;
     margin-left: 12px;
@@ -126,8 +136,8 @@ a.hdr-btn1 {
 
 a.hdr-btn2:hover,a.thmn-btn2:hover {
     color: #fff!important;
-    background-color: #546706;
-    border-color: #546706
+    background-color: #3ebfc2;
+    border-color: #3ebfc2
 }
 
 .hdr-btn a i,.theme-btn a i {
@@ -152,9 +162,9 @@ a.brand-name {
 }
 
 a.brand-name img{
-    width: 230px;
-    height: auto;
-    margin: -30px;
+    width: 180px;
+    height: 100%;
+    
     
 }
 .banner {
@@ -190,7 +200,7 @@ a.brand-name img{
 }
 
 .book-gallery button.active,.hdr-form button,.partner-logo,a.thmn-btn2 {
-    background-color: #546706
+    background-color: #3ebfc2
 }
 
 .banner::after {
@@ -198,7 +208,7 @@ a.brand-name img{
     height: 500px;
     width: 500px;
     position: absolute;
-    border: 70px solid #5467062b;
+    border: 70px solid #3ebfc22b;
     border-radius: 100%;
     z-index: 0;
     left: -260px
@@ -232,7 +242,7 @@ a.brand-name img{
 
 .book-public-blk li::before,.slide-cap li::before {
     content: '\f00c';
-    color: #546706;
+    color: #3ebfc2;
     font-family: FontAwesome;
     position: absolute;
     left: 0;
@@ -240,7 +250,7 @@ a.brand-name img{
 }
 
 .theme-btn a {
-    border: 1px solid #e9ecef;
+    border: 1px solid #fff;
     padding: 10px 20px;
     border-radius: 10px 10px 10px 0;
     font-weight: 400;
@@ -248,8 +258,8 @@ a.brand-name img{
 }
 
 a.thmn-btn2 {
-    color: #e9ecef;
-    border-color: #546706
+    color: #fff;
+    border-color: #3ebfc2
 }
 
 .slide-cap ul {
@@ -264,7 +274,7 @@ a.thmn-btn2 {
 }
 
 .hdr-form h3 {
-    color: #546706;
+    color: #3ebfc2;
     margin: 0 0 8px;
     text-align: center;
     font-size: 18px
@@ -272,11 +282,9 @@ a.thmn-btn2 {
 
 .hdr-form input,.hdr-form select {
     width: 100%;
-    /* border: 1px solid #717171; */
+    border: 1px solid #717171;
     padding: 5px 5px;
     margin: 8px 0 0;
-    border: none;
-    border-radius: 4px;
 }
 
 .serv-looking {
@@ -408,12 +416,12 @@ section.testimonial-sec .slick-dots li button::before {
 }
 
 .tmls-blk::-webkit-scrollbar-thumb {
-    background: #546706;
+    background: #0a6688;
     border-radius: 10px
 }
 
 .tmls-blk::-webkit-scrollbar-thumb:hover {
-    background: #e9ecef !important;
+    background: #46720b
 }
 
 .tmls-blk {
@@ -515,13 +523,13 @@ section.testimonial-sec .slick-dots li button::before {
 
 .journy-blk li span {
     position: relative;
-    color: #546706;
-    font-weight: 400
+    color: #3ebfc2;
+    font-weight: 400;
 }
 
 .journy-blk li span::before {
     content: '\f00c';
-    color: #546706;
+    color: #3ebfc2;
     font-family: FontAwesome;
     position: absolute;
     left: -20px;
@@ -547,7 +555,7 @@ section.testimonial-sec .slick-dots li button::before {
     height: 100%;
     width: 100%;
     position: absolute;
-    background-color: #546706;
+    background-color: #3ebfc2;
     border-radius: 100%;
     right: 0;
     top: -30px
@@ -615,7 +623,7 @@ img.get-book-img {
 
 .book-pub-img::before {
     content: '';
-    background-image: url(../images/book-public-bfr.png);
+    background-image: url(../images/book-public-bfr1.png);
     position: absolute;
     height: 740px;
     width: 570px;
@@ -688,7 +696,7 @@ img.get-book-img {
 }
 
 .step-blk:hover {
-    background-color: #546706;
+    background-color: #3ebfc2;
     cursor: pointer
 }
 
@@ -812,12 +820,12 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #546706;
+    color: #3ebfc2;
     font-size: 26px
 }
 
 .copyright {
-    background-color: #546706;
+    background-color: #3ebfc2;
     color: #fff;
     padding: 15px 0
 }
@@ -906,7 +914,7 @@ select:-moz-focusring {
 }
 
 .cr-popup .modal-content::before {
-    background-image: url(../images/logo.png)!important;
+    background-image: url(../images/logo2.png)!important;
     content: '';
     position: absolute;
     width: 107px;
@@ -944,7 +952,7 @@ select:-moz-focusring {
 }
 
 .indep.modal .modal-dialog .modal-header{ display:block; text-align:center}
-.indep.modal .modal-dialog .modal-content  h6 {color: #b4dc13;display: block;}
+.indep.modal .modal-dialog .modal-content  h6 {color: #0a6688;display: block;}
 .indep.modal .modal-dialog .modal-content  h3 {color: #000000;width:100%;}
 .indep.modal .modal-dialog .modal-content {/* background-image: url(../images/inde-banner.png); */padding: 40px 0;}
 .indep.modal .modal-header:before{/* content:''; */position:absolute;/* background:url(../images/balo.png) no-repeat; */background-size:100%;/* top:-80px; */left:0;width: 140px;height: 240px;}
@@ -967,7 +975,7 @@ select:-moz-focusring {
 .modal .modal-dialog .modal-content .modal-header button {
     border-radius: 50%;
     color: #fff;
-    border: 3px solid #8cac05;
+    border: 3px solid #0a6688;
     line-height: 1em;
     text-align: center;
     font-size: 16px;
@@ -980,7 +988,7 @@ select:-moz-focusring {
     position: absolute;
     right: -10px;
     top: -10px;
-    color: #83ad1d;
+    color: #0a6688;
     font-size: 20px;
     padding: 7px 9px 9px
 }
@@ -988,7 +996,7 @@ select:-moz-focusring {
 .modal .modal-dialog .modal-content .modal-body .input-div i {
     position: absolute;
     top: 10px;
-    color: #596f00;
+    color: #0a6688;
     left: 18px
 }
 
@@ -1000,7 +1008,7 @@ select:-moz-focusring {
     margin: 0 auto;
     border: transparent;
     height: 40px;
-    background: #546706;
+    background: #0a6688;
     color: #fff;
     font-family: rubik,sans-serif;
     font-weight: 300;
@@ -1009,10 +1017,10 @@ select:-moz-focusring {
 }
 
 button.hvr-grow.tc-image-effect-shine {
-    border: 1px solid #546706;
+    border: 1px solid #0a6688;
     display: inline-block;
     padding: 10px 20px;
-    background: #546706;
+    background: #0a6688;
     border-radius: 10px 10px 10px 0;
     margin-left: 12px;
     font-weight: 400;
@@ -1062,11 +1070,11 @@ button.hvr-grow.tc-image-effect-shine i {
 .packagesSec{/* background: #1d3f50; */padding:20px 0;}
 .packagesSec h2{ color:#000; text-align:center}
 .packagesSec .pkBox{transition:200ms;background-color: #f5f5f5;text-align:center;color:#000;margin:30px 0;cursor: pointer;padding:10px;position: relative;border-radius: 10px;border-top: 5px solid #000;box-shadow: 0 0 20px 2px rgb(92 92 92 / 40%);}
-.packagesSec .pkBox:hover{ background:#546706; color:#fff;}
+.packagesSec .pkBox:hover{ background:#0a6688; color:#fff;}
 .packagesSec .pkBox:hover h3{ color:#fff;}
 .packagesSec .pkBox:hover li:before{  background:#fff;}
 .packagesSec .pkBox:hover li{ color:#fff}
-.packagesSec .pkBox:hover .btn{ background:#e9ecef; color:#000;}
+.packagesSec .pkBox:hover .btn{ background:#fff; color:#000;}
 .packagesSec .pkBox:hover .btn.chat{ background:none;; color:#fff; border:1px solid #fff;}
 .packagesSec .pkBox:hover span{color:#000}
 .packagesSec .pkBox:hover sup{color: #000;}
@@ -1078,10 +1086,10 @@ button.hvr-grow.tc-image-effect-shine i {
 .bestsell{position:absolute;top: -29px;right: -37px;z-index:999;background:transparent !important;}
 .bestsell img{width: 97px;}
 .packagesSec .pkBox a{
-    border: 1px solid #546706;
+    border: 1px solid #0a6688;
     display: inline-block;
     padding: 10px 20px;
-    background: #546706;
+    background: #0a6688;
     border-radius: 10px 10px 10px 0;
     margin-left: 12px;
     font-weight: 400;
@@ -1105,7 +1113,7 @@ button.hvr-grow.tc-image-effect-shine i {
   left:0;
   width: 100%;
   height: 100%;
-  background-color: #546706;
+  background-color: #0a6688;
   z-index: -99;
   animation: ripple 1.5s ease-out infinite;
   animation-delay: 0.4s;
@@ -1129,7 +1137,7 @@ button.hvr-grow.tc-image-effect-shine i {
 }
  
 .packagesSec ul::-webkit-scrollbar-thumb {
-  background-color: #546706;
+  background-color: #0a6688;
   outline: 1px solid slategrey;
 }
 
@@ -1143,7 +1151,7 @@ button.hvr-grow.tc-image-effect-shine i {
   z-index: 9999;
 }
 .calle:hover{
-  background-color: #546706 !important;}
+  background-color: #0a6688 !important;}
 .calle::before {
     border-radius: 10px 10px 10px 0;
   content: "";
@@ -1152,7 +1160,7 @@ button.hvr-grow.tc-image-effect-shine i {
   left:0;
   width: 100%;
   height: 100%;
-  background-color: #546706;
+  background-color: #0a6688;
   z-index: -1;
   animation: ripple 1.2s ease-out infinite;
   animation-delay: 0.6s;
@@ -1178,7 +1186,7 @@ button.hvr-grow.tc-image-effect-shine i {
   padding: 5px 0px !important;
   font-size: 18px !important;
   padding: 15px 0;
-  /* background-color: #ff0000 !important; */
+  background-color: #ff0000 !important;
   box-shadow: 0 5px 10px rgba(0,0,0,.1);
   color: #fff;
   font: 700 14px/1 'Lato', sans-serif;
@@ -1210,43 +1218,7 @@ button.hvr-grow.tc-image-effect-shine i {
   top: 43px;
   transform: rotate(45deg);
 }
-a.hdr-btn1:hover, a.thmn-btn1:hover {
-    color: white !important;
-}
-.packagesSec .pkBox:hover a.btn.chat.calle {
-    color: white !important;
-    border: 1px solid white !important;
-}
-.packagesSec .pkBox:hover .packagesSec ul::-webkit-scrollbar-thumb {
-    background-color: #e9ecef;
-    outline: 1px solid #e9ecef;
-  }
-  a.thmn-btnn1.grey-btn:hover {
-    color: black !important;
-    background: white !important;
-    border: 1px solid black !important;
-}
-section.book-gallery, section.packagesSec, section.testimonial-sec, section.menu-script-sec, section.get-book, section.step-sec, section.get-book {
-    background: #e9ecef;
-}
-.journy-sec, .tmls-blk {
-    background-color: #efefef;
-    box-shadow: 5px 4px 7px #00000078;
-}
-.theme-btn button {
-    border: 1px solid #546706 !important;
-    background: #546706 !important;
-}
-.best-seller img {
-    width: 40%;
-    position: absolute;
-    top: 45px;
-    right: -30px;
-}
-
-
-.packagesSec{
-
-display:none;
-
+span.price {
+    height: 8px;
+    border-radius: 40px;
 }

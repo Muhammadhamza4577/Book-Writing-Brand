@@ -5,7 +5,7 @@
 <html>
 
 <head>
-<title><?=isset($title)?$title:'Best Book Writers'?></title>
+<title><?=isset($title)?$title:'Best Book Publisher'?></title>
  <meta name="keywords" content="">
     <meta name="description" content="<?=isset($descripion)?$descripion:'Best Book Writers'?>">
     <link rel="canonical" href="<?=isset($canonical)?$canonical:'https://bestbookwriters.com/'?>"/>

@@ -6,16 +6,16 @@
                <img src="images/pen.png" alt="">
             </div>
             <div class="subtitle-head">
-               <h1>Write Your Story</h1>
+               <h1>Want to Be an Author?</h1>
             </div>
          </div>
          <div class="main-home-cntxt">
-            <h1>Creating And Shaping Ideas Into <span> Bestsellers Through Book</span> Writing Services</h1>
-            <p>Do you have an inspiring story to share? You can inspire the world and influence others through our bestselling authors and proactive book writing services.</p>
+            <h1>Best Book Writing <span>  Service Is Only</span>  A Click Away!</h1>
+            <p>Want to get your penname among one of the bestsellers of the world? Long gone were those days when an author had to go through multiple stages before publishing their books. By availing our expert book writing services USA-based, you can get your book published in a short time span and turn it into a bestseller through our affordable book writing services!</p>
          </div>
          <div class="main-banner-btns">
             <div class="getint">
-               <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+               <a href="javascript:void(0);" class="custom-btn btn-9 btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal">Get Started Today <i class="fa fa-angle-right"></i></a>
             </div>
             <div class="number-btn">
                <a href="tel:+1-737-881-7227">
@@ -40,21 +40,21 @@
                      <h1 class="form-head">Sign Up Now to <span style="color: #3EBFC2;"> Get 50% </span> Discount</h1>
                   </div>
                   <div class="banner-form-img">
-                     <img src="images/book-qoute-img.png" alt="">
+                     <img src="images/book-qoute-img.webp" alt="">
                   </div>
                </div>
-               <form action=""  method=POST>
+               <form action="sendmail.php"  method=POST>
                   <div class="col-sm-12 footerform1">
                      <div class="col-sm-6 form-box-inout">
-                        <input type="name" placeholder="Full Name" name="fname" value="">
+                        <input type="name" placeholder="Full Name" name="fname" value="" required="required">
                      </div>
                      <div class="col-sm-6 form-box-inout">
-                        <input type="email" placeholder="Email Address" name="email" value="">
+                        <input type="email" placeholder="Email Address" name="email" value="" required="required">
                      </div>
                   </div>
                   <div class="col-sm-12 dropdown-box">
                      <div class="col-sm-6 dropdown-boxes">
-                        <select name="services" id="services">
+                        <select name="services" id="services" required="required">
                            <option value="select-your-service" disabled selected>Select your Service</option>
                            <option value="ghostwriting-services">Ghostwriting Services</option>
                            <option value="book-editing-services">Book Editing Services</option>
@@ -73,7 +73,7 @@
                         </select>
                      </div>
                      <div class="col-sm-6">
-                        <input type="tel" placeholder="Phone Number" name="number" value="">
+                        <input type="tel" placeholder="Phone Number" name="number" value="" required="required">
                      </div>
                   </div>
                   <div class="col-sm-12">
@@ -90,7 +90,7 @@
    <div class="row">
       <div class="col-sm-12 client-logos-main">
          <div class="banner-home-img">
-            <img src="images/banner-inner-img.png" alt="">
+            <img src="images/banner-inner-img.webp" alt="">
          </div>
          <div class="img">
             <ul class="client-logo-slider">
@@ -119,8 +119,9 @@
    <div class="row">
       <div class="col-md-12">
          <div class="inside-banner-content">
-            <h1>People From Diverse Backgrounds Trust<span class="brands-color"> Best Book Writers</span> Because Of Our Beautifully Tailored, Error-Free, And Original Book Writing Services.</h1>
-            <p>Think you have a great story to tell? We can write and publish it <br><br> Are you struggling to brainstorm ideas and place them in a meaningful format? Not sure about how to convey your creative story dwindling in your mind? We can answer these questions as we have been in the book writing services for over a decade. We offer professional book writing services that are backed by extensive research, and it is customized according to your needs. The sheer professionalism of our book writing service is evident from our exquisitely drafted, published books, along with extensive consultation offered by our professional book writers.</p>
+            <h1>Bring Your Book Idea to Life with <span class="brands-color">  Our Professional Book Writing Service </span> in A Pocket-Friendly Cost.</h1>
+            <p>Want to transform your idea into a book? We are here to lend our hand!<br><br>Our book writing company specializes in professional book writing, staffed by a team of expert book writers. We are your dedicated partner in turning your ideas and stories into captivating manuscripts. With a keen understanding of storytelling, our expert book writers craft compelling narratives that cater to various genres. 
+</p>
          </div>
       </div>
    </div>

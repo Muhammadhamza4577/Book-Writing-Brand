@@ -14,7 +14,7 @@
             </div>
             <div class="banner-btn1">
                <div class="getint2">
-                  <a href="javascript:void(0);" class="custom-btn btn-9"data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i></a>
+                  <a href="javascript:void(0);" class="custom-btn btn-9 btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal">Get Started Today <i class="fa fa-angle-right"></i></a>
                </div>
                <div class="number-btn">
                   <a href="tel:+1-737-881-7227">

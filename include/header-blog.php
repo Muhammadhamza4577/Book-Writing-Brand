@@ -1,14 +1,14 @@
 <header class="header-1">
 <nav class="navbar navbar-expand-lg navbar-light">
 <div class="container px-xxl-5 px-xl-5 px-lg-5">
-<a class="navbar-brand" href="#"><img src="../images/head-logo.png" class="img-fluid" alt=""></a>
+<a class="navbar-brand" href="https://bestbookpublisher.com/"><img src="../images/head-logo.png" class="img-fluid" alt=""></a>
 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"><i class="fa fa-bars" aria-hidden="true"></i></span>
 </button>
 <div class="collapse navbar-collapse navalign" id="navbarSupportedContent">
 <ul class="navbar-nav">
 <li class="nav-item">
-<a aria-current="page" href="../index">Home</a>
+<a aria-current="page" href="https://bestbookpublisher.com/">Home</a>
 </li>
 <li class="nav-item">
 <a href="../about-us">About Us</a>
@@ -44,7 +44,7 @@
 </li>
 </ul>
 <form class="d-flex">
-<button type="button" class="custom-btn btn-9" data-bs-toggle="modal" data-bs-target="#exampleModal">Get Started Today <i class="fa fa-angle-right"></i>
+<button type="button" class="custom-btn btn-9 btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal">Get Started Today <i class="fa fa-angle-right"></i>
 </button>
 <a href="tel:+1-737-881-7227">
 <div class="phone">

@@ -375,7 +375,7 @@ padding:250px 0 40px
 }
 
 a.brand-name img {
-width:100px;
+width:170px;
 margin-bottom:15px
 }
 
@@ -663,10 +663,10 @@ display:none
 }
 
 .theme-btn button {
-    border: 1px solid #88b31f;
+    border: 1px solid #0a6688;
     display: inline-block;
     padding: 10px 20px;
-    background: #88b31f;
+    background: #0a6688;
     border-radius: 10px 10px 10px 0;
     margin-left: 12px;
     font-weight: 400;

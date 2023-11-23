@@ -1,16 +1,31 @@
 /*--------------------
 Vars
 --------------------*/
-let progress = 50
+let progress = 0
 let startX = 0
 let active = 0
 let isDown = false
 
 /*--------------------
-Contants
+Constants
 --------------------*/
 const speedWheel = 0.02
 const speedDrag = -0.1
+
+/*--------------------
+Debounce Function
+--------------------*/
+const debounce = (func, wait) => {
+  let timeout
+  return function() {
+    const context = this
+    const args = arguments
+    clearTimeout(timeout)
+    timeout = setTimeout(() => {
+      func.apply(context, args)
+    }, wait)
+  }
+}
 
 /*--------------------
 Get Z
@@ -53,34 +68,34 @@ $items.forEach((item, i) => {
 /*--------------------
 Handlers
 --------------------*/
-const handleWheel = e => {
+const handleWheel = debounce((e) => {
   const wheelProgress = e.deltaY * speedWheel
   progress = progress + wheelProgress
   animate()
+}, 20)
+
+const handleMouseMove = debounce((e) => {
+  if (e.type === 'mousemove') {
+    $cursors.forEach(($cursor) => {
+      $cursor.style.transform = `translate(${e.clientX}px, ${e.clientY}px)`
+    })
+  }
+  if (!isDown) return
+  const x = e.clientX || (e.touches && e.touches[0].clientX) || 0
+  const mouseProgress = (x - startX) * speedDrag
+  progress = progress + mouseProgress
+  startX = x
+  animate()
+}, 20)
+
+const handleMouseDown = (e) => {
+  isDown = true
+  startX = e.clientX || (e.touches && e.touches[0].clientX) || 0
 }
 
-const handleMouseMove = (e) => {
-    if (e.type === 'mousemove') {
-      $cursors.forEach(($cursor) => {
-        $cursor.style.transform = `translate(${e.clientX}px, ${e.clientY}px)`
-      })
-    }
-    if (!isDown) return
-    const x = e.clientX || (e.touches && e.touches[0].clientX) || 0
-    const mouseProgress = (x - startX) * speedDrag
-    progress = progress + mouseProgress
-    startX = x
-    animate()
-  }
-  
-  const handleMouseDown = e => {
-    isDown = true
-    startX = e.clientX || (e.touches && e.touches[0].clientX) || 0
-  }
-  
-  const handleMouseUp = () => {
-    isDown = false
-  }
+const handleMouseUp = () => {
+  isDown = false
+}
 
 /*--------------------
 Listeners

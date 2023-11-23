@@ -42,7 +42,7 @@
                         <div class="col-md-3 myblogbox">
                            <a href="blog/how-to-write-an-ebook-in-7-simple-steps-a-comprehensive-guide-for-authors-based-on-recent-trends">
                               <div class="tb-box-content">
-                                 <img src="images/tab-img1.jpg">
+                                 <img src="images/old/tab-img1.jpg">
                                  <h4>How To Write An EBook In 7 Simple Steps- A Comprehensive Guide For Authors Based On Recent Trends</h4>
                               </div>
                            </a>
@@ -50,7 +50,7 @@
                         <div class="col-md-3 myblogbox">
                            <a href="blog/planning-for-non-fiction-book-writing-five-additional-considerations-to-keep-in-mind">
                               <div class="tb-box-content">
-                                 <img src="images/tab-img5.jpg">
+                                 <img src="images/old/tab-img5.jpg">
                                  <h4>Planning For Non-Fiction Book Writing: Five Additional Considerations To Keep In Mind</h4>
                               </div>
                            </a>
@@ -62,7 +62,7 @@
                         <div class="col-md-3 myblogbox">
                            <a href="blog/6-simple-tried-and-tested-steps-to-publish-a-book-in-2022">
                               <div class="tb-box-content">
-                                 <img src="images/tab-img2.jpg">
+                                 <img src="images/old/tab-img2.jpg">
                                  <h4>6 Simple Tried-And-Tested Steps To Publish A Book In 2022</h4>
                               </div>
                            </a>
@@ -70,7 +70,7 @@
                         <div class="col-md-3 myblogbox">
                            <a href="blog/an-easy-guide-for-2023-10-steps-to-self-publish-your-own-book">
                               <div class="tb-box-content">
-                                 <img src="images/tab-img4.jpg">
+                                 <img src="images/old/tab-img4.jpg">
                                  <h4>An Easy Guide For 2023: 10 Steps To Self-Publish Your Own Book</h4>
                               </div>
                            </a>
@@ -82,7 +82,7 @@
                         <div class="col-md-3 myblogbox">
                            <a href="blog/6-simple-strategies-to-market-an-ebook-an-essential-guide-to-bring-more-traffic-and-enhance-sales">
                               <div class="tb-box-content">
-                                 <img src="images/tab-img3.jpg">
+                                 <img src="images/old/tab-img3.jpg">
                                  <h4>6 Simple Strategies To Market An Ebook- An Essential Guide To Bring More Traffic And Enhance Sales</h4>
                               </div>
                            </a>

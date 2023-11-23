@@ -1,130 +1,112 @@
 <?php 
-    $title = "Terms & Conditions | Best Book Writers";
-    $descripion = "Terms and Conditions of Best Book Writers Book Writing Agency in USA. ";
-    $canonical = "https://bestbookwriters.com/terms-conditions";
-?>
+   $title = "Terms & Conditions | Best Book Writers";
+   $descripion = "Terms and Conditions of Best Book Writers Book Writing Agency in USA. ";
+   $canonical = "https://bestbookpublisher.com/terms-conditions";
+   ?>
 <?php include('include/head-prvcy.php');?>
 <?php include('include/header-prvcy.php');?>
 <main>
-
-<section class="term-sec-wrap">
-<div class="container">
-<div class="row justify-content-center">
-<div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-10">
-<div class="terms-content">
-<h2>OVERVIEW</h2>
-<p>By accessing and using this website, you are agreeing to the following terms. If we have been banned in your area for whatever reason then please do not come here because these websites can only provide services that legally exist within their respective states/jurisdictions - meaning they won't be able offer something specific if it doesn’t comply with local laws! We also understand how important an 18+ age requirement is so as such all users must meet said criteria before being granted access.
-</p>
-<p>By submitting an order and/or payment, you are acknowledging that you have read and understood these terms and conditions. You are also agreeing to be legally bound by these terms and conditions, which form the entire agreement between You and bestbookwriters.com. By submitting an order and/or payment, you are acknowledging that you have read and understood these terms and conditions. You are also agreeing to be legally bound by these terms and conditions, which form the entire agreement between You and <a href="https://bestbookwriters.com" class="collins-link">Best Book Writers</a></p>
-</div>
-</div>
-<div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-10">
-<div class="terms-content">
-<h2>DEFINITION OF TERMS</h2>
-<p><span>"Website"</span>means all online content on <a href="https://bestbookwriters.com" class="collins-link">Best Book Writers</a> website pages.</p>
-<p><span>Customer," "You," "Yours"</span>or means and refers to you and/ or any other person submitting an order to bestbookwriters.com on your behalf.</p>
-<p><span>"Company," "We," "Our" </span>or means and refers to bestbookwriters.com, a company registered under the laws of the State.</p>
-<p><span>"Product or Services"</span>means and refers to all services and products provided by bestbookwriters.com to customer in accordance with his/ her order.</p>
-<p><span>"Order" </span>means an order via phone or e-mail made by customer to purchase services or products provided by bestbookwriters.com. Orders are confirmed by down payments via check, credit card, cash receipt, bank wire transfer, Western Union, or PayPal transfer.</p>
-</div>
-</div>
-<div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-10">
-<div class="terms-content">
-<h2>OUR SERVICES</h2>
-<p>By submitting an order or payment on this website, you are agreeing to be bound by the terms set out in our policy. Carefully read and understand all of these conditions before making any purchases here as they may vary from those advertised Online.</p>
-</div>
-</div>
-<div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-10">
-<div class="terms-content">
-<h2>RETURN</h2>
-<p>We don't accept returns on fulfilled orders because our products are made to order. But if you want your changes, like editing and proofreading services done along with requirements being followed then we have a revision process for customers who need it. </p>
-<p>If changes need to be made to ensure quality standards such as editing and proofreading
-services are adhered to, alongside requirements being followed, we have a revision process
-in place that is there to help all customers as their satisfaction is the most important
-thing to us.
-If the fulfilled product does not meet the requirements, as specified at the placement of
-the order, we will begin an extensive internal review and either revise or recreate the
-content at no additional cost.</p>
-</div>
-</div>
-<div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-10">
-<div class="terms-content">
-<h2>REVISIONS</h2>
-<p>Each package has its own revision policy, per the service description of each individual package. We provide revisions within 5 to 10 days of the order going into the Waiting for Customer Approval status in our Order Management Platform. The revision period will depend on the ordered package.</p>
-<p>Once the product has been presented for review and its status updated to Waiting For Customer Approval, customers can request revisions by sending an email directly with their assigned project manager. The client owns all rights to any content changes made after fulfillment but before publishing as it's delivered in a word format (including images).</p>
-</div>
-</div>
-<div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-10">
-<div class="terms-content">
-<h2>REFUND POLICY</h2>
-<p>We handle refunds on a case-by-case basis and do our best to stand behind the customer and take care of their needs. Our team will always work with the customer to resolve any issues to the best of our ability.</p>
-<p>Circumstances in which a refund may be provided include, but are not limited to, should there be exceptional reason, orders which have not yet been allocated and/or started at the time of the refund request.</p>
-<p>Refunds, if processed, take between 5 to 15 days to reflect on the customer’s end. A processing fee of USD 250 or 5% of the order amount (whichever is higher) will be charged in all cases. The confirmation of approval for the refund request will be provided by the support team and can only be made through the original payment method used at the placement of the order. You will also receive a notification of refund via the email used at the original time of checkout.</p>
-<p>We offer refunds only in special cases and specified conditions, detailed as under:</p>
-</div>
-</div>
-<div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-10">
-<div class="terms-content">
-<h2>CHANGE OF MIND:</h2>
-<p>a) Prior to Project Initiation: The customer is entitled to 100% refund before our writers/
-editors start working on the project.</p>
-<p>b) If (for any reason) you change your mind and decide to discontinue your project with us
-after placing your order, you can ask for a refund within one hour of placing your order.
-</p>
-<p>c) After Project Progress: All refund claims made after the project has been initiated and at
-least one round of revision is availed by the Client, we may provide a partial refund (up to
-5%) owing to the need to fairly compensate our internal teams.</p>
-</div>
-</div>
-<div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-10">
-<div class="terms-content">
-<h2>INCOMPETENT DELIVERY:</h2>
-<p>Customers are entitled to claim a refund once they have exhausted all the options detailed as under; if it does not comply with project requirements (as requested/documented by customer). We commit ourselves at 100% satisfaction rate and offer unlimited revisions for our customers so that deliverables will be up-to -the mark. Reserve FREE Pages in advance but of same value can avail them anytime you want without any hassle.</p>
-<ul>
-<li>If it does not comply with project requirements (as requested/documented by the
-customer).</li>
-<li>We are committed to provide our customers with 100% satisfaction and offer unlimited
-revisions to ensure that the delivery is up to the mark. We assign, re-assign and
-re-write your work to ensure complete satisfaction. Reserve FREE Pages for future, but
-of same value and you can avail them at any time. If we're still not able to deliver
-what you asked for, refund will be processed with a mutual agreement on a set percentage
-(but only in the cases where the delivery is completely off the mark)</li>
-</ul>
-</div>
-</div>
-<div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-10">
-<div class="terms-content">
-<h2>LATE DELIVERY:</h2>
-<p>We are committed to delivering on time and if we fail, your refund will be processed once it's established that the late delivery was our fault.
-</p>
-</div>
-</div>
-<div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-10">
-<div class="terms-content">
-<h2>REFUND TIME FRAME:</h2>
-<p>Customers must claim their refund within 10 days of first submission/order delivery subject to no revisions availed. After that, it will not be entertained and all past claims have been denied.
-</p>
-<h2>CASES WHERE REFUND WILL NOT BE ISSUED:</h2>
-<ul>
-<li>In case of late delivery due to some minor technical errors, such as grammatical,
-typing, word count, missing references etc., refunds will be processed with mutual
-agreement and company will only settle with partial refund or discounts reserved for
-future purchases.</li>
-<li>Company will not be responsible for any delay from the client's end.</li>
-<li>No refund will be issued on the basis of low word count.</li>
-</ul>
-</div>
-</div>
-<div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-10">
-<div class="terms-content">
-<h2>MODIFICATIONS TO THE SERVICE AND PRICES</h2>
-<p>Services are subject to change without notice - we reserve the right at any time and for whatever reason, including but not limited to: price changes; modifications or discontinuance of services.</p>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-</main> 
-
+   <section class="term-sec-wrap">
+      <div class="container">
+         <div class="row justify-content-center">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-10">
+               <div class="terms-content">
+                  <h2>Overview</h2>
+                  <p>Upon accessing and utilizing this website, you are indicating your consent to the following stipulations. If, for any reason, our services are prohibited in your locale, we kindly request that you refrain from visiting this site. Our services are strictly governed by the legal regulations of our respective states or jurisdictions, meaning that we can only offer services that align with local laws.</p>
+                  <p>Recognizing the significance of an 18+ age requirement, we insist that all users meet this criteria before being granted access. By submitting an order or making a payment, you are explicitly acknowledging that you have perused and comprehended these terms and conditions. You are also entering into a legally binding agreement governed by these terms and conditions. This agreement, which constitutes the comprehensive understanding between you and bestbookpublishers.com, safeguards the interests of all parties involved. Your submission of an order and/or payment further reinforces your acceptance of these terms and conditions, which remain the foundation of the entire agreement between you and Best Book Publishers.</a></p>
+               </div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-10">
+               <div class="terms-content">
+                  <h2>Definition of Terms</h2>
+                  <p><span>"Website"</span>denotes all the online content found on the pages of Best Book Publisher website. 
+                  <!-- <a href="https://bestbookpublisher.com" class="collins-link">Best Book Writers</a>  -->
+                  website pages.</p>
+                  <p><span>"Customer," "you," or "yours" </span>refers to yourself or any other individual placing an order through bestbookpublisher.com.</p>
+                  <p><span>"Company," "we," or "our" </span> represents bestbookpublisher.com, a company legally registered under the State laws.</p>
+                  <p><span>"Product or services" </span>encompasses all the services and products offered by bestbookpublisher.com in line with the customer's order.</p>
+                  <p><span>"Order" </span>stands for a customer's request, placed via phone or email, to purchase services or products provided by bestbookpublisher.com. These orders are confirmed through down payments made by check, credit card, cash receipt, bank wire transfer, Western Union, or PayPal transfer.</p>
+               </div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-10">
+               <div class="terms-content">
+                  <h2>Our Services </h2>
+                  <p>Upon placing an order or making a payment on this site, you are consenting to adhere to the terms detailed in our policy. Please thoroughly review and comprehend all these conditions before making any purchases, as they might differ from those advertised online.</p>
+               </div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-10">
+               <div class="terms-content">
+                  <h2>Return </h2>
+                  <p>We do not facilitate returns for fulfilled orders due to the personalized nature of our products. However, for customers seeking adjustments, like editing and proofreading services, along with adherence to specific requirements, we offer a revision process.</p>
+                  <p>In ensuring quality standards, such as editing and proofreading services, and adherence to specified requirements, our revision process is available to assist all customers, prioritizing their satisfaction above all else. Should the delivered product fail to meet the initially specified requirements, we conduct a thorough internal review and will proceed to revise or recreate the content at no extra charge.</p>
+               </div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-10">
+               <div class="terms-content">
+                  <h2>Revision </h2>
+                  <p>Every package is accompanied by its specific revision policy, outlined in the service description. Revisions are offered within a timeframe of 5 to 10 days from the moment the order enters the "Waiting for Customer Approval" status in our Order Management Platform. The actual revision duration is contingent upon the package ordered.</p>
+                  <p>Upon the product's presentation for review and its status transition to "Waiting For Customer Approval," customers can request revisions. This can be initiated by directly emailing their designated project manager. Any content changes made by the client after fulfillment but before publishing are owned by the client, as the content is delivered in a Word format.</p>
+               </div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-10">
+               <div class="terms-content">
+                  <h2>Refund Policy</h2>
+                  <p>We handle refund requests individually and prioritize supporting our customers to meet their needs. Our team is committed to working closely with customers to resolve issues to the best of our ability.</p>
+                  <p>Circumstances that may warrant a refund include, but are not limited to, exceptional reasons or orders that have not yet been allocated or started at the time of the refund request.</p>
+                  <p>Should a refund be processed, it typically takes 5 to 15 days to reflect in the customer's account. A processing fee of USD 250 or 5% of the order amount (whichever is higher) applies in all cases. Approval for a refund request will be confirmed by our support team and will be refunded using the original payment method. Customers will receive a refund notification via the email used during the original checkout.</p>
+                  <p>Refunds are only offered under specific and specified conditions as detailed below:</p>
+               </div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-10">
+               <div class="terms-content">
+                  <h2>Change of Mind </h2>
+                  <p>a) Before Project Commencement: A full refund is available if requested before our writers/editors begin work on the project.
+                  </p>
+                  <p>b) If you decide, for any reason, to discontinue your project with us after placing the order, you can request a refund within one hour of order placement.
+                  </p>
+                  <p>c) After Project Commencement: Should a refund request be made after the project has started and at least one round of revision has been utilized by the client, a partial refund (up to 5%) may be provided to ensure fair compensation to our internal teams.
+                  </p>
+               </div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-10">
+               <div class="terms-content">
+                  <h2>Incompetent Delivery</h2>
+                  <p>Customers reserve the right to seek a refund after exploring the specified options if the delivered work does not align with the documented project requirements. We are committed to ensuring 100% customer satisfaction, offering unlimited revisions to guarantee that all deliverables meet expectations. Free pages of equivalent value can be reserved in advance and utilized at any time for added convenience.</p>
+                  <ul>
+                     <li>In cases where the delivery does not comply with the customer's documented project requirements, we remain dedicated to achieving complete satisfaction. 
+                     </li>
+                     <li>Our commitment involves assigning, reassigning, and rewriting work to ensure that the final delivery meets your expectations. Additionally, customers can reserve free pages of equivalent value for future use at their discretion. If, despite these efforts, the delivery still fails to meet your specified requirements, a refund can be processed. This is contingent upon a mutual agreement on a predetermined percentage, specifically in instances where the delivery significantly deviates from the expected standards.
+                     </li>
+                  </ul>
+               </div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-10">
+               <div class="terms-content">
+                  <h2>Late Delivery </h2>
+                  <p>We promise timely delivery, and in the event of our failure, a refund will be processed upon confirming that the delay was attributed to our error.</p>
+               </div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-10">
+               <div class="terms-content">
+                  <h2>Estimated Refund Time </h2>
+                  <p>Refunds must be claimed within 10 days of the initial submission or order delivery, provided no revisions have been utilized. Claims beyond this period will not be considered, and all prior claims have been dismissed.</p>
+                  <h2>Refunds will not be issued in the following cases: </h2>
+                  <ul>
+                     <li>Refunds will be subject to mutual agreement in cases of minor technical errors causing a delayed delivery, such as grammatical issues, typing errors, word count discrepancies, or missing references. The company will only consider a partial refund or offer discounts for future purchases in such instances.
+                     </li>
+                     <li>The company will not assume responsibility for delays caused by the client.</li>
+                     <li>Refunds will not be granted based on low word count.</li>
+                  </ul>
+               </div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 col-xxl-10">
+               <div class="terms-content">
+                  <h2>Modification in Pricing and Services</h2>
+                  <p>The services offered may be altered without prior notice. We retain the right, at any time and for various reasons, including but not limited to price adjustments or service modifications, to modify or discontinue services.</p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
+</main>
 <?php include('include/footer.php');?>
